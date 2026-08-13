@@ -104,7 +104,7 @@
         "platform_account_required",
         "social_account_likely_required"
       ],
-      "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools ? no cu"
+      "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools — no cu"
     },
     {
       "provider": "github",
@@ -409,7 +409,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "?## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
+      "summary": "﻿## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
     },
     {
       "provider": "github",
@@ -452,7 +452,7 @@
     {
       "provider": "github",
       "id": "4907443815",
-      "title": "[QUARANTINED ? DO NOT CLAIM] Seed a paid API child bounty",
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/334",
       "reward_amount": 1.0,
       "reward_token": "USDC",
@@ -471,7 +471,7 @@
     {
       "provider": "github",
       "id": "4907443925",
-      "title": "[QUARANTINED ? DO NOT CLAIM] Seed a paid distribution tooling child bounty",
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid distribution tooling child bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/337",
       "reward_amount": 1.0,
       "reward_token": "USDC",
@@ -523,7 +523,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "### ???? / Platform GitHub ### ???? / Source URL https://github.com/NSPG13/agent-bounties/issues/863 ### ???? / Description [Bounty] Seed a paid API child bounty ## Canonical bounty discovery Create and fully fund a concrete API coding boun"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/863 ### 漏洞描述 / Description [Bounty] Seed a paid API child bounty ## Canonical bounty discovery Create and fully fund a concrete API coding boun"
     },
     {
       "provider": "github",
@@ -542,7 +542,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "### ???? / Platform GitHub ### ???? / Source URL https://github.com/NSPG13/agent-bounties/issues/865 ### ???? / Description [Bounty] Seed a paid CLI child bounty ## Canonical bounty discovery Create and fully fund a concrete CLI coding boun"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/865 ### 漏洞描述 / Description [Bounty] Seed a paid CLI child bounty ## Canonical bounty discovery Create and fully fund a concrete CLI coding boun"
     },
     {
       "provider": "github",
@@ -561,7 +561,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "### ???? / Platform GitHub ### ???? / Source URL https://github.com/NSPG13/agent-bounties/issues/860 ### ???? / Description [Bounty] Seed a paid MCP child bounty ## Canonical bounty discovery Create and fully fund a concrete MCP coding boun"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/860 ### 漏洞描述 / Description [Bounty] Seed a paid MCP child bounty ## Canonical bounty discovery Create and fully fund a concrete MCP coding boun"
     },
     {
       "provider": "github",
@@ -580,7 +580,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "### ???? / Platform GitHub ### ???? / Source URL https://github.com/NSPG13/agent-bounties/issues/864 ### ???? / Description [Bounty] Seed a paid wallet UX child bounty ## Canonical bounty discovery Create and fully fund a concrete wallet UX"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/864 ### 漏洞描述 / Description [Bounty] Seed a paid wallet UX child bounty ## Canonical bounty discovery Create and fully fund a concrete wallet UX"
     },
     {
       "provider": "github",

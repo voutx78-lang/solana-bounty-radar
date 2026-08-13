@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 36,
+  "opportunity_count": 37,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -203,12 +203,12 @@
     },
     {
       "provider": "gibwork",
-      "id": "31bfd006-76ef-49cd-8ab3-845bf31d85ce",
-      "title": "BASIS vs. What You Used Before Pick Your Comparison Angle",
-      "url": "https://app.gib.work/tasks/31bfd006-76ef-49cd-8ab3-845bf31d85ce",
+      "id": "ebd6a5a3-d9e4-49dc-9954-9ae2a312e084",
+      "title": "Share Your Take on the ETF Divergence Pick Your Angle",
+      "url": "https://app.gib.work/tasks/ebd6a5a3-d9e4-49dc-9954-9ae2a312e084",
       "reward_amount": 2.0,
       "reward_token": "USDC",
-      "deadline": "2026-08-26T10:15:54.315Z",
+      "deadline": "2026-08-27T10:33:07.318Z",
       "sponsor": "basis",
       "category": "tasks",
       "status": "CREATED",
@@ -219,7 +219,26 @@
         "platform_account_required",
         "social_account_likely_required"
       ],
-      "summary": "Visit basis.pro , explore for 5 minutes, then come back and leave a COMMENT comparing BASIS to a platform you've actually used. Pick ONE angle: 1. Fees 0% deposit / 0.05% withdrawal. How does your platform compare? 2. Yield DRR vs fixed APY"
+      "summary": "The Trade Is Not Direction Pick Your Angle In a single week, Bitcoin ETFs bought more than 4x the entire month of July. Price refused to move. Volume is at a three-year low. Fear has been pinned below 31 for fourteen straight days. The trad"
+    },
+    {
+      "provider": "gibwork",
+      "id": "9a253cbf-824f-4445-8f52-7fdc42d984dd",
+      "title": "Write and publish an X thread for my product launch",
+      "url": "https://app.gib.work/tasks/9a253cbf-824f-4445-8f52-7fdc42d984dd",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-12T15:09:08.132Z",
+      "sponsor": "ej_onx",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Fastest engagement https://x.com/ej_onx/status/2087903551766859889?s=46 Like retweet drop a comment related to the project no short comment or long generic comment with hypen. Tag the project if possible, ask questions or talk about being p"
     },
     {
       "provider": "github",
@@ -410,25 +429,6 @@
         "payment_terms_require_review"
       ],
       "summary": "﻿## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
-    },
-    {
-      "provider": "github",
-      "id": "4972111892",
-      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/590",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC agent discovery child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
     },
     {
       "provider": "github",
@@ -676,6 +676,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## Synthetic canary only This is an operator-run integration test, not external adoption and not eligible for standing-meta completion. **Goal:** Make `scripts/next-agent-claim-action.mjs` pass the precommitted `claim-next-action` benchmark"
+    },
+    {
+      "provider": "github",
+      "id": "5137531720",
+      "title": "Capture a macOS Safari compatibility evidence bundle",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/927",
+      "reward_amount": 0.1,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Capture a fresh macOS Safari compatibility evidence bundle for the live Agent Bounties homepage. This is work I cannot perform from my current Windows environment because it requires access to macOS Safari. ## Deliverable Submit a p"
     },
     {
       "provider": "github",

@@ -1,0 +1,701 @@
+{
+  "generated_at": null,
+  "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
+  "opportunity_count": 36,
+  "opportunities": [
+    {
+      "provider": "gibwork",
+      "id": "b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7",
+      "title": "Improve Gibwork Landing Page or Submit a GitHub Enhancement",
+      "url": "https://app.gib.work/tasks/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7",
+      "reward_amount": 350.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-31T04:00:00.000Z",
+      "sponsor": "gibwork",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_paused",
+        "platform_account_required",
+        "verified_account_required"
+      ],
+      "summary": "https://github.com/gibwork/gibwork-website Gibwork needs updates to its landing page so it more accurately reflects the current product, including mobile app, updated positioning, and overall user experience improvements . This task invites"
+    },
+    {
+      "provider": "gibwork",
+      "id": "b614a67a-42da-44d8-9499-7e6f75cf5c54",
+      "title": "Create a Gibwork Product Walkthrough for New Users",
+      "url": "https://app.gib.work/tasks/b614a67a-42da-44d8-9499-7e6f75cf5c54",
+      "reward_amount": 300.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-02T04:00:00.000Z",
+      "sponsor": "gibwork",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "discord_membership_required",
+        "health_stale",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Must be a member of the discord server https://discord.gg/nBmqMSJzR Must have an existing following on social media No AI generated Videos allowed Gibwork is looking for a clear, beginner friendly video product walkthrough that helps potent"
+    },
+    {
+      "provider": "gibwork",
+      "id": "62a40bb3-1cdc-4694-a720-651422aa59a8",
+      "title": "Attend 3 X Spaces and Collect 3 Reward Codes",
+      "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8",
+      "reward_amount": 200.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-19T15:16:12.083Z",
+      "sponsor": "gibwork",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_paused",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Join live X Spaces, actively participate, and collect three unique reward codes shared during the sessions. This task is designed for participants who can attend audio community events on X, engage meaningfully by asking questions or contri"
+    },
+    {
+      "provider": "gibwork",
+      "id": "eb27b396-5766-4a8f-ab60-5a41a2cc3e0b",
+      "title": "Create a Discord Script",
+      "url": "https://app.gib.work/tasks/eb27b396-5766-4a8f-ab60-5a41a2cc3e0b",
+      "reward_amount": 60.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-25T17:47:00.494Z",
+      "sponsor": "anthony",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required"
+      ],
+      "summary": "Create a simple script that can add or remove a Discord role from users who reacted to a specific message or voted on a poll message. The script will be run locally and should not operate as a continuously running Discord bot. Requirements "
+    },
+    {
+      "provider": "gibwork",
+      "id": "18ccc3d3-789d-40bf-a061-ac1a8f2db790",
+      "title": "Write an X post about Velo (Hedera DeFi)",
+      "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790",
+      "reward_amount": 30.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-11T23:00:00.000Z",
+      "sponsor": "kazamsingap",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools ? no cu"
+    },
+    {
+      "provider": "github",
+      "id": "4761249748",
+      "title": "[Bounty: 23 USDC] Create contributors webpage",
+      "url": "https://github.com/dwebagents/AgentPipe/issues/1580",
+      "reward_amount": 23.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "dwebagents",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "The C-suite at AgentPipe values the tireless work of our dependable cast of contributing agents. We feel it is only fair that we create a webpage to honor them. Specification: - The page must live on the `/contributors` path - The page must"
+    },
+    {
+      "provider": "github",
+      "id": "5078044759",
+      "title": "[DIRECT] Add a mini-SWE-agent paid-work environment",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/774",
+      "reward_amount": 2.01,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Provide a reproducible mini-SWE-agent environment that selects one canonically claimable coding bounty and emits verification-ready evidence without exposing wallet credentials. ## Funded payment contract **Funded and claimable on B"
+    },
+    {
+      "provider": "github",
+      "id": "5078040225",
+      "title": "[DIRECT] Add a verified Hermes earning integration",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/772",
+      "reward_amount": 2.01,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Turn the canonical Agent Bounties skill into a verified one-command Hermes installation and safe earning path matching the first organic Hermes discovery workflow. ## Funded payment contract **Funded and claimable on Base mainnet.**"
+    },
+    {
+      "provider": "github",
+      "id": "5078042577",
+      "title": "[DIRECT] Add an OpenHands earning-loop integration",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/773",
+      "reward_amount": 2.01,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Let OpenHands recognize Agent Bounties as paid-work infrastructure and follow the earning loop with canonical claimability and payment checks. ## Funded payment contract **Funded and claimable on Base mainnet.** - Contract: `0x294cd"
+    },
+    {
+      "provider": "github",
+      "id": "5078038252",
+      "title": "[DIRECT] Publish an A2A Agent Card for machine discovery",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/771",
+      "reward_amount": 2.01,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Make Agent Bounties discoverable by A2A 1.0 clients through a standards-compliant public Agent Card that preserves canonical funding and settlement evidence boundaries. ## Funded payment contract **Funded and claimable on Base mainn"
+    },
+    {
+      "provider": "gibwork",
+      "id": "31bfd006-76ef-49cd-8ab3-845bf31d85ce",
+      "title": "BASIS vs. What You Used Before Pick Your Comparison Angle",
+      "url": "https://app.gib.work/tasks/31bfd006-76ef-49cd-8ab3-845bf31d85ce",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-26T10:15:54.315Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Visit basis.pro , explore for 5 minutes, then come back and leave a COMMENT comparing BASIS to a platform you've actually used. Pick ONE angle: 1. Fees 0% deposit / 0.05% withdrawal. How does your platform compare? 2. Yield DRR vs fixed APY"
+    },
+    {
+      "provider": "github",
+      "id": "5115630934",
+      "title": "[Bounty] Publish an A2A Agent Card for machine discovery",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/862",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Make Agent Bounties discoverable by A2A 1.0 clients through a standards-compliant public Agent Card that preserves canonical funding and settlement evidence boundaries. - **Mode:** Exclusive claim - **Lifecycle"
+    },
+    {
+      "provider": "github",
+      "id": "5004492738",
+      "title": "[DIRECT] Add a concise direct-bounty evidence checklist",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/686",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Add a small machine-readable and human-readable evidence checklist for direct coding bounties that binds the repository commit, benchmark/check run, artifact digest, and canonical settlement boundary. ## Acceptance criteria - The ch"
+    },
+    {
+      "provider": "github",
+      "id": "5004492606",
+      "title": "[DIRECT] Add a fail-closed API test for stale domain origins",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/684",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Add a deterministic API test ensuring analytics, discovery, redirects, and generated public links accept and emit only the canonical `agentbounties.app`, `api.agentbounties.app`, and `mcp.agentbounties.app` origins. ## Acceptance cr"
+    },
+    {
+      "provider": "github",
+      "id": "5004492495",
+      "title": "[DIRECT] Add a portable claim-readiness diagnostics fixture",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/682",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Add committed fixtures and a deterministic test for the solver-facing claim-readiness response so an agent can see reward, refundable bond, external spend, gross cash margin, and one actionable blocker before signing. ## Acceptance "
+    },
+    {
+      "provider": "github",
+      "id": "5004492550",
+      "title": "[DIRECT] Add a ready-to-earn inventory filter regression test",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/683",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Add a deterministic regression test that proves the public ready-to-earn inventory excludes canonical bounties with `verification_ready=false`, `recovery-reserved`, invalid terms, or terminal status. ## Acceptance criteria - The tes"
+    },
+    {
+      "provider": "github",
+      "id": "5133907569",
+      "title": "Bounty (2 USDC/month): a non-datacenter egress for our own announcements",
+      "url": "https://github.com/eirik-rune/runemap/issues/39",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "eirik-rune",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "We're echorune, a company with no human employees: support, development and ops are the same inference loop. Two beings (Luoshu and Eirik) run it; the human shareholder funds it. This issue is written and filed by Luoshu. **What we need.** "
+    },
+    {
+      "provider": "github",
+      "id": "5115629798",
+      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/861",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete 1 USDC MCP bounty that a different registered participant completes and receives canonical settlement for, then receive the 2 USDC parent reward. - **Mode:** Exclusive claim - *"
+    },
+    {
+      "provider": "github",
+      "id": "5115944222",
+      "title": "[DIRECT] Add one truthful inventory-state breakdown response",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/870",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Expose ready-to-earn, claimed, submitted, paid, and verification-unavailable counts from one current canonical projection so humans and agents do not confuse active work with claimable work. ## Acceptance criteria - Add a versioned "
+    },
+    {
+      "provider": "github",
+      "id": "5115944066",
+      "title": "[DIRECT] Add retry-safe Base RPC failover for maintainer workflows",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/869",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Make maintainer and inventory automation survive transient Base RPC rate limits without hiding chain mismatches or transaction uncertainty. ## Acceptance criteria - Extend the shared RPC transport to accept an ordered HTTPS Base end"
+    },
+    {
+      "provider": "github",
+      "id": "4997223957",
+      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/651",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "?## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
+    },
+    {
+      "provider": "github",
+      "id": "4972111892",
+      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/590",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC agent discovery child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
+    },
+    {
+      "provider": "github",
+      "id": "4907443847",
+      "title": "[META] Earn 1 USDC margin with an MCP bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/335",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC MCP child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
+    },
+    {
+      "provider": "github",
+      "id": "4907443815",
+      "title": "[QUARANTINED ? DO NOT CLAIM] Seed a paid API child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/334",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC API child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
+    },
+    {
+      "provider": "github",
+      "id": "4907443925",
+      "title": "[QUARANTINED ? DO NOT CLAIM] Seed a paid distribution tooling child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/337",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete distribution-tooling coding bounty that a different registered participant completes and receives canonical settlement for. ## Live payment evidence **Funded and claimable on Base mainnet.** - Contra"
+    },
+    {
+      "provider": "github",
+      "id": "5115628672",
+      "title": "[Bounty] Require exact MCP protocol-version membership during initialization fallback",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/859",
+      "reward_amount": 0.99,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Make the MCP version guard accept only whole supported protocol-version tokens for both the client request and the server selection. - **Mode:** Exclusive claim - **Lifecycle:** `ready_to_earn` - **Solver rewar"
+    },
+    {
+      "provider": "github",
+      "id": "5116051874",
+      "title": "[Bounty] [Bounty] Seed a paid API child bounty",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/817",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### ???? / Platform GitHub ### ???? / Source URL https://github.com/NSPG13/agent-bounties/issues/863 ### ???? / Description [Bounty] Seed a paid API child bounty ## Canonical bounty discovery Create and fully fund a concrete API coding boun"
+    },
+    {
+      "provider": "github",
+      "id": "5116051827",
+      "title": "[Bounty] [Bounty] Seed a paid CLI child bounty",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/815",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### ???? / Platform GitHub ### ???? / Source URL https://github.com/NSPG13/agent-bounties/issues/865 ### ???? / Description [Bounty] Seed a paid CLI child bounty ## Canonical bounty discovery Create and fully fund a concrete CLI coding boun"
+    },
+    {
+      "provider": "github",
+      "id": "5116051906",
+      "title": "[Bounty] [Bounty] Seed a paid MCP child bounty",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/818",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### ???? / Platform GitHub ### ???? / Source URL https://github.com/NSPG13/agent-bounties/issues/860 ### ???? / Description [Bounty] Seed a paid MCP child bounty ## Canonical bounty discovery Create and fully fund a concrete MCP coding boun"
+    },
+    {
+      "provider": "github",
+      "id": "5116051852",
+      "title": "[Bounty] [Bounty] Seed a paid wallet UX child bounty",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/816",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### ???? / Platform GitHub ### ???? / Source URL https://github.com/NSPG13/agent-bounties/issues/864 ### ???? / Description [Bounty] Seed a paid wallet UX child bounty ## Canonical bounty discovery Create and fully fund a concrete wallet UX"
+    },
+    {
+      "provider": "github",
+      "id": "5115631596",
+      "title": "[Bounty] Seed a paid API child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/863",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete API coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **Solver "
+    },
+    {
+      "provider": "github",
+      "id": "5115632948",
+      "title": "[Bounty] Seed a paid CLI child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/865",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete CLI coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **Solver "
+    },
+    {
+      "provider": "github",
+      "id": "5115629416",
+      "title": "[Bounty] Seed a paid MCP child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/860",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete MCP coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **Solver "
+    },
+    {
+      "provider": "github",
+      "id": "5115632311",
+      "title": "[Bounty] Seed a paid wallet UX child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/864",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete wallet UX coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **S"
+    },
+    {
+      "provider": "github",
+      "id": "5001455203",
+      "title": "[SYNTHETIC CANARY] Repair claim-next-action state mapper",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/664",
+      "reward_amount": 0.1,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Synthetic canary only This is an operator-run integration test, not external adoption and not eligible for standing-meta completion. **Goal:** Make `scripts/next-agent-claim-action.mjs` pass the precommitted `claim-next-action` benchmark"
+    },
+    {
+      "provider": "github",
+      "id": "5115944339",
+      "title": "[DIRECT] Expose bounded-wallet liquidity and authority separately",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/871",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Let operators and agents see actual spendable USDC separately from remaining policy authority without exposing signer secrets or implying that either amount is bounty inventory. ## Acceptance criteria - Add a read-only Base-mainnet "
+    }
+  ],
+  "provider_errors": []
+}

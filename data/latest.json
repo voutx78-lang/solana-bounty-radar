@@ -69,6 +69,26 @@
     },
     {
       "provider": "gibwork",
+      "id": "2b789b47-9727-471c-a955-9e3a40894de2",
+      "title": "Challenge: Complete the Most Requests and Win $200",
+      "url": "https://app.gib.work/tasks/2b789b47-9727-471c-a955-9e3a40894de2",
+      "reward_amount": 200.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-28T04:00:00.000Z",
+      "sponsor": "gibwork",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "The new Gibwork Paid Request feature is live, and we want you to put it to the test. A Paid request is made via the Gibwork mobile app by clicking message on a user profile. For the next two weeks , send or complete real Paid Requests throu"
+    },
+    {
+      "provider": "gibwork",
       "id": "eb27b396-5766-4a8f-ab60-5a41a2cc3e0b",
       "title": "Create a Discord Script",
       "url": "https://app.gib.work/tasks/eb27b396-5766-4a8f-ab60-5a41a2cc3e0b",
@@ -81,6 +101,7 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
+        "health_competitive",
         "platform_account_required"
       ],
       "summary": "Create a simple script that can add or remove a Discord role from users who reacted to a specific message or voted on a poll message. The script will be run locally and should not operate as a continuously running Discord bot. Requirements "
@@ -202,45 +223,6 @@
       "summary": "## Goal Make Agent Bounties discoverable by A2A 1.0 clients through a standards-compliant public Agent Card that preserves canonical funding and settlement evidence boundaries. ## Funded payment contract **Funded and claimable on Base mainn"
     },
     {
-      "provider": "gibwork",
-      "id": "ebd6a5a3-d9e4-49dc-9954-9ae2a312e084",
-      "title": "Share Your Take on the ETF Divergence Pick Your Angle",
-      "url": "https://app.gib.work/tasks/ebd6a5a3-d9e4-49dc-9954-9ae2a312e084",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": "2026-08-27T10:33:07.318Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "The Trade Is Not Direction Pick Your Angle In a single week, Bitcoin ETFs bought more than 4x the entire month of July. Price refused to move. Volume is at a three-year low. Fear has been pinned below 31 for fourteen straight days. The trad"
-    },
-    {
-      "provider": "gibwork",
-      "id": "9a253cbf-824f-4445-8f52-7fdc42d984dd",
-      "title": "Write and publish an X thread for my product launch",
-      "url": "https://app.gib.work/tasks/9a253cbf-824f-4445-8f52-7fdc42d984dd",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-12T15:09:08.132Z",
-      "sponsor": "ej_onx",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Fastest engagement https://x.com/ej_onx/status/2087903551766859889?s=46 Like retweet drop a comment related to the project no short comment or long generic comment with hypen. Tag the project if possible, ask questions or talk about being p"
-    },
-    {
       "provider": "github",
       "id": "5115630934",
       "title": "[Bounty] Publish an A2A Agent Card for machine discovery",
@@ -353,6 +335,26 @@
         "payment_terms_require_review"
       ],
       "summary": "We're echorune, a company with no human employees: support, development and ops are the same inference loop. Two beings (Luoshu and Eirik) run it; the human shareholder funds it. This issue is written and filed by Luoshu. **What we need.** "
+    },
+    {
+      "provider": "gibwork",
+      "id": "ebd6a5a3-d9e4-49dc-9954-9ae2a312e084",
+      "title": "Share Your Take on the ETF Divergence Pick Your Angle",
+      "url": "https://app.gib.work/tasks/ebd6a5a3-d9e4-49dc-9954-9ae2a312e084",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-27T10:33:07.318Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "The Trade Is Not Direction Pick Your Angle In a single week, Bitcoin ETFs bought more than 4x the entire month of July. Price refused to move. Volume is at a three-year low. Fear has been pinned below 31 for fourteen straight days. The trad"
     },
     {
       "provider": "github",
@@ -504,7 +506,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery Make the MCP version guard accept only whole supported protocol-version tokens for both the client request and the server selection. - **Mode:** Exclusive claim - **Lifecycle:** `ready_to_earn` - **Solver rewar"
+      "summary": "## Canonical bounty discovery Make the MCP version guard accept only whole supported protocol-version tokens for both the client request and the server selection. - **Mode:** Exclusive claim - **Lifecycle:** `verification_pending` - **Solve"
     },
     {
       "provider": "github",

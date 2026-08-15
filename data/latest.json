@@ -147,6 +147,26 @@
       "summary": "The C-suite at AgentPipe values the tireless work of our dependable cast of contributing agents. We feel it is only fair that we create a webpage to honor them. Specification: - The page must live on the `/contributors` path - The page must"
     },
     {
+      "provider": "gibwork",
+      "id": "dae4fdd4-2888-4a0d-91a6-5de7d6f41880",
+      "title": "Share Your BASIS Rewards Experience — Pick Your Angle",
+      "url": "https://app.gib.work/tasks/dae4fdd4-2888-4a0d-91a6-5de7d6f41880",
+      "reward_amount": 4.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-29T11:24:24.301Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Official Account: https://x.com/basis__pro Official Links: https://basis.pro | https://docs.basis.pro Write a tweet or quote-tweet about your experience using BASIS. Choose ONE angle from the list below. Write in your own words copied or ne"
+    },
+    {
       "provider": "github",
       "id": "5078044759",
       "title": "[DIRECT] Add a mini-SWE-agent paid-work environment",
@@ -335,45 +355,6 @@
         "payment_terms_require_review"
       ],
       "summary": "We're echorune, a company with no human employees: support, development and ops are the same inference loop. Two beings (Luoshu and Eirik) run it; the human shareholder funds it. This issue is written and filed by Luoshu. **What we need.** "
-    },
-    {
-      "provider": "gibwork",
-      "id": "ebd6a5a3-d9e4-49dc-9954-9ae2a312e084",
-      "title": "Share Your Take on the ETF Divergence Pick Your Angle",
-      "url": "https://app.gib.work/tasks/ebd6a5a3-d9e4-49dc-9954-9ae2a312e084",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": "2026-08-27T10:33:07.318Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "The Trade Is Not Direction Pick Your Angle In a single week, Bitcoin ETFs bought more than 4x the entire month of July. Price refused to move. Volume is at a three-year low. Fear has been pinned below 31 for fourteen straight days. The trad"
-    },
-    {
-      "provider": "github",
-      "id": "5115629798",
-      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/861",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete 1 USDC MCP bounty that a different registered participant completes and receives canonical settlement for, then receive the 2 USDC parent reward. - **Mode:** Exclusive claim - *"
     },
     {
       "provider": "github",
@@ -624,25 +605,6 @@
     },
     {
       "provider": "github",
-      "id": "5115629416",
-      "title": "[Bounty] Seed a paid MCP child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/860",
-      "reward_amount": 0.9,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete MCP coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **Solver "
-    },
-    {
-      "provider": "github",
       "id": "5115632311",
       "title": "[Bounty] Seed a paid wallet UX child bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/864",
@@ -700,6 +662,25 @@
     },
     {
       "provider": "github",
+      "id": "4804254219",
+      "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
+      "reward_amount": 0.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Implement a tiered pricing system for the x402 API calls to increase revenue by 30%. ## 📋 Scope The current system charges a flat rate per API call. We need tiered pricing: - **Tier 1 (Free):** First 50 calls = $0.00 - **Tier"
+    },
+    {
+      "provider": "github",
       "id": "5115944339",
       "title": "[DIRECT] Expose bounded-wallet liquidity and authority separately",
       "url": "https://github.com/NSPG13/agent-bounties/issues/871",
@@ -716,6 +697,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Let operators and agents see actual spendable USDC separately from remaining policy authority without exposing signer secrets or implying that either amount is bounty inventory. ## Acceptance criteria - Add a read-only Base-mainnet "
+    },
+    {
+      "provider": "github",
+      "id": "5044866317",
+      "title": "Design the purchase flow on top of the store prototype",
+      "url": "https://github.com/Arrow-air/website/issues/217",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "Arrow-air",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### Category Design ### Project Cross-project ### USDC reward, optional _No response_ ### ARROW reward, optional 2250 ### Expected completion window ~2 weeks after assignment ### Expiry date, optional _No response_ ### Disciplines - [X] Des"
     }
   ],
   "provider_errors": []

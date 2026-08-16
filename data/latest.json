@@ -120,7 +120,6 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "crowded_50_plus_pending",
         "health_overcrowded",
         "platform_account_required",
         "social_account_likely_required"
@@ -151,7 +150,7 @@
       "id": "dae4fdd4-2888-4a0d-91a6-5de7d6f41880",
       "title": "Share Your BASIS Rewards Experience — Pick Your Angle",
       "url": "https://app.gib.work/tasks/dae4fdd4-2888-4a0d-91a6-5de7d6f41880",
-      "reward_amount": 4.0,
+      "reward_amount": 5.0,
       "reward_token": "USDC",
       "deadline": "2026-08-29T11:24:24.301Z",
       "sponsor": "basis",

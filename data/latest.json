@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 37,
+  "opportunity_count": 39,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -101,30 +101,29 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "health_competitive",
         "platform_account_required"
       ],
       "summary": "Create a simple script that can add or remove a Discord role from users who reacted to a specific message or voted on a poll message. The script will be run locally and should not operate as a continuously running Discord bot. Requirements "
     },
     {
       "provider": "gibwork",
-      "id": "18ccc3d3-789d-40bf-a061-ac1a8f2db790",
-      "title": "Write an X post about Velo (Hedera DeFi)",
-      "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790",
-      "reward_amount": 30.0,
+      "id": "0695edbb-c9c1-4dcd-a257-496658d0cb09",
+      "title": "Give feedback on the devrels.xyz onboarding bounty",
+      "url": "https://app.gib.work/tasks/0695edbb-c9c1-4dcd-a257-496658d0cb09",
+      "reward_amount": 25.0,
       "reward_token": "USDC",
-      "deadline": "2026-09-11T23:00:00.000Z",
-      "sponsor": "kazamsingap",
+      "deadline": "2026-08-30T22:28:50.875Z",
+      "sponsor": "metasal",
       "category": "tasks",
       "status": "CREATED",
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
+        "crowded_50_plus_pending",
         "health_overcrowded",
-        "platform_account_required",
-        "social_account_likely_required"
+        "platform_account_required"
       ],
-      "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools — no cu"
+      "summary": "Bounty Description This bounty is for reviewing the devrels.xyz onboarding flow and identifying what should be improved. • Go through the full onboarding flow on devrels.xyz as a new user. • Focus your bounty feedback on clarity of copy and"
     },
     {
       "provider": "github",
@@ -147,12 +146,51 @@
     },
     {
       "provider": "gibwork",
-      "id": "dae4fdd4-2888-4a0d-91a6-5de7d6f41880",
-      "title": "Share Your BASIS Rewards Experience — Pick Your Angle",
-      "url": "https://app.gib.work/tasks/dae4fdd4-2888-4a0d-91a6-5de7d6f41880",
-      "reward_amount": 5.0,
+      "id": "18ccc3d3-789d-40bf-a061-ac1a8f2db790",
+      "title": "Write an X post about Velo (Hedera DeFi)",
+      "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790",
+      "reward_amount": 13.0,
       "reward_token": "USDC",
-      "deadline": "2026-08-29T11:24:24.301Z",
+      "deadline": "2026-09-11T23:00:00.000Z",
+      "sponsor": "kazamsingap",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools — no cu"
+    },
+    {
+      "provider": "gibwork",
+      "id": "8470175e-97da-49e8-9b23-4ce91766eb7e",
+      "title": "Join Startale App",
+      "url": "https://app.gib.work/tasks/8470175e-97da-49e8-9b23-4ce91766eb7e",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-31T11:43:10.997Z",
+      "sponsor": "risingstars",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_overcrowded",
+        "platform_account_required"
+      ],
+      "summary": "🔗 Join Startale App via my referral link:- https://app.startale.com/sign-up?code=TNHZBS37 Please use the referral link above to create your new Startale App account. Join Startale App, create your in-app wallet, complete genuine Soneium onc"
+    },
+    {
+      "provider": "gibwork",
+      "id": "bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1",
+      "title": "Share Your BASIS Portfolio Pick ONE angle",
+      "url": "https://app.gib.work/tasks/bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1",
+      "reward_amount": 4.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-21T00:00:00.000Z",
       "sponsor": "basis",
       "category": "tasks",
       "status": "CREATED",
@@ -163,7 +201,7 @@
         "platform_account_required",
         "social_account_likely_required"
       ],
-      "summary": "Official Account: https://x.com/basis__pro Official Links: https://basis.pro | https://docs.basis.pro Write a tweet or quote-tweet about your experience using BASIS. Choose ONE angle from the list below. Write in your own words copied or ne"
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. Which asset you stake (BTC / ETH / SOL / PAXG) and why you picked it 2. How you split"
     },
     {
       "provider": "github",
@@ -566,25 +604,6 @@
     },
     {
       "provider": "github",
-      "id": "5115631596",
-      "title": "[Bounty] Seed a paid API child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/863",
-      "reward_amount": 0.9,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete API coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **Solver "
-    },
-    {
-      "provider": "github",
       "id": "5115632948",
       "title": "[Bounty] Seed a paid CLI child bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/865",
@@ -696,6 +715,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Let operators and agents see actual spendable USDC separately from remaining policy authority without exposing signer secrets or implying that either amount is bounty inventory. ## Acceptance criteria - Add a read-only Base-mainnet "
+    },
+    {
+      "provider": "github",
+      "id": "5103131031",
+      "title": "[high] [bounty] Integrate Soroban credit-escrow contract into gateway charge flow",
+      "url": "https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/5",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "Pay-Per-Token-LLM-Gateway",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Overview The credit-escrow Soroban contract is implemented and tested, but the gateway doesn't call it yet. Wire up the contract so users can deposit USDC on-chain and have it deducted per-request instead of paying per-request. ## Requir"
     },
     {
       "provider": "github",

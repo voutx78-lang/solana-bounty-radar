@@ -53,7 +53,7 @@
       "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8",
       "reward_amount": 200.0,
       "reward_token": "USDC",
-      "deadline": "2026-08-19T15:16:12.083Z",
+      "deadline": "2026-08-26T04:00:00.000Z",
       "sponsor": "gibwork",
       "category": "tasks",
       "status": "CREATED",
@@ -178,30 +178,86 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "health_overcrowded",
+        "health_stale",
         "platform_account_required"
       ],
       "summary": "🔗 Join Startale App via my referral link:- https://app.startale.com/sign-up?code=TNHZBS37 Please use the referral link above to create your new Startale App account. Join Startale App, create your in-app wallet, complete genuine Soneium onc"
     },
     {
-      "provider": "gibwork",
-      "id": "bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1",
-      "title": "Share Your BASIS Portfolio Pick ONE angle",
-      "url": "https://app.gib.work/tasks/bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1",
-      "reward_amount": 4.0,
-      "reward_token": "USDC",
-      "deadline": "2026-08-21T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
+      "provider": "github",
+      "id": "4804259945",
+      "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
+      "reward_amount": 10.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
       "autonomous": false,
       "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
+        "escrow_unverified",
+        "payment_terms_require_review"
       ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. Which asset you stake (BTC / ETH / SOL / PAXG) and why you picked it 2. How you split"
+      "summary": "## 🎯 Objective Trigger a contextual upgrade prompt when a user reaches 50% of their free credit limit. ## 📋 Scope When a user makes their 5th free call (out of 10): 1. System inserts a row in `upsell_triggers` table 2. Response includes `X-"
+    },
+    {
+      "provider": "github",
+      "id": "4804258605",
+      "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
+      "reward_amount": 10.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Build a referral system that awards 5 free credits per successful referral conversion. ## 📋 Scope When user A refers user B: 1. User B signs up and makes their first paid call 2. User A automatically receives 5 free credits 3"
+    },
+    {
+      "provider": "github",
+      "id": "4804271831",
+      "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
+      "reward_amount": 10.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
+    },
+    {
+      "provider": "github",
+      "id": "4804273523",
+      "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
+      "reward_amount": 5.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Build an agent that automatically generates blog posts, Twitter/X threads, and social cards from bounty completion events. ## 📋 Scope Every time a bounty is completed (PR merged, `execution_status = done`): 1. Agent reads the"
     },
     {
       "provider": "github",
@@ -394,6 +450,26 @@
       "summary": "We're echorune, a company with no human employees: support, development and ops are the same inference loop. Two beings (Luoshu and Eirik) run it; the human shareholder funds it. This issue is written and filed by Luoshu. **What we need.** "
     },
     {
+      "provider": "gibwork",
+      "id": "bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1",
+      "title": "Share Your BASIS Portfolio Pick ONE angle",
+      "url": "https://app.gib.work/tasks/bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-21T00:00:00.000Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. Which asset you stake (BTC / ETH / SOL / PAXG) and why you picked it 2. How you split"
+    },
+    {
       "provider": "github",
       "id": "5115944222",
       "title": "[DIRECT] Add one truthful inventory-state breakdown response",
@@ -547,25 +623,6 @@
     },
     {
       "provider": "github",
-      "id": "5116051827",
-      "title": "[Bounty] [Bounty] Seed a paid CLI child bounty",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/815",
-      "reward_amount": 0.9,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/865 ### 漏洞描述 / Description [Bounty] Seed a paid CLI child bounty ## Canonical bounty discovery Create and fully fund a concrete CLI coding boun"
-    },
-    {
-      "provider": "github",
       "id": "5116051906",
       "title": "[Bounty] [Bounty] Seed a paid MCP child bounty",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/818",
@@ -582,63 +639,6 @@
         "payment_terms_require_review"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/860 ### 漏洞描述 / Description [Bounty] Seed a paid MCP child bounty ## Canonical bounty discovery Create and fully fund a concrete MCP coding boun"
-    },
-    {
-      "provider": "github",
-      "id": "5116051852",
-      "title": "[Bounty] [Bounty] Seed a paid wallet UX child bounty",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/816",
-      "reward_amount": 0.9,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/864 ### 漏洞描述 / Description [Bounty] Seed a paid wallet UX child bounty ## Canonical bounty discovery Create and fully fund a concrete wallet UX"
-    },
-    {
-      "provider": "github",
-      "id": "5115632948",
-      "title": "[Bounty] Seed a paid CLI child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/865",
-      "reward_amount": 0.9,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete CLI coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **Solver "
-    },
-    {
-      "provider": "github",
-      "id": "5115632311",
-      "title": "[Bounty] Seed a paid wallet UX child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/864",
-      "reward_amount": 0.9,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete wallet UX coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **S"
     },
     {
       "provider": "github",

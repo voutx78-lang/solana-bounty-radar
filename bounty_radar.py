@@ -261,9 +261,104 @@ def fetch_github() -> list[Opportunity]:
     return [normalize_github(item) for item in items]
 
 
+ALGORA_REWARD_PATTERN = re.compile(
+    r"\bis offering an?\s+\*\*\$(?P<amount>(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?)\*\*\s+bounty\b",
+    re.IGNORECASE,
+)
+
+
+def extract_algora_reward(comments: Iterable[dict[str, Any]]) -> float | None:
+    for comment in reversed(list(comments)):
+        user = comment.get("user") or {}
+        if user.get("login") != "algora-pbc":
+            continue
+        match = ALGORA_REWARD_PATTERN.search(str(comment.get("body") or ""))
+        if match:
+            return float(match.group("amount").replace(",", ""))
+    return None
+
+
+def normalize_algora(
+    item: dict[str, Any],
+    reward_amount: float,
+    repository: dict[str, Any] | None = None,
+) -> Opportunity:
+    repository_url = str(item.get("repository_url") or "")
+    sponsor = repository_url.rsplit("/", 2)[-2] if "/" in repository_url else None
+    risk_flags = ["platform_account_required", "payment_profile_required", "bounty_status_requires_review"]
+    summary = "Bounty announced by Algora's official GitHub account. Verify that it remains funded and unclaimed before starting."
+    if repository:
+        stars = repository.get("stargazers_count")
+        if isinstance(stars, int) and stars < 5:
+            risk_flags.append("low_signal_repository")
+        if repository.get("fork"):
+            risk_flags.append("forked_repository")
+        summary = f"Official Algora announcement; repository has {stars or 0:,} GitHub stars. Confirm funding and claim status before starting."
+    else:
+        risk_flags.append("repository_metadata_unavailable")
+    return Opportunity(
+        provider="algora",
+        id=str(item.get("id", "")),
+        title=str(item.get("title", "Untitled issue")),
+        url=str(item.get("html_url", "")),
+        reward_amount=reward_amount,
+        reward_token="USD",
+        sponsor=sponsor,
+        category="issue",
+        status=str(item.get("state", "open")),
+        submission_mode="github_pr_plus_platform_account",
+        autonomous=False,
+        risk_flags=risk_flags,
+        summary=summary,
+    )
+
+
+def fetch_algora() -> list[Opportunity]:
+    headers = {"Accept": "application/vnd.github+json"}
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    params = {
+        "q": "is:issue is:open commenter:algora-pbc",
+        "sort": "updated",
+        "order": "desc",
+        "per_page": 50,
+    }
+    data = fetch_json(f"https://api.github.com/search/issues?{urlencode(params)}", headers=headers)
+    items = data.get("items") if isinstance(data, dict) else None
+    if not isinstance(items, list):
+        raise RadarError("GitHub returned an invalid Algora issue search response")
+
+    opportunities: list[Opportunity] = []
+    for item in items:
+        comments_url = item.get("comments_url")
+        if not comments_url:
+            continue
+        try:
+            comments = fetch_json(f"{comments_url}?per_page=100", headers=headers)
+        except Exception:
+            continue
+        if not isinstance(comments, list):
+            continue
+        reward_amount = extract_algora_reward(comments)
+        if reward_amount is not None:
+            repository = None
+            repository_url = item.get("repository_url")
+            if repository_url:
+                try:
+                    repository = fetch_json(repository_url, headers=headers)
+                except Exception:
+                    repository = None
+            if isinstance(repository, dict) and repository.get("archived"):
+                continue
+            opportunities.append(normalize_algora(item, reward_amount, repository))
+    return opportunities
+
+
 PROVIDERS = {
     "superteam": fetch_superteam,
     "gibwork": fetch_gibwork,
+    "algora": fetch_algora,
     "github": fetch_github,
 }
 

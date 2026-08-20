@@ -31,6 +31,11 @@ const riskLabels = {
   health_overcrowded: "Overcrowded",
   listing_quarantined: "Do not claim",
   mirror_listing: "Mirror listing",
+  payment_profile_required: "Payment profile required",
+  bounty_status_requires_review: "Confirm still funded",
+  low_signal_repository: "Low-signal repository",
+  forked_repository: "Forked repository",
+  repository_metadata_unavailable: "Repository metadata unavailable",
 };
 
 function formatReward(item) {

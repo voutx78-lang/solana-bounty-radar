@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 39,
+  "opportunity_count": 52,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -78,6 +78,26 @@
       "summary": "ONLY FOR NEW USERS!!! GN everyone, there are some points you should consider: 1) Follow the link: https://x.com/toshiro_rwa/status/2090185365923504384?s=46 2) Like the post; 3) Follow the link in the post, download the app and register thro"
     },
     {
+      "provider": "algora",
+      "id": "2959305187",
+      "title": "[BOUNTY] WearOS Support [$1340]",
+      "url": "https://github.com/microg/GmsCore/issues/2843",
+      "reward_amount": 1340.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "microg",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review"
+      ],
+      "summary": "Official Algora announcement; repository has 14,294 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
       "provider": "gibwork",
       "id": "2b789b47-9727-471c-a955-9e3a40894de2",
       "title": "Challenge: Complete the Most Requests and Win $200",
@@ -96,6 +116,86 @@
         "verified_account_required"
       ],
       "summary": "The new Gibwork Paid Request feature is live, and we want you to put it to the test. A Paid request is made via the Gibwork mobile app by clicking message on a user profile. For the next two weeks , complete real Paid Requests through Gibwo"
+    },
+    {
+      "provider": "algora",
+      "id": "464373449",
+      "title": "Non-ASCII queries (UTF-8)?",
+      "url": "https://github.com/rc0/mairix/issues/29",
+      "reward_amount": 150.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "rc0",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review"
+      ],
+      "summary": "Official Algora announcement; repository has 141 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "algora",
+      "id": "1994771240",
+      "title": "Option to return errors as JSON",
+      "url": "https://github.com/elysiajs/elysia/issues/313",
+      "reward_amount": 100.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "elysiajs",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review"
+      ],
+      "summary": "Official Algora announcement; repository has 18,926 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "algora",
+      "id": "2782641291",
+      "title": "Use pglite so that postgres isn't required when generating types",
+      "url": "https://github.com/seveibar/pgstrap/issues/2",
+      "reward_amount": 30.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "seveibar",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review"
+      ],
+      "summary": "Official Algora announcement; repository has 41 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "algora",
+      "id": "3113543796",
+      "title": "[Enhancement]: Support for Sora Video Generation (Azure OpenAI Integration)",
+      "url": "https://github.com/danny-avila/LibreChat/issues/7702",
+      "reward_amount": 25.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "danny-avila",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review"
+      ],
+      "summary": "Official Algora announcement; repository has 42,286 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -136,6 +236,86 @@
         "social_account_likely_required"
       ],
       "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools — no cu"
+    },
+    {
+      "provider": "algora",
+      "id": "3264413457",
+      "title": "\"Unresolved Reference\" on .md files in subfolders",
+      "url": "https://github.com/Feel-ix-343/markdown-oxide/issues/274",
+      "reward_amount": 5.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Feel-ix-343",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review"
+      ],
+      "summary": "Official Algora announcement; repository has 2,269 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "algora",
+      "id": "3182298493",
+      "title": "[Feature request] Add aliases to workspace symbols",
+      "url": "https://github.com/Feel-ix-343/markdown-oxide/issues/263",
+      "reward_amount": 5.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Feel-ix-343",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review"
+      ],
+      "summary": "Official Algora announcement; repository has 2,269 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "algora",
+      "id": "3735469261",
+      "title": "Donation/funding for german language",
+      "url": "https://github.com/hexgrad/kokoro/issues/290",
+      "reward_amount": 5.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "hexgrad",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review"
+      ],
+      "summary": "Official Algora announcement; repository has 8,491 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "algora",
+      "id": "3234412921",
+      "title": "Unresolved reference when using `[[` and `]]`",
+      "url": "https://github.com/Feel-ix-343/markdown-oxide/issues/269",
+      "reward_amount": 5.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Feel-ix-343",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review"
+      ],
+      "summary": "Official Algora announcement; repository has 2,269 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -219,6 +399,90 @@
         "verified_account_required"
       ],
       "summary": "The market is moving — BTC, ETH, and SOL are on a strong run. We want to hear from long-term holders using BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, about making their assets work between rallies. Pick ONE ang"
+    },
+    {
+      "provider": "algora",
+      "id": "3776235284",
+      "title": "Add SHA-3 (Keccak) Hashing Support",
+      "url": "https://github.com/amithmandassociates-oss/hash-report-tool/issues/2",
+      "reward_amount": 50.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "amithmandassociates-oss",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review",
+        "low_signal_repository"
+      ],
+      "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "algora",
+      "id": "2769360144",
+      "title": "Dolor sit amet",
+      "url": "https://github.com/saricizmeli/test/issues/10",
+      "reward_amount": 10.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "saricizmeli",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review",
+        "low_signal_repository"
+      ],
+      "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "algora",
+      "id": "2407485383",
+      "title": "try defence ",
+      "url": "https://github.com/qwer80371832/loadertest/issues/3",
+      "reward_amount": 10.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "qwer80371832",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review",
+        "low_signal_repository"
+      ],
+      "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "algora",
+      "id": "2833280061",
+      "title": "who can help me alogra",
+      "url": "https://github.com/19260296862/My/issues/1",
+      "reward_amount": 10.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "19260296862",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "github_pr_plus_platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "payment_profile_required",
+        "bounty_status_requires_review",
+        "low_signal_repository"
+      ],
+      "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",

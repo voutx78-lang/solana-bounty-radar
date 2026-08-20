@@ -95,6 +95,41 @@ class BountyRadarTests(unittest.TestCase):
         )
         self.assertLess(radar.ranking_key(safer), radar.ranking_key(unverified))
 
+    def test_extracts_only_official_algora_reward_comments(self):
+        comments = [
+            {"user": {"login": "random-user"}, "body": "ev is offering a **$9,999** bounty"},
+            {
+                "user": {"login": "algora-pbc"},
+                "body": "💎 **ev** is offering a **$1,250.50** bounty for this issue",
+            },
+        ]
+        self.assertEqual(radar.extract_algora_reward(comments), 1250.5)
+
+    def test_normalize_algora_requires_payment_profile_review(self):
+        item = {
+            "id": 313,
+            "title": "Option to return errors as JSON",
+            "html_url": "https://github.com/elysiajs/elysia/issues/313",
+            "repository_url": "https://api.github.com/repos/elysiajs/elysia",
+            "state": "open",
+        }
+        result = radar.normalize_algora(item, 100, {"stargazers_count": 1200, "fork": False})
+        self.assertEqual(result.provider, "algora")
+        self.assertEqual(result.reward_amount, 100)
+        self.assertIn("payment_profile_required", result.risk_flags)
+        self.assertFalse(result.autonomous)
+
+    def test_low_signal_algora_repository_is_flagged(self):
+        item = {
+            "id": 1,
+            "title": "Test bounty",
+            "html_url": "https://github.com/example/repo/issues/1",
+            "repository_url": "https://api.github.com/repos/example/repo",
+            "state": "open",
+        }
+        result = radar.normalize_algora(item, 10, {"stargazers_count": 0, "fork": False})
+        self.assertIn("low_signal_repository", result.risk_flags)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -8,6 +8,7 @@ It currently scans:
 
 - Superteam Earn's official agent-eligible listing feed
 - Gibwork's public escrow marketplace feed and task health metadata
+- Algora bounties announced by its official GitHub account
 - recently updated GitHub issues that mention a crypto-denominated bounty
 
 The radar never connects to a wallet, signs a transaction, asks for a seed phrase, or spends funds.

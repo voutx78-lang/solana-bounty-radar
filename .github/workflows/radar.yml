@@ -19,14 +19,16 @@ jobs:
       - name: Refresh public snapshot
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python bounty_radar.py --format json --stable --output data/latest.json
+        run: |
+          python bounty_radar.py --format json --stable --output docs/data/latest.json
+          cp docs/data/latest.json data/latest.json
       - name: Commit changed opportunities
         run: |
-          if git diff --quiet -- data/latest.json; then
+          if git diff --quiet -- data/latest.json docs/data/latest.json; then
             exit 0
           fi
           git config user.name "solana-bounty-radar[bot]"
           git config user.email "solana-bounty-radar[bot]@users.noreply.github.com"
-          git add data/latest.json
+          git add data/latest.json docs/data/latest.json
           git commit -m "Refresh bounty snapshot"
           git push

@@ -200,7 +200,7 @@ def fetch_gibwork(*, max_pages: int = 5, details: bool = True) -> list[Opportuni
 
 REWARD_PATTERN = re.compile(
     r"(?:(?P<currency>USDC|USDT|SOL|USDG|USD|\$)\s*)?"
-    r"(?P<amount>\d+(?:\.\d+)?)\s*"
+    r"(?P<amount>(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?)\s*"
     r"(?P<suffix>k)?\s*(?P<trailing>USDC|USDT|SOL|USDG|USD)?",
     re.IGNORECASE,
 )
@@ -208,10 +208,10 @@ REWARD_PATTERN = re.compile(
 
 def extract_reward(text: str) -> tuple[float | None, str | None]:
     for match in REWARD_PATTERN.finditer(text):
-        currency = match.group("currency") or match.group("trailing")
+        currency = match.group("trailing") or match.group("currency")
         if not currency:
             continue
-        amount = float(match.group("amount"))
+        amount = float(match.group("amount").replace(",", ""))
         if match.group("suffix"):
             amount *= 1000
         token = "USD" if currency == "$" else currency.upper()
@@ -224,6 +224,11 @@ def normalize_github(item: dict[str, Any]) -> Opportunity:
     reward_amount, reward_token = extract_reward(text)
     repository_url = item.get("repository_url", "")
     sponsor = repository_url.rsplit("/", 2)[-2] if "/" in repository_url else None
+    risk_flags = ["escrow_unverified", "payment_terms_require_review"]
+    if re.search(r"\b(?:quarantined|do not claim)\b", text, re.IGNORECASE):
+        risk_flags.append("listing_quarantined")
+    if "bounty-plaza" in repository_url:
+        risk_flags.append("mirror_listing")
     return Opportunity(
         provider="github",
         id=str(item.get("id", "")),
@@ -237,7 +242,7 @@ def normalize_github(item: dict[str, Any]) -> Opportunity:
         status=str(item.get("state", "open")),
         submission_mode="maintainer_defined",
         autonomous=False,
-        risk_flags=["escrow_unverified", "payment_terms_require_review"],
+        risk_flags=risk_flags,
         summary=strip_html(item.get("body"))[:240] or None,
     )
 
@@ -308,6 +313,38 @@ def parse_provider_names(value: str) -> list[str]:
     return names
 
 
+def canonical_title(value: str) -> str:
+    """Normalize common mirror prefixes so repeated bounty leads collapse."""
+    return re.sub(r"^\s*\[bounty\]\s*", "", value, flags=re.IGNORECASE).strip().casefold()
+
+
+def deduplicate_opportunities(items: Iterable[Opportunity]) -> list[Opportunity]:
+    unique: dict[tuple[str, str], Opportunity] = {}
+    for item in items:
+        key = (item.provider, canonical_title(item.title))
+        existing = unique.get(key)
+        item_quality = ("mirror_listing" in item.risk_flags, len(item.risk_flags))
+        existing_quality = (
+            "mirror_listing" in existing.risk_flags,
+            len(existing.risk_flags),
+        ) if existing else None
+        if existing is None or item_quality < existing_quality:
+            unique[key] = item
+    return list(unique.values())
+
+
+def ranking_key(item: Opportunity) -> tuple[bool, bool, int, float, str]:
+    """Prefer executable, lower-friction work over eye-catching unverified prizes."""
+    provider_requires_manual_payment_review = item.provider == "github"
+    return (
+        not item.autonomous,
+        provider_requires_manual_payment_review,
+        len(item.risk_flags),
+        -(item.reward_amount or 0),
+        item.title.casefold(),
+    )
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--provider", default="all", help="all or comma-separated provider names")
@@ -330,15 +367,13 @@ def main(argv: list[str] | None = None) -> int:
         max_pages=max(1, args.max_pages),
         details=not args.no_details,
     )
-    opportunities = [
+    opportunities = deduplicate_opportunities([
         item
         for item in opportunities
         if (item.reward_amount or 0) >= args.min_reward
         and (not args.autonomous_only or item.autonomous)
-    ]
-    opportunities.sort(
-        key=lambda item: (not item.autonomous, -(item.reward_amount or 0), item.provider, item.title.lower())
-    )
+    ])
+    opportunities.sort(key=ranking_key)
 
     if args.format == "json" or args.output:
         payload = {

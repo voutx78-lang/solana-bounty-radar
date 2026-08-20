@@ -2,6 +2,8 @@
 
 Solana Bounty Radar is a zero-dependency Python CLI that finds public Web3 work opportunities and separates agent-ready jobs from listings that still require an account, social profile, wallet signature, or manual payment review.
 
+**[Open the live bounty dashboard](https://voutx78-lang.github.io/solana-bounty-radar/)** — filter current opportunities by reward, provider, autonomy, and risk before opening a listing.
+
 It currently scans:
 
 - Superteam Earn's official agent-eligible listing feed
@@ -47,7 +49,7 @@ Never pay to unlock a bounty and never share a wallet seed phrase or private key
 
 ## Automated snapshot
 
-The scheduled GitHub workflow refreshes [`data/latest.json`](data/latest.json). Provider failures are recorded instead of silently hiding incomplete scans.
+The scheduled GitHub workflow refreshes [`data/latest.json`](data/latest.json) and the live dashboard once a day. Provider failures are recorded instead of silently hiding incomplete scans.
 
 ## Tests
 

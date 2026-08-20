@@ -56,6 +56,44 @@ class BountyRadarTests(unittest.TestCase):
         self.assertEqual(radar.extract_reward("[Bounty: 23 USDC] Fix it"), (23.0, "USDC"))
         self.assertEqual(radar.extract_reward("Reward 0.5 SOL"), (0.5, "SOL"))
         self.assertEqual(radar.extract_reward("$2k security bounty"), (2000.0, "USD"))
+        self.assertEqual(radar.extract_reward("Prize: $25,000 USDC"), (25000.0, "USDC"))
+        self.assertEqual(radar.extract_reward("Reward 1,250.50 USDT"), (1250.5, "USDT"))
+
+    def test_deduplicates_bounty_mirrors_and_keeps_original(self):
+        original = radar.Opportunity(
+            provider="github",
+            id="original",
+            title="[3 USDC] Build a useful corpus",
+            url="https://github.com/example/project/issues/1",
+            risk_flags=["escrow_unverified", "payment_terms_require_review"],
+        )
+        mirror = radar.Opportunity(
+            provider="github",
+            id="mirror",
+            title="[Bounty] [3 USDC] Build a useful corpus",
+            url="https://github.com/example/bounty-plaza/issues/2",
+            risk_flags=["escrow_unverified", "payment_terms_require_review", "mirror_listing"],
+        )
+        self.assertEqual(radar.deduplicate_opportunities([mirror, original]), [original])
+
+    def test_ranking_prefers_lower_friction_work(self):
+        safer = radar.Opportunity(
+            provider="gibwork",
+            id="safer",
+            title="Small verified task",
+            url="https://example.com/safer",
+            reward_amount=60,
+            risk_flags=["platform_account_required"],
+        )
+        unverified = radar.Opportunity(
+            provider="github",
+            id="unverified",
+            title="Huge unverified promise",
+            url="https://example.com/unverified",
+            reward_amount=25000,
+            risk_flags=["escrow_unverified", "payment_terms_require_review"],
+        )
+        self.assertLess(radar.ranking_key(safer), radar.ranking_key(unverified))
 
 
 if __name__ == "__main__":

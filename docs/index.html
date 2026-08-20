@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A free, daily-refreshed dashboard for public Solana and Web3 bounties, with account, escrow, and submission risks shown before you click.">
+    <meta name="theme-color" content="#0d0f0e">
+    <meta property="og:title" content="Solana Bounty Radar">
+    <meta property="og:description" content="Find Web3 work. See the catch before you click.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://voutx78-lang.github.io/solana-bounty-radar/">
+    <title>Solana Bounty Radar — Risk-screened Web3 work</title>
+    <link rel="icon" href="data:,">
+    <link rel="canonical" href="https://voutx78-lang.github.io/solana-bounty-radar/">
+    <link rel="stylesheet" href="styles.css">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Solana Bounty Radar",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Any",
+        "isAccessibleForFree": true,
+        "url": "https://voutx78-lang.github.io/solana-bounty-radar/",
+        "description": "A daily-refreshed dashboard for public Solana and Web3 bounties with risk screening."
+      }
+    </script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="shell topbar">
+      <a class="brand" href="#top" aria-label="Solana Bounty Radar home">
+        <span class="brand-mark" aria-hidden="true"></span>
+        Bounty Radar
+      </a>
+      <nav class="top-links" aria-label="Primary navigation">
+        <a href="#opportunities">Opportunities</a>
+        <a href="https://github.com/voutx78-lang/solana-bounty-radar" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+      </nav>
+    </header>
+
+    <main id="top" class="shell">
+      <section class="hero" aria-labelledby="hero-title">
+        <div>
+          <p class="eyebrow">Public data · daily refresh</p>
+          <h1 id="hero-title">Find work.<br><span>See the catch.</span></h1>
+          <p class="hero-copy">A risk-screened radar for Solana and Web3 bounties. We surface account gates, questionable escrow, crowding, and manual payout steps before you spend time on a listing.</p>
+        </div>
+        <aside class="hero-note">
+          <strong>Safety over hype.</strong>
+          <p>Listings are leads, not guarantees. Never pay to unlock work, share a seed phrase, or assume a bounty promise is escrow.</p>
+        </aside>
+      </section>
+
+      <section class="stats" aria-label="Current radar statistics">
+        <div class="stat">
+          <span id="total-count" class="stat-value">—</span>
+          <span class="stat-label">Open leads</span>
+        </div>
+        <div class="stat">
+          <span id="autonomous-count" class="stat-value">—</span>
+          <span class="stat-label">Agent-ready</span>
+        </div>
+        <div class="stat">
+          <span id="reward-total" class="stat-value">—</span>
+          <span class="stat-label">USD-like rewards*</span>
+        </div>
+      </section>
+
+      <section id="opportunities" aria-labelledby="opportunities-title">
+        <div class="toolbar">
+          <div class="field">
+            <label for="search">Search</label>
+            <input id="search" type="search" placeholder="Try Python, Discord, frontend…" autocomplete="off">
+          </div>
+          <div class="field">
+            <label for="provider">Provider</label>
+            <select id="provider">
+              <option value="">All providers</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="min-reward">Minimum reward</label>
+            <select id="min-reward">
+              <option value="0">Any amount</option>
+              <option value="25">25+</option>
+              <option value="100">100+</option>
+              <option value="500">500+</option>
+              <option value="1000">1,000+</option>
+            </select>
+          </div>
+          <div class="toggle-wrap">
+            <span class="toggle-label">Submission</span>
+            <label class="toggle" for="autonomous">
+              <input id="autonomous" type="checkbox">
+              Agent-ready only
+            </label>
+          </div>
+        </div>
+
+        <div class="results-head">
+          <strong id="opportunities-title">Latest opportunities</strong>
+          <span id="result-count" aria-live="polite">Loading…</span>
+        </div>
+        <div id="results" class="results" aria-live="polite">
+          <div class="empty">Loading the latest public snapshot…</div>
+        </div>
+      </section>
+
+      <section class="monetize" aria-label="Support and referral links">
+        <article class="support-card">
+          <p class="eyebrow">Keep the radar free</p>
+          <h2>Saved an hour or landed a bounty?</h2>
+          <p>Optional Solana tips support daily scans and new provider integrations.</p>
+          <div class="wallet">
+            <code title="Solana tip address">DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx</code>
+            <button id="copy-wallet" type="button" data-wallet="DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx">Copy</button>
+          </div>
+        </article>
+        <article class="support-card secondary">
+          <p class="eyebrow">Browse another source</p>
+          <h2>Explore Gibwork.</h2>
+          <p>Browse its marketplace directly after checking the account, crowding, and payout requirements.</p>
+          <a class="referral-link" href="https://app.gib.work?ref=DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx" target="_blank" rel="noopener noreferrer sponsored">Open Gibwork ↗</a>
+          <small class="disclosure">Referral disclosure: a successful referral may generate a reward for this project. Referral status never affects rankings.</small>
+        </article>
+      </section>
+    </main>
+
+    <footer class="shell">
+      <span>Open-source, zero-dependency, and wallet-free to use.</span>
+      <span>*Advertised amounts are unverified until escrow and payout terms are checked.</span>
+    </footer>
+  </body>
+</html>

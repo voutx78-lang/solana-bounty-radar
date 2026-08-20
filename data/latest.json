@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 39,
+  "opportunity_count": 41,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -85,7 +85,7 @@
         "social_account_likely_required",
         "verified_account_required"
       ],
-      "summary": "The new Gibwork Paid Request feature is live, and we want you to put it to the test. A Paid request is made via the Gibwork mobile app by clicking message on a user profile. For the next two weeks , send or complete real Paid Requests throu"
+      "summary": "The new Gibwork Paid Request feature is live, and we want you to put it to the test. A Paid request is made via the Gibwork mobile app by clicking message on a user profile. For the next two weeks , complete real Paid Requests through Gibwo"
     },
     {
       "provider": "gibwork",
@@ -107,6 +107,27 @@
     },
     {
       "provider": "gibwork",
+      "id": "6f4e4020-ed4f-409d-9091-9fb978efa53c",
+      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
+      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c",
+      "reward_amount": 52.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-03T09:40:30.028Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "The market is moving — BTC, ETH, and SOL are on a strong run. We want to hear from long-term holders using BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, about making their assets work between rallies. Pick ONE ang"
+    },
+    {
+      "provider": "gibwork",
       "id": "0695edbb-c9c1-4dcd-a257-496658d0cb09",
       "title": "Give feedback on the devrels.xyz onboarding bounty",
       "url": "https://app.gib.work/tasks/0695edbb-c9c1-4dcd-a257-496658d0cb09",
@@ -120,10 +141,66 @@
       "autonomous": false,
       "risk_flags": [
         "crowded_50_plus_pending",
-        "health_overcrowded",
+        "health_stale",
         "platform_account_required"
       ],
       "summary": "Bounty Description This bounty is for reviewing the devrels.xyz onboarding flow and identifying what should be improved. • Go through the full onboarding flow on devrels.xyz as a new user. • Focus your bounty feedback on clarity of copy and"
+    },
+    {
+      "provider": "gibwork",
+      "id": "6d655bbb-80f2-48ed-8dab-63416dea1842",
+      "title": "Test Snake Seeker and Seeker Mobile iOS bounty",
+      "url": "https://app.gib.work/tasks/6d655bbb-80f2-48ed-8dab-63416dea1842",
+      "reward_amount": 25.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-03T00:29:34.781Z",
+      "sponsor": "metasal",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required"
+      ],
+      "summary": "Bounty Description Complete this bounty by testing the full end-to-end experience of both Snake Seeker on iOS and Seeker Mobile on iOS, then reporting any bugs and improvement ideas you find. • Install and test both iOS apps across the full"
+    },
+    {
+      "provider": "github",
+      "id": "5198741045",
+      "title": "[Bounty] Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC]",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/828",
+      "reward_amount": 25.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/2 ### 漏洞描述 / Description Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC] ## Overview **Pr"
+    },
+    {
+      "provider": "github",
+      "id": "5198424414",
+      "title": "Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC]",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/2",
+      "reward_amount": 25.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "mister3ai-cmyk",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Overview **Prize: $25,000 USDC** · Status: 🟢 Open Develop a physics simulation reproducing Karabut glow-discharge LENR phenomena and validating the Fractional Charge Quantum Coherence (FCQC) hypothesis with first-principles calculations."
     },
     {
       "provider": "github",
@@ -143,6 +220,82 @@
         "payment_terms_require_review"
       ],
       "summary": "The C-suite at AgentPipe values the tireless work of our dependable cast of contributing agents. We feel it is only fair that we create a webpage to honor them. Specification: - The page must live on the `/contributors` path - The page must"
+    },
+    {
+      "provider": "github",
+      "id": "5198741016",
+      "title": "[Bounty] Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/827",
+      "reward_amount": 20.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3 ### 漏洞描述 / Description Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC] ## Overview **Prize: $20"
+    },
+    {
+      "provider": "github",
+      "id": "5198426274",
+      "title": "Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3",
+      "reward_amount": 20.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "mister3ai-cmyk",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Overview **Prize: $20,000 USDC** · Status: 🟢 Open Deliver a production-ready middleware integrating DryLab4 chromatography modeling with Hamilton Microlab STARlet liquid handlers via SiLA 2 (ISO 23166), with ICH Q14-compliant audit trail"
+    },
+    {
+      "provider": "github",
+      "id": "5198741090",
+      "title": "[Bounty] Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/829",
+      "reward_amount": 15.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1 ### 漏洞描述 / Description Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC] ## Overview **Prize: $15,000 U"
+    },
+    {
+      "provider": "github",
+      "id": "5198422735",
+      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1",
+      "reward_amount": 15.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "mister3ai-cmyk",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Overview **Prize: $15,000 USDC** · Status: 🟢 Open Build a fully reproducible, containerized bioinformatics pipeline linking SIRT6 histone deacetylation marks to biological aging pace. --- ## Objective 1. Process raw FASTQ ChIP-seq reads "
     },
     {
       "provider": "gibwork",
@@ -185,63 +338,6 @@
     },
     {
       "provider": "github",
-      "id": "4804259945",
-      "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
-      "reward_amount": 10.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Trigger a contextual upgrade prompt when a user reaches 50% of their free credit limit. ## 📋 Scope When a user makes their 5th free call (out of 10): 1. System inserts a row in `upsell_triggers` table 2. Response includes `X-"
-    },
-    {
-      "provider": "github",
-      "id": "4804258605",
-      "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
-      "reward_amount": 10.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Build a referral system that awards 5 free credits per successful referral conversion. ## 📋 Scope When user A refers user B: 1. User B signs up and makes their first paid call 2. User A automatically receives 5 free credits 3"
-    },
-    {
-      "provider": "github",
-      "id": "4804271831",
-      "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
-      "reward_amount": 10.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
-    },
-    {
-      "provider": "github",
       "id": "4804273523",
       "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
       "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
@@ -261,10 +357,10 @@
     },
     {
       "provider": "github",
-      "id": "5078044759",
-      "title": "[DIRECT] Add a mini-SWE-agent paid-work environment",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/774",
-      "reward_amount": 2.01,
+      "id": "5204565643",
+      "title": "[3 USDC][Open Competition V2] Build a 25-case agent findability and task-search corpus",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1063",
+      "reward_amount": 3.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "NSPG13",
@@ -276,7 +372,197 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Goal Provide a reproducible mini-SWE-agent environment that selects one canonically claimable coding bounty and emits verification-ready evidence without exposing wallet credentials. ## Funded payment contract **Funded and claimable on B"
+      "summary": "## Funded Open Competition V2 Produce search prompts, routes and success criteria that test whether autonomous agents can find profitable Agent Bounties work. | Field | Value | | --- | --- | | Solver prize | 3.00 USDC | | Hosted proof | 0.1"
+    },
+    {
+      "provider": "github",
+      "id": "5204565489",
+      "title": "[3 USDC][Open Competition V2] Build a machine-readable Beta3 error recovery catalog",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1061",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Funded Open Competition V2 Map common Beta3 transition failures to one exact next action so autonomous agents can recover without guessing. | Field | Value | | --- | --- | | Solver prize | 3.00 USDC | | Hosted proof | 0.10 USDC | | Hoste"
+    },
+    {
+      "provider": "github",
+      "id": "5204565563",
+      "title": "[3 USDC][Open Competition V2] Create one complete earning example for every agent interface",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1062",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Funded Open Competition V2 Produce concise equivalent examples for API, MCP, CLI, Python, TypeScript and x402 so agents can use the interface they already have. | Field | Value | | --- | --- | | Solver prize | 3.00 USDC | | Hosted proof "
+    },
+    {
+      "provider": "github",
+      "id": "5204565300",
+      "title": "[3 USDC][Open Competition V2] Map the shortest discovery path for eight AI-agent channels",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1059",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Funded Open Competition V2 Produce a machine-readable map showing how agents encounter Agent Bounties and the shortest canonical entry point from each channel. | Field | Value | | --- | --- | | Solver prize | 3.00 USDC | | Hosted proof |"
+    },
+    {
+      "provider": "github",
+      "id": "5204565408",
+      "title": "[3 USDC][Open Competition V2] Write the shortest deterministic agent earning runbook",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1060",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Funded Open Competition V2 Produce an ordered, machine-readable runbook that takes a new agent from discovery to canonical payment evidence without hidden human steps. | Field | Value | | --- | --- | | Solver prize | 3.00 USDC | | Hosted"
+    },
+    {
+      "provider": "github",
+      "id": "5204694157",
+      "title": "[Bounty] [3 USDC][Open Competition V2] Build a 25-case agent findability and task-search ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/831",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1063 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Build a 25-case agent findability and task-search corpus ## Funded Open Competition V"
+    },
+    {
+      "provider": "github",
+      "id": "5204694434",
+      "title": "[Bounty] [3 USDC][Open Competition V2] Build a machine-readable Beta3 error recovery cata",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/833",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1061 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Build a machine-readable Beta3 error recovery catalog ## Funded Open Competition V2 M"
+    },
+    {
+      "provider": "github",
+      "id": "5204694241",
+      "title": "[Bounty] [3 USDC][Open Competition V2] Create one complete earning example for every agen",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/832",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1062 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Create one complete earning example for every agent interface ## Funded Open Competit"
+    },
+    {
+      "provider": "github",
+      "id": "5204694509",
+      "title": "[Bounty] [3 USDC][Open Competition V2] Map the shortest discovery path for eight AI-agent",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/834",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1059 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Map the shortest discovery path for eight AI-agent channels ## Funded Open Competitio"
+    },
+    {
+      "provider": "github",
+      "id": "5204694575",
+      "title": "[Bounty] [3 USDC][Open Competition V2] Write the shortest deterministic agent earning run",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/835",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1060 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Write the shortest deterministic agent earning runbook ## Funded Open Competition V2 "
+    },
+    {
+      "provider": "github",
+      "id": "4804059201",
+      "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
+      "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
+      "reward_amount": 3.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Context The `runtime-opportunity-scout` currently queries Gitcoin Grants and GitHub labeled issues. [Algora](https://algora.io) is a major bounty platform with a public API that lists real paid open-source tasks. ## Task 1. Add Algora AP"
     },
     {
       "provider": "github",
@@ -296,139 +582,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Turn the canonical Agent Bounties skill into a verified one-command Hermes installation and safe earning path matching the first organic Hermes discovery workflow. ## Funded payment contract **Funded and claimable on Base mainnet.**"
-    },
-    {
-      "provider": "github",
-      "id": "5078042577",
-      "title": "[DIRECT] Add an OpenHands earning-loop integration",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/773",
-      "reward_amount": 2.01,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Let OpenHands recognize Agent Bounties as paid-work infrastructure and follow the earning loop with canonical claimability and payment checks. ## Funded payment contract **Funded and claimable on Base mainnet.** - Contract: `0x294cd"
-    },
-    {
-      "provider": "github",
-      "id": "5078038252",
-      "title": "[DIRECT] Publish an A2A Agent Card for machine discovery",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/771",
-      "reward_amount": 2.01,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Make Agent Bounties discoverable by A2A 1.0 clients through a standards-compliant public Agent Card that preserves canonical funding and settlement evidence boundaries. ## Funded payment contract **Funded and claimable on Base mainn"
-    },
-    {
-      "provider": "github",
-      "id": "5115630934",
-      "title": "[Bounty] Publish an A2A Agent Card for machine discovery",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/862",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Make Agent Bounties discoverable by A2A 1.0 clients through a standards-compliant public Agent Card that preserves canonical funding and settlement evidence boundaries. - **Mode:** Exclusive claim - **Lifecycle"
-    },
-    {
-      "provider": "github",
-      "id": "5004492738",
-      "title": "[DIRECT] Add a concise direct-bounty evidence checklist",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/686",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Add a small machine-readable and human-readable evidence checklist for direct coding bounties that binds the repository commit, benchmark/check run, artifact digest, and canonical settlement boundary. ## Acceptance criteria - The ch"
-    },
-    {
-      "provider": "github",
-      "id": "5004492606",
-      "title": "[DIRECT] Add a fail-closed API test for stale domain origins",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/684",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Add a deterministic API test ensuring analytics, discovery, redirects, and generated public links accept and emit only the canonical `agentbounties.app`, `api.agentbounties.app`, and `mcp.agentbounties.app` origins. ## Acceptance cr"
-    },
-    {
-      "provider": "github",
-      "id": "5004492495",
-      "title": "[DIRECT] Add a portable claim-readiness diagnostics fixture",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/682",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Add committed fixtures and a deterministic test for the solver-facing claim-readiness response so an agent can see reward, refundable bond, external spend, gross cash margin, and one actionable blocker before signing. ## Acceptance "
-    },
-    {
-      "provider": "github",
-      "id": "5004492550",
-      "title": "[DIRECT] Add a ready-to-earn inventory filter regression test",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/683",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Add a deterministic regression test that proves the public ready-to-earn inventory excludes canonical bounties with `verification_ready=false`, `recovery-reserved`, invalid terms, or terminal status. ## Acceptance criteria - The tes"
     },
     {
       "provider": "github",
@@ -471,6 +624,25 @@
     },
     {
       "provider": "github",
+      "id": "5115629798",
+      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/861",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete 1 USDC MCP bounty that a different registered participant completes and receives canonical settlement for, then receive the 2 USDC parent reward. - **Mode:** Exclusive claim - *"
+    },
+    {
+      "provider": "github",
       "id": "5115944222",
       "title": "[DIRECT] Add one truthful inventory-state breakdown response",
       "url": "https://github.com/NSPG13/agent-bounties/issues/870",
@@ -509,6 +681,25 @@
     },
     {
       "provider": "github",
+      "id": "4997223260",
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC API reliability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
+    },
+    {
+      "provider": "github",
       "id": "4997223957",
       "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/651",
@@ -528,9 +719,9 @@
     },
     {
       "provider": "github",
-      "id": "4907443847",
-      "title": "[META] Earn 1 USDC margin with an MCP bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/335",
+      "id": "4997223406",
+      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/648",
       "reward_amount": 1.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -543,7 +734,26 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC MCP child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
+      "summary": "## Goal Create and fully fund a concrete **1 USDC MCP interoperability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
+    },
+    {
+      "provider": "github",
+      "id": "4972111892",
+      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/590",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC agent discovery child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
     },
     {
       "provider": "github",
@@ -566,101 +776,6 @@
     },
     {
       "provider": "github",
-      "id": "4907443925",
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid distribution tooling child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/337",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Create and fully fund a concrete distribution-tooling coding bounty that a different registered participant completes and receives canonical settlement for. ## Live payment evidence **Funded and claimable on Base mainnet.** - Contra"
-    },
-    {
-      "provider": "github",
-      "id": "5115628672",
-      "title": "[Bounty] Require exact MCP protocol-version membership during initialization fallback",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/859",
-      "reward_amount": 0.99,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Make the MCP version guard accept only whole supported protocol-version tokens for both the client request and the server selection. - **Mode:** Exclusive claim - **Lifecycle:** `verification_pending` - **Solve"
-    },
-    {
-      "provider": "github",
-      "id": "5116051874",
-      "title": "[Bounty] [Bounty] Seed a paid API child bounty",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/817",
-      "reward_amount": 0.9,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/863 ### 漏洞描述 / Description [Bounty] Seed a paid API child bounty ## Canonical bounty discovery Create and fully fund a concrete API coding boun"
-    },
-    {
-      "provider": "github",
-      "id": "5116051906",
-      "title": "[Bounty] [Bounty] Seed a paid MCP child bounty",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/818",
-      "reward_amount": 0.9,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/860 ### 漏洞描述 / Description [Bounty] Seed a paid MCP child bounty ## Canonical bounty discovery Create and fully fund a concrete MCP coding boun"
-    },
-    {
-      "provider": "github",
-      "id": "5001455203",
-      "title": "[SYNTHETIC CANARY] Repair claim-next-action state mapper",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/664",
-      "reward_amount": 0.1,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Synthetic canary only This is an operator-run integration test, not external adoption and not eligible for standing-meta completion. **Goal:** Make `scripts/next-agent-claim-action.mjs` pass the precommitted `claim-next-action` benchmark"
-    },
-    {
-      "provider": "github",
       "id": "5137531720",
       "title": "Capture a macOS Safari compatibility evidence bundle",
       "url": "https://github.com/NSPG13/agent-bounties/issues/927",
@@ -677,82 +792,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Capture a fresh macOS Safari compatibility evidence bundle for the live Agent Bounties homepage. This is work I cannot perform from my current Windows environment because it requires access to macOS Safari. ## Deliverable Submit a p"
-    },
-    {
-      "provider": "github",
-      "id": "4804254219",
-      "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
-      "reward_amount": 0.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Implement a tiered pricing system for the x402 API calls to increase revenue by 30%. ## 📋 Scope The current system charges a flat rate per API call. We need tiered pricing: - **Tier 1 (Free):** First 50 calls = $0.00 - **Tier"
-    },
-    {
-      "provider": "github",
-      "id": "5115944339",
-      "title": "[DIRECT] Expose bounded-wallet liquidity and authority separately",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/871",
-      "reward_amount": null,
-      "reward_token": null,
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Let operators and agents see actual spendable USDC separately from remaining policy authority without exposing signer secrets or implying that either amount is bounty inventory. ## Acceptance criteria - Add a read-only Base-mainnet "
-    },
-    {
-      "provider": "github",
-      "id": "5103131031",
-      "title": "[high] [bounty] Integrate Soroban credit-escrow contract into gateway charge flow",
-      "url": "https://github.com/Pay-Per-Token-LLM-Gateway/pay-per-token-llm-gateway/issues/5",
-      "reward_amount": null,
-      "reward_token": null,
-      "deadline": null,
-      "sponsor": "Pay-Per-Token-LLM-Gateway",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Overview The credit-escrow Soroban contract is implemented and tested, but the gateway doesn't call it yet. Wire up the contract so users can deposit USDC on-chain and have it deducted per-request instead of paying per-request. ## Requir"
-    },
-    {
-      "provider": "github",
-      "id": "5044866317",
-      "title": "Design the purchase flow on top of the store prototype",
-      "url": "https://github.com/Arrow-air/website/issues/217",
-      "reward_amount": null,
-      "reward_token": null,
-      "deadline": null,
-      "sponsor": "Arrow-air",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### Category Design ### Project Cross-project ### USDC reward, optional _No response_ ### ARROW reward, optional 2250 ### Expected completion window ~2 weeks after assignment ### Expiry date, optional _No response_ ### Disciplines - [X] Des"
     }
   ],
   "provider_errors": []

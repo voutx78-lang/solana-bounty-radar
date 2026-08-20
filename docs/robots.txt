@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://voutx78-lang.github.io/solana-bounty-radar/sitemap.xml

@@ -1,0 +1,16 @@
+{
+  "name": "Solana Bounty Radar",
+  "short_name": "Bounty Radar",
+  "description": "Risk-screened public Solana and Web3 bounty opportunities.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d0f0e",
+  "theme_color": "#0d0f0e",
+  "icons": [
+    {
+      "src": "logo.webp",
+      "sizes": "400x400",
+      "type": "image/webp"
+    }
+  ]
+}

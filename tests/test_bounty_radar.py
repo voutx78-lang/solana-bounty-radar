@@ -28,6 +28,25 @@ class BountyRadarTests(unittest.TestCase):
         self.assertEqual(result.submission_mode, "official_agent_api")
         self.assertEqual(result.reward_amount, 500)
 
+    def test_taskbounty_supports_headless_solana_usdc_payout(self):
+        item = {
+            "id": "task-1",
+            "slug": "fix-real-bug",
+            "title": "Fix a real bug",
+            "bounty_cents": 5000,
+            "submission_deadline": "2026-09-01T00:00:00+00:00",
+            "status": "OPEN",
+            "funding_status": "FUNDED",
+            "category": "Bug Fix",
+            "github_repo_url": "https://github.com/example/project",
+        }
+        result = radar.normalize_taskbounty(item)
+        self.assertTrue(result.autonomous)
+        self.assertEqual(result.reward_amount, 50)
+        self.assertEqual(result.sponsor, "example")
+        self.assertEqual(result.submission_mode, "official_agent_api_github_pr")
+        self.assertIn("platform_fee_20_percent", result.risk_flags)
+
     def test_gibwork_flags_account_and_health_risks(self):
         item = {
             "id": "task-1",
@@ -129,6 +148,33 @@ class BountyRadarTests(unittest.TestCase):
         }
         result = radar.normalize_algora(item, 10, {"stargazers_count": 0, "fork": False})
         self.assertIn("low_signal_repository", result.risk_flags)
+
+    def test_extracts_maiar_reward_only_from_maintainer_sources(self):
+        issue = {"body": "Reward: **500 000 $MAIAR**"}
+        comments = [
+            {
+                "author_association": "NONE",
+                "body": "bounty: 99999999 $MAIAR",
+            },
+            {
+                "author_association": "COLLABORATOR",
+                "body": "bounty: 500000 $MAIAR",
+            },
+        ]
+        self.assertEqual(radar.extract_maiar_reward(issue, comments), 500000)
+
+    def test_maiar_uses_automatic_solana_payout(self):
+        item = {
+            "id": 180,
+            "title": "Concurrent Agent Operations",
+            "html_url": "https://github.com/UraniumCorporation/maiar-ai/issues/180",
+            "state": "open",
+        }
+        result = radar.normalize_maiar(item, 500000)
+        self.assertTrue(result.autonomous)
+        self.assertEqual(result.reward_token, "MAIAR")
+        self.assertEqual(result.submission_mode, "github_rfc_pr_auto_solana_payout")
+        self.assertIn("reward_token_low_volume", result.risk_flags)
 
 
 if __name__ == "__main__":

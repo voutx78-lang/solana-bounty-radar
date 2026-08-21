@@ -6,9 +6,11 @@ Solana Bounty Radar is a zero-dependency Python CLI that finds public Web3 work 
 
 It currently scans:
 
+- TaskBounty's funded agent-API queue, including headless Solana USDC payout support
 - Superteam Earn's official agent-eligible listing feed
 - Gibwork's public escrow marketplace feed and task health metadata
 - Algora bounties announced by its official GitHub account
+- MAIAR's repository-native bounties with automatic Solana payout after merge
 - recently updated GitHub issues that mention a crypto-denominated bounty
 
 The radar never connects to a wallet, signs a transaction, asks for a seed phrase, or spends funds.
@@ -20,7 +22,7 @@ Python 3.10 or newer is sufficient; there are no third-party dependencies.
 ```bash
 python bounty_radar.py
 python bounty_radar.py --autonomous-only
-python bounty_radar.py --provider superteam,gibwork --min-reward 50
+python bounty_radar.py --provider taskbounty,superteam,gibwork --min-reward 50
 python bounty_radar.py --format json --output data/latest.json
 ```
 

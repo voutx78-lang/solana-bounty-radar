@@ -59,25 +59,6 @@
       "summary": "🔗 Join Startale App via my referral link:- https://app.startale.com/sign-up?code=TNHZBS37 Please use the referral link above to create your new Startale App account. Join Startale App, create your in-app wallet, complete genuine Soneium onc"
     },
     {
-      "provider": "gibwork",
-      "id": "f0eabea6-dddb-467d-80b4-980d13132ef6",
-      "title": "Jam App activity & X post",
-      "url": "https://app.gib.work/tasks/f0eabea6-dddb-467d-80b4-980d13132ef6",
-      "reward_amount": 5.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-03T20:15:55.522Z",
-      "sponsor": "toshiro_rwa",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "ONLY FOR NEW USERS!!! GN everyone, there are some points you should consider: 1) Follow the link: https://x.com/toshiro_rwa/status/2090185365923504384?s=46 2) Like the post; 3) Follow the link in the post, download the app and register thro"
-    },
-    {
       "provider": "algora",
       "id": "2959305187",
       "title": "[BOUNTY] WearOS Support [$1340]",
@@ -95,7 +76,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,295 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,302 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -155,7 +136,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 18,928 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 18,934 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -195,7 +176,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 42,285 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 42,311 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -255,7 +236,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,269 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,270 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -275,7 +256,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,269 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,270 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -295,7 +276,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,491 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,504 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -315,7 +296,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,269 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,270 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -361,12 +342,12 @@
     },
     {
       "provider": "gibwork",
-      "id": "6f4e4020-ed4f-409d-9091-9fb978efa53c",
-      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
-      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c",
-      "reward_amount": 52.0,
+      "id": "cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
+      "title": "Share How You Got Started with BASIS Pick ONE angle",
+      "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
+      "reward_amount": 66.0,
       "reward_token": "USDC",
-      "deadline": "2026-09-03T09:40:30.028Z",
+      "deadline": "2026-09-04T09:18:35.259Z",
       "sponsor": "basis",
       "category": "tasks",
       "status": "CREATED",
@@ -378,7 +359,7 @@
         "social_account_likely_required",
         "verified_account_required"
       ],
-      "summary": "The market is moving — BTC, ETH, and SOL are on a strong run. We want to hear from long-term holders using BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, about making their assets work between rallies. Pick ONE ang"
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. What made you try BASIS in the first place 2. How long it took from signup to your fi"
     },
     {
       "provider": "algora",
@@ -400,6 +381,27 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "6f4e4020-ed4f-409d-9091-9fb978efa53c",
+      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
+      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c",
+      "reward_amount": 38.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-03T09:40:30.028Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "The market is moving — BTC, ETH, and SOL are on a strong run. We want to hear from long-term holders using BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, about making their assets work between rallies. Pick ONE ang"
     },
     {
       "provider": "algora",
@@ -564,6 +566,63 @@
     },
     {
       "provider": "github",
+      "id": "4804259945",
+      "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Trigger a contextual upgrade prompt when a user reaches 50% of their free credit limit. ## 📋 Scope When a user makes their 5th free call (out of 10): 1. System inserts a row in `upsell_triggers` table 2. Response includes `X-"
+    },
+    {
+      "provider": "github",
+      "id": "4804258605",
+      "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Build a referral system that awards 5 free credits per successful referral conversion. ## 📋 Scope When user A refers user B: 1. User B signs up and makes their first paid call 2. User A automatically receives 5 free credits 3"
+    },
+    {
+      "provider": "github",
+      "id": "4804271831",
+      "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
+    },
+    {
+      "provider": "github",
       "id": "4804273523",
       "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
       "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
@@ -580,101 +639,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## 🎯 Objective Build an agent that automatically generates blog posts, Twitter/X threads, and social cards from bounty completion events. ## 📋 Scope Every time a bounty is completed (PR merged, `execution_status = done`): 1. Agent reads the"
-    },
-    {
-      "provider": "github",
-      "id": "5204565643",
-      "title": "[3 USDC][Open Competition V2] Build a 25-case agent findability and task-search corpus",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1063",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Funded Open Competition V2 Produce search prompts, routes and success criteria that test whether autonomous agents can find profitable Agent Bounties work. | Field | Value | | --- | --- | | Solver prize | 3.00 USDC | | Hosted proof | 0.1"
-    },
-    {
-      "provider": "github",
-      "id": "5204565489",
-      "title": "[3 USDC][Open Competition V2] Build a machine-readable Beta3 error recovery catalog",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1061",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Funded Open Competition V2 Map common Beta3 transition failures to one exact next action so autonomous agents can recover without guessing. | Field | Value | | --- | --- | | Solver prize | 3.00 USDC | | Hosted proof | 0.10 USDC | | Hoste"
-    },
-    {
-      "provider": "github",
-      "id": "5204565563",
-      "title": "[3 USDC][Open Competition V2] Create one complete earning example for every agent interface",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1062",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Funded Open Competition V2 Produce concise equivalent examples for API, MCP, CLI, Python, TypeScript and x402 so agents can use the interface they already have. | Field | Value | | --- | --- | | Solver prize | 3.00 USDC | | Hosted proof "
-    },
-    {
-      "provider": "github",
-      "id": "5204565300",
-      "title": "[3 USDC][Open Competition V2] Map the shortest discovery path for eight AI-agent channels",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1059",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Funded Open Competition V2 Produce a machine-readable map showing how agents encounter Agent Bounties and the shortest canonical entry point from each channel. | Field | Value | | --- | --- | | Solver prize | 3.00 USDC | | Hosted proof |"
-    },
-    {
-      "provider": "github",
-      "id": "5204565408",
-      "title": "[3 USDC][Open Competition V2] Write the shortest deterministic agent earning runbook",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1060",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Funded Open Competition V2 Produce an ordered, machine-readable runbook that takes a new agent from discovery to canonical payment evidence without hidden human steps. | Field | Value | | --- | --- | | Solver prize | 3.00 USDC | | Hosted"
     },
     {
       "provider": "github",
@@ -697,9 +661,9 @@
     },
     {
       "provider": "github",
-      "id": "5078040225",
-      "title": "[DIRECT] Add a verified Hermes earning integration",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/772",
+      "id": "5078044759",
+      "title": "[DIRECT] Add a mini-SWE-agent paid-work environment",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/774",
       "reward_amount": 2.01,
       "reward_token": "USDC",
       "deadline": null,
@@ -712,7 +676,26 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Goal Turn the canonical Agent Bounties skill into a verified one-command Hermes installation and safe earning path matching the first organic Hermes discovery workflow. ## Funded payment contract **Funded and claimable on Base mainnet.**"
+      "summary": "## Goal Provide a reproducible mini-SWE-agent environment that selects one canonically claimable coding bounty and emits verification-ready evidence without exposing wallet credentials. ## Funded payment contract **Funded and claimable on B"
+    },
+    {
+      "provider": "github",
+      "id": "5078042577",
+      "title": "[DIRECT] Add an OpenHands earning-loop integration",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/773",
+      "reward_amount": 2.01,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Let OpenHands recognize Agent Bounties as paid-work infrastructure and follow the earning loop with canonical claimability and payment checks. ## Funded payment contract **Funded and claimable on Base mainnet.** - Contract: `0x294cd"
     },
     {
       "provider": "github",
@@ -770,25 +753,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Expose ready-to-earn, claimed, submitted, paid, and verification-unavailable counts from one current canonical projection so humans and agents do not confuse active work with claimable work. ## Acceptance criteria - Add a versioned "
-    },
-    {
-      "provider": "github",
-      "id": "5115944066",
-      "title": "[DIRECT] Add retry-safe Base RPC failover for maintainer workflows",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/869",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Make maintainer and inventory automation survive transient Base RPC rate limits without hiding chain mismatches or transaction uncertainty. ## Acceptance criteria - Extend the shared RPC transport to accept an ordered HTTPS Base end"
     },
     {
       "provider": "github",
@@ -884,6 +848,44 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Capture a fresh macOS Safari compatibility evidence bundle for the live Agent Bounties homepage. This is work I cannot perform from my current Windows environment because it requires access to macOS Safari. ## Deliverable Submit a p"
+    },
+    {
+      "provider": "github",
+      "id": "4804254219",
+      "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
+      "reward_amount": 0.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Implement a tiered pricing system for the x402 API calls to increase revenue by 30%. ## 📋 Scope The current system charges a flat rate per API call. We need tiered pricing: - **Tier 1 (Free):** First 50 calls = $0.00 - **Tier"
+    },
+    {
+      "provider": "github",
+      "id": "3918732672",
+      "title": "[BOUNTY] wRTC Visibility Pack — Token Lists + Trackers + Logo (75 RTC)",
+      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/89",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "Scottcjn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Make **wRTC** easy to find and hard to spoof by getting it listed/verified across major Solana token lists + explorers. ## Canonical wRTC Info (for verification) - Mint: `12TAdKXxcGf6oCv4rqDz2NkgxjyHq6HQKoxKZYGf5i4X` - Decimals: `6`"
     },
     {
       "provider": "github",

@@ -118,6 +118,55 @@ def fetch_superteam() -> list[Opportunity]:
     return [normalize_superteam(item) for item in data if is_live(item.get("deadline"))]
 
 
+def normalize_taskbounty(item: dict[str, Any]) -> Opportunity:
+    bounty_cents = item.get("bounty_cents")
+    repository_url = str(item.get("github_repo_url") or "")
+    sponsor = repository_url.rstrip("/").rsplit("/", 2)[-2] if repository_url else None
+    slug = str(item.get("slug") or item.get("id") or "")
+    return Opportunity(
+        provider="taskbounty",
+        id=str(item.get("id", "")),
+        title=str(item.get("title", "Untitled opportunity")),
+        url=f"https://www.task-bounty.com/task/{slug}",
+        reward_amount=float(bounty_cents) / 100 if isinstance(bounty_cents, (int, float)) else None,
+        reward_token="USD",
+        deadline=item.get("submission_deadline"),
+        sponsor=sponsor,
+        category=item.get("category"),
+        status=item.get("status"),
+        submission_mode="official_agent_api_github_pr",
+        autonomous=True,
+        risk_flags=[
+            "api_key_required",
+            "first_verified_pr_wins",
+            "platform_account_required",
+            "platform_fee_20_percent",
+        ],
+        summary=(
+            "Funded agent-API bounty with headless Solana USDC payout. "
+            "The displayed amount is gross; the solver receives 80%."
+        ),
+    )
+
+
+def fetch_taskbounty() -> list[Opportunity]:
+    params = {"state": "open", "limit": 100}
+    payload = fetch_json(f"https://www.task-bounty.com/api/v1/tasks?{urlencode(params)}")
+    if not isinstance(payload, dict):
+        raise RadarError("TaskBounty returned a non-object response")
+    items = payload.get("data", payload.get("tasks"))
+    if not isinstance(items, list):
+        raise RadarError("TaskBounty returned an invalid task list")
+    return [
+        normalize_taskbounty(item)
+        for item in items
+        if str(item.get("status", "")).upper() == "OPEN"
+        and str(item.get("funding_status", "")).upper() == "FUNDED"
+        and (item.get("bounty_cents") or 0) > 0
+        and is_live(item.get("submission_deadline"))
+    ]
+
+
 def gibwork_risk_flags(item: dict[str, Any], detail: dict[str, Any] | None) -> list[str]:
     source = detail or item
     flags = ["platform_account_required"]
@@ -355,10 +404,97 @@ def fetch_algora() -> list[Opportunity]:
     return opportunities
 
 
+MAIAR_REWARD_PATTERN = re.compile(
+    r"(?:bounty\s*:|reward\s*:\s*(?:\*\*)?)\s*"
+    r"(?P<amount>\d[\d\s,]*(?:\.\d+)?)\s*(?:\*\*)?\s*\$?MAIAR\b",
+    re.IGNORECASE,
+)
+
+
+def extract_maiar_reward(issue: dict[str, Any], comments: Iterable[dict[str, Any]]) -> float | None:
+    sources = [str(issue.get("body") or "")]
+    for comment in comments:
+        if str(comment.get("author_association") or "").upper() not in {
+            "OWNER",
+            "MEMBER",
+            "COLLABORATOR",
+        }:
+            continue
+        sources.append(str(comment.get("body") or ""))
+    for source in reversed(sources):
+        match = MAIAR_REWARD_PATTERN.search(source)
+        if match:
+            return float(re.sub(r"[\s,]", "", match.group("amount")))
+    return None
+
+
+def normalize_maiar(item: dict[str, Any], reward_amount: float) -> Opportunity:
+    return Opportunity(
+        provider="maiar",
+        id=str(item.get("id", "")),
+        title=str(item.get("title", "Untitled issue")),
+        url=str(item.get("html_url", "")),
+        reward_amount=reward_amount,
+        reward_token="MAIAR",
+        sponsor="UraniumCorporation",
+        category="issue",
+        status=str(item.get("state", "open")),
+        submission_mode="github_rfc_pr_auto_solana_payout",
+        autonomous=True,
+        risk_flags=[
+            "maintainer_merge_required",
+            "reward_token_low_volume",
+            "reward_token_price_volatile",
+            "rfc_approval_required",
+        ],
+        summary=(
+            "Repository-native bounty with automatic on-chain payout to the Solana "
+            "address in the merged PR. Reward value depends on MAIAR liquidity."
+        ),
+    )
+
+
+def fetch_maiar() -> list[Opportunity]:
+    headers = {"Accept": "application/vnd.github+json"}
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    params = {"state": "open", "labels": "bounty", "per_page": 100}
+    issues = fetch_json(
+        f"https://api.github.com/repos/UraniumCorporation/maiar-ai/issues?{urlencode(params)}",
+        headers=headers,
+    )
+    if not isinstance(issues, list):
+        raise RadarError("MAIAR returned an invalid issue list")
+
+    opportunities: list[Opportunity] = []
+    for issue in issues:
+        if issue.get("pull_request"):
+            continue
+        labels = {str(label.get("name") or "").casefold() for label in issue.get("labels") or []}
+        if "bounty paid" in labels:
+            continue
+        comments: list[dict[str, Any]] = []
+        comments_url = issue.get("comments_url")
+        if comments_url:
+            try:
+                response = fetch_json(f"{comments_url}?per_page=100", headers=headers)
+                if isinstance(response, list):
+                    comments = response
+            except Exception:
+                comments = []
+        reward_amount = extract_maiar_reward(issue, comments)
+        if reward_amount is not None:
+            opportunities.append(normalize_maiar(issue, reward_amount))
+    return opportunities
+
+
 PROVIDERS = {
+    "taskbounty": fetch_taskbounty,
     "superteam": fetch_superteam,
     "gibwork": fetch_gibwork,
     "algora": fetch_algora,
+    "maiar": fetch_maiar,
     "github": fetch_github,
 }
 

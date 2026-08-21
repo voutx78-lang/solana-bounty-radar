@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 52,
+  "opportunity_count": 51,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -95,7 +95,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,294 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,295 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -155,7 +155,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 18,926 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 18,928 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -195,7 +195,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 42,286 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 42,285 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -316,26 +316,6 @@
         "bounty_status_requires_review"
       ],
       "summary": "Official Algora announcement; repository has 2,269 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1",
-      "title": "Share Your BASIS Portfolio Pick ONE angle",
-      "url": "https://app.gib.work/tasks/bd08ea9b-4b6b-46c3-8b78-01ad7621b3a1",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": "2026-08-21T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. Which asset you stake (BTC / ETH / SOL / PAXG) and why you picked it 2. How you split"
     },
     {
       "provider": "gibwork",

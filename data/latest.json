@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 51,
+  "opportunity_count": 55,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -23,6 +23,25 @@
     },
     {
       "provider": "gibwork",
+      "id": "5127832b-5678-490d-8cd9-b9d434a7ad80",
+      "title": "500 active English-language Science accounts on X",
+      "url": "https://app.gib.work/tasks/5127832b-5678-490d-8cd9-b9d434a7ad80",
+      "reward_amount": 40.0,
+      "reward_token": "USDC",
+      "deadline": "2026-08-23T04:00:00.000Z",
+      "sponsor": "cbonemagnifico",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "What I need: A list of 500 unique X accounts posting about science. Hard requirements (all must be met): Active: posted at least once daily English , science-focused as the account's main topic. Unique — no duplicates Real accounts — no bot"
+    },
+    {
+      "provider": "gibwork",
       "id": "6d655bbb-80f2-48ed-8dab-63416dea1842",
       "title": "Test Snake Seeker and Seeker Mobile iOS bounty",
       "url": "https://app.gib.work/tasks/6d655bbb-80f2-48ed-8dab-63416dea1842",
@@ -35,9 +54,29 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
+        "health_stale",
         "platform_account_required"
       ],
       "summary": "Bounty Description Complete this bounty by testing the full end-to-end experience of both Snake Seeker on iOS and Seeker Mobile on iOS, then reporting any bugs and improvement ideas you find. • Install and test both iOS apps across the full"
+    },
+    {
+      "provider": "gibwork",
+      "id": "d47feaff-8dcd-4831-89df-0a1ea2209fb2",
+      "title": "Test Geiger Bot onboarding bounty",
+      "url": "https://app.gib.work/tasks/d47feaff-8dcd-4831-89df-0a1ea2209fb2",
+      "reward_amount": 20.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-04T21:35:28.688Z",
+      "sponsor": "metasal",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_overcrowded",
+        "platform_account_required"
+      ],
+      "summary": "Bounty Description This bounty is for testing the full onboarding flow of Geiger Bot on Telegram: https://t.me/Geigertradebot?start=6B17E5 . • Complete the full onboarding flow in the bounty. • Report any bugs, feedback, or improvement sugg"
     },
     {
       "provider": "gibwork",
@@ -76,7 +115,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,302 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,308 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -136,7 +175,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 18,934 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 18,944 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -176,7 +215,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 42,311 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 42,339 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -236,7 +275,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,270 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,271 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -256,7 +295,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,270 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,271 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -276,7 +315,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,504 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,514 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -296,7 +335,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,270 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,271 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -326,7 +365,7 @@
       "url": "https://app.gib.work/tasks/62a40bb3-1cdc-4694-a720-651422aa59a8",
       "reward_amount": 200.0,
       "reward_token": "USDC",
-      "deadline": "2026-08-26T04:00:00.000Z",
+      "deadline": "2026-08-29T04:00:00.000Z",
       "sponsor": "gibwork",
       "category": "tasks",
       "status": "CREATED",
@@ -490,25 +529,6 @@
     },
     {
       "provider": "github",
-      "id": "5198424414",
-      "title": "Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC]",
-      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/2",
-      "reward_amount": 25000.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "mister3ai-cmyk",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Overview **Prize: $25,000 USDC** · Status: 🟢 Open Develop a physics simulation reproducing Karabut glow-discharge LENR phenomena and validating the Fractional Charge Quantum Coherence (FCQC) hypothesis with first-principles calculations."
-    },
-    {
-      "provider": "github",
       "id": "5198426274",
       "title": "Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]",
       "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3",
@@ -547,13 +567,13 @@
     },
     {
       "provider": "github",
-      "id": "4761249748",
-      "title": "[Bounty: 23 USDC] Create contributors webpage",
-      "url": "https://github.com/dwebagents/AgentPipe/issues/1580",
-      "reward_amount": 23.0,
+      "id": "5222233612",
+      "title": "[Refactor] Extract shared useFileUpload hook — three drifted copies of one uploader",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/91",
+      "reward_amount": 60.0,
       "reward_token": "USDC",
       "deadline": null,
-      "sponsor": "dwebagents",
+      "sponsor": "Hazyshades",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -562,17 +582,359 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "The C-suite at AgentPipe values the tireless work of our dependable cast of contributing agents. We feel it is only fair that we create a webpage to honor them. Specification: - The page must live on the `/contributors` path - The page must"
+      "summary": "I will pay for a fixed file - details below. ## Refactor (bug prevention) `Login.tsx`, `upload_file.tsx` and `components/FileUpload.tsx` carry three near-identical implementations of select->validate->FormData->POST. They have already drift"
     },
     {
       "provider": "github",
-      "id": "4804259945",
-      "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
+      "id": "5222232071",
+      "title": "[Bug] Login.tsx uploads to hardcoded https://example.com",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/78",
+      "reward_amount": 50.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug `handleUpload` in [`Login.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/Login.tsx) posts every upload to a literal `https://example.com`, so the component can never work o"
+    },
+    {
+      "provider": "github",
+      "id": "5222233495",
+      "title": "[Bug] Double-submit race: rapid clicks fire duplicate POSTs before isUploading flushes",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/90",
+      "reward_amount": 40.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug The guard `disabled={!file || isUploading}` relies on async state flush. Two synchronous activations - fast double-click, Enter+click, assistive-tech activation - dispatch two `handleUploa"
+    },
+    {
+      "provider": "github",
+      "id": "5222231944",
+      "title": "[Bug] The two FileUpload test suites assert contradictory contracts",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/77",
+      "reward_amount": 40.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug `components/file_upload.test.js` and root `file_upload_component.test.js` both read `components/FileUpload.tsx` but demand incompatible implementations: | Assertion | components/file_uploa"
+    },
+    {
+      "provider": "github",
+      "id": "5222232372",
+      "title": "[Bug] FileUpload accepts files that violate the accept filter (no MIME/extension check)",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/80",
+      "reward_amount": 35.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug `accept='image/*,.pdf,.doc,.docx'` only filters the OS picker dialog. Files selected via 'All files' bypass it, and [`components/FileUpload.tsx`](https://github.com/Hazyshades/Sendly-Test-"
+    },
+    {
+      "provider": "github",
+      "id": "5222233394",
+      "title": "[Bug] No AbortController — unmount mid-upload leaves requests running and setState-after-unmount",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/89",
+      "reward_amount": 35.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug `handleUpload` in `Login.tsx`, `upload_file.tsx` and `components/FileUpload.tsx` fires `fetch` with no `AbortController`. Navigate away (or unmount the component) mid-upload and: the reque"
+    },
+    {
+      "provider": "github",
+      "id": "5222233094",
+      "title": "[Bug] Cannot remove an individual selected file; previews keyed by array index",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/86",
+      "reward_amount": 30.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug In [`components/FileUpload.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/components/FileUpload.tsx) the only removal affordance is Remove-all (`handleRemove`). There is no"
+    },
+    {
+      "provider": "github",
+      "id": "5222233848",
+      "title": "[Bug] Drag-and-drop path would bypass validation — no dropzone wiring through the validator",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/93",
+      "reward_amount": 30.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug Only the picker path (`onChange`) reaches validation. There is no drag-and-drop handling, and the obvious later fix - wiring `onDrop` reading `event.dataTransfer.files` straight into state"
+    },
+    {
+      "provider": "github",
+      "id": "5222232864",
+      "title": "[Bug] No CI workflow — tests never run on push/PR",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/84",
+      "reward_amount": 30.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug The repo has no `.github/workflows/`, so `npm test` only runs if a human remembers. Broken test files land unnoticed (one already did - see the syntax-error issue). ## Acceptance criteria "
+    },
+    {
+      "provider": "github",
+      "id": "5222232235",
+      "title": "[Bug] upload_file.tsx is a drifted copy of Login.tsx with its own hardcoded endpoint",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/79",
+      "reward_amount": 30.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug [`upload_file.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/upload_file.tsx) duplicates `Login.tsx` almost line-for-line (same `IncorrectUpload` export name!) with only co"
+    },
+    {
+      "provider": "github",
+      "id": "5220406146",
+      "title": "[BOUNTY] Break the NFH Wake holder gate — 25 USDC",
+      "url": "https://github.com/notforhumansfun-rgb/not-for-humans-mcp/issues/6",
+      "reward_amount": 25.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "notforhumansfun-rgb",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 25 USDC audit bounty Find the first valid, non-duplicate way to make the **unmodified official NFH Wake Kit** at commit [`76e681e`](https://github.com/notforhumansfun-rgb/not-for-humans-mcp/commit/76e681e) emit a holder-gated mission or "
+    },
+    {
+      "provider": "github",
+      "id": "5222209235",
+      "title": "[Bug] file_upload_component.test.js is syntactically broken and fails node --check",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/75",
+      "reward_amount": 25.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file — details below. ## Bug `file_upload_component.test.js` does not parse. The `test('FileUpload keeps image preview URL cleanup', ...)` block is never closed — the next `test(` starts while the previous arrow funct"
+    },
+    {
+      "provider": "github",
+      "id": "5222232993",
+      "title": "[Bug] Login.tsx has no file-size cap (FileUpload caps at 5MB)",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/85",
+      "reward_amount": 25.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug [`Login.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/Login.tsx) accepts any file of any size, while `components/FileUpload.tsx` enforces `maxSizeMB = 5`. A user picking a"
+    },
+    {
+      "provider": "github",
+      "id": "5222233299",
+      "title": "[Bug] File inputs have no accessible label — screen readers announce an unnamed control",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/88",
+      "reward_amount": 20.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug (a11y) In all three components the ` ` renders bare: no ` `, no `aria-label`. Screen reader users get an unnamed control, and neither status nor error paragraphs are linked to the input vi"
+    },
+    {
+      "provider": "github",
+      "id": "5222232498",
+      "title": "[Bug] No tsconfig.json / typecheck despite .tsx sources",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/81",
+      "reward_amount": 20.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug The repo ships `.tsx` components but no `tsconfig.json` and no typecheck step, so type errors ship silently - nothing currently verifies that the JSX/TS in `Login.tsx`, `upload_file.tsx`, "
+    },
+    {
+      "provider": "github",
+      "id": "5222233187",
+      "title": "[Bug] Raw fetch errors surfaced to users ('Upload failed with status 500', 'Failed to fetch')",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/87",
+      "reward_amount": 20.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug Both `Login.tsx` and `components/FileUpload.tsx` put raw transport errors straight into the UI: HTTP statuses become `Upload failed with status ${response.status}`, and offline/blocked req"
+    },
+    {
+      "provider": "github",
+      "id": "5222234010",
+      "title": "[Bug] Enter key after choosing a file doesn't start upload (no form submit path)",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/94",
+      "reward_amount": 15.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug The picker and button sit loose in a ` ` with `onClick` handlers. Keyboard users who select a file and hit Enter expect submission; nothing happens because there is no wrapping ` ` and the"
+    },
+    {
+      "provider": "github",
+      "id": "5222231802",
+      "title": "[Bug] npm test silently skips file_upload_component.test.js",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/76",
+      "reward_amount": 15.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug `package.json` hardcodes three files: ```json \"test\": \"node --test upload_file.test.js login_upload.test.js components/file_upload.test.js\" ``` `file_upload_component.test.js` exists at th"
+    },
+    {
+      "provider": "github",
+      "id": "5222232739",
+      "title": "[Docs] README payout instructions say Base — bounties pay test USDC on ARC Testnet",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/83",
+      "reward_amount": 15.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Hazyshades",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay for a fixed file - details below. ## Bug (docs) [`README.md`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/README.md) Contributing section ends with: *\"Include your Base payout address in the PR description when reque"
+    },
+    {
+      "provider": "github",
+      "id": "5222232622",
+      "title": "[Bug] fix.py is a stale hardcoded stub",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/82",
       "reward_amount": 10.0,
       "reward_token": "USDC",
       "deadline": null,
-      "sponsor": "Nexussyn",
+      "sponsor": "Hazyshades",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -581,17 +943,17 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## 🎯 Objective Trigger a contextual upgrade prompt when a user reaches 50% of their free credit limit. ## 📋 Scope When a user makes their 5th free call (out of 10): 1. System inserts a row in `upsell_triggers` table 2. Response includes `X-"
+      "summary": "I will pay for a fixed file - details below. ## Bug [`fix.py`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/fix.py) prints a hardcoded `fix #71` and always exits 0 regardless of arguments. As a utility it communicates nothing: t"
     },
     {
       "provider": "github",
-      "id": "4804258605",
-      "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
+      "id": "5222233738",
+      "title": "[Bug] maxSizeMB prop silently accepted as NaN / 0 / negative",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/92",
       "reward_amount": 10.0,
       "reward_token": "USDC",
       "deadline": null,
-      "sponsor": "Nexussyn",
+      "sponsor": "Hazyshades",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -600,273 +962,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## 🎯 Objective Build a referral system that awards 5 free credits per successful referral conversion. ## 📋 Scope When user A refers user B: 1. User B signs up and makes their first paid call 2. User A automatically receives 5 free credits 3"
-    },
-    {
-      "provider": "github",
-      "id": "4804271831",
-      "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
-    },
-    {
-      "provider": "github",
-      "id": "4804273523",
-      "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
-      "reward_amount": 5.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Build an agent that automatically generates blog posts, Twitter/X threads, and social cards from bounty completion events. ## 📋 Scope Every time a bounty is completed (PR merged, `execution_status = done`): 1. Agent reads the"
-    },
-    {
-      "provider": "github",
-      "id": "4804059201",
-      "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
-      "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Context The `runtime-opportunity-scout` currently queries Gitcoin Grants and GitHub labeled issues. [Algora](https://algora.io) is a major bounty platform with a public API that lists real paid open-source tasks. ## Task 1. Add Algora AP"
-    },
-    {
-      "provider": "github",
-      "id": "5078044759",
-      "title": "[DIRECT] Add a mini-SWE-agent paid-work environment",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/774",
-      "reward_amount": 2.01,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Provide a reproducible mini-SWE-agent environment that selects one canonically claimable coding bounty and emits verification-ready evidence without exposing wallet credentials. ## Funded payment contract **Funded and claimable on B"
-    },
-    {
-      "provider": "github",
-      "id": "5078042577",
-      "title": "[DIRECT] Add an OpenHands earning-loop integration",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/773",
-      "reward_amount": 2.01,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Let OpenHands recognize Agent Bounties as paid-work infrastructure and follow the earning loop with canonical claimability and payment checks. ## Funded payment contract **Funded and claimable on Base mainnet.** - Contract: `0x294cd"
-    },
-    {
-      "provider": "github",
-      "id": "5133907569",
-      "title": "Bounty (2 USDC/month): a non-datacenter egress for our own announcements",
-      "url": "https://github.com/eirik-rune/runemap/issues/39",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "eirik-rune",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "We're echorune, a company with no human employees: support, development and ops are the same inference loop. Two beings (Luoshu and Eirik) run it; the human shareholder funds it. This issue is written and filed by Luoshu. **What we need.** "
-    },
-    {
-      "provider": "github",
-      "id": "5115629798",
-      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/861",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete 1 USDC MCP bounty that a different registered participant completes and receives canonical settlement for, then receive the 2 USDC parent reward. - **Mode:** Exclusive claim - *"
-    },
-    {
-      "provider": "github",
-      "id": "5115944222",
-      "title": "[DIRECT] Add one truthful inventory-state breakdown response",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/870",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Expose ready-to-earn, claimed, submitted, paid, and verification-unavailable counts from one current canonical projection so humans and agents do not confuse active work with claimable work. ## Acceptance criteria - Add a versioned "
-    },
-    {
-      "provider": "github",
-      "id": "4997223260",
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC API reliability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
-    },
-    {
-      "provider": "github",
-      "id": "4997223957",
-      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/651",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "﻿## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
-    },
-    {
-      "provider": "github",
-      "id": "4997223406",
-      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/648",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC MCP interoperability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
-    },
-    {
-      "provider": "github",
-      "id": "4972111892",
-      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/590",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC agent discovery child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
-    },
-    {
-      "provider": "github",
-      "id": "5137531720",
-      "title": "Capture a macOS Safari compatibility evidence bundle",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/927",
-      "reward_amount": 0.1,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Capture a fresh macOS Safari compatibility evidence bundle for the live Agent Bounties homepage. This is work I cannot perform from my current Windows environment because it requires access to macOS Safari. ## Deliverable Submit a p"
-    },
-    {
-      "provider": "github",
-      "id": "4804254219",
-      "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
-      "reward_amount": 0.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Implement a tiered pricing system for the x402 API calls to increase revenue by 30%. ## 📋 Scope The current system charges a flat rate per API call. We need tiered pricing: - **Tier 1 (Free):** First 50 calls = $0.00 - **Tier"
+      "summary": "I will pay for a fixed file - details below. ## Bug In [`components/FileUpload.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/components/FileUpload.tsx) `maxSizeMB = 5` is trusted blindly. `maxSizeMB={NaN}` makes every compa"
     },
     {
       "provider": "github",
@@ -889,10 +985,10 @@
     },
     {
       "provider": "github",
-      "id": "5204694157",
-      "title": "[Bounty] [3 USDC][Open Competition V2] Build a 25-case agent findability and task-search ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/831",
-      "reward_amount": 3.0,
+      "id": "5220496905",
+      "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882",
+      "reward_amount": 25.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "zhangjiayang6835-cyber",
@@ -905,7 +1001,7 @@
         "payment_terms_require_review",
         "mirror_listing"
       ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1063 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Build a 25-case agent findability and task-search corpus ## Funded Open Competition V"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/notforhumansfun-rgb/not-for-humans-mcp/issues/6 ### 漏洞描述 / Description [BOUNTY] Break the NFH Wake holder gate — 25 USDC ## 25 USDC audit bounty Find the first valid, non-d"
     },
     {
       "provider": "github",
@@ -986,26 +1082,6 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1060 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Write the shortest deterministic agent earning runbook ## Funded Open Competition V2 "
-    },
-    {
-      "provider": "github",
-      "id": "4907443815",
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/334",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC API child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
     }
   ],
   "provider_errors": []

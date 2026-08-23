@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 55,
+  "opportunity_count": 54,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -20,25 +20,6 @@
         "platform_account_required"
       ],
       "summary": "Create a simple script that can add or remove a Discord role from users who reacted to a specific message or voted on a poll message. The script will be run locally and should not operate as a continuously running Discord bot. Requirements "
-    },
-    {
-      "provider": "gibwork",
-      "id": "5127832b-5678-490d-8cd9-b9d434a7ad80",
-      "title": "500 active English-language Science accounts on X",
-      "url": "https://app.gib.work/tasks/5127832b-5678-490d-8cd9-b9d434a7ad80",
-      "reward_amount": 40.0,
-      "reward_token": "USDC",
-      "deadline": "2026-08-23T04:00:00.000Z",
-      "sponsor": "cbonemagnifico",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "What I need: A list of 500 unique X accounts posting about science. Hard requirements (all must be met): Active: posted at least once daily English , science-focused as the account's main topic. Unique — no duplicates Real accounts — no bot"
     },
     {
       "provider": "gibwork",
@@ -115,7 +96,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,308 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,320 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -175,7 +156,47 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 18,944 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 18,953 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
+      "title": "Share How You Got Started with BASIS Pick ONE angle",
+      "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
+      "reward_amount": 66.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-04T09:18:35.259Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. What made you try BASIS in the first place 2. How long it took from signup to your fi"
+    },
+    {
+      "provider": "gibwork",
+      "id": "6f4e4020-ed4f-409d-9091-9fb978efa53c",
+      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
+      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c",
+      "reward_amount": 38.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-03T09:40:30.028Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "The market is moving — BTC, ETH, and SOL are on a strong run. We want to hear from long-term holders using BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, about making their assets work between rallies. Pick ONE ang"
     },
     {
       "provider": "algora",
@@ -215,7 +236,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 42,339 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 42,361 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -315,7 +336,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,514 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,532 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -380,27 +401,6 @@
       "summary": "Join live X Spaces, actively participate, and collect three unique reward codes shared during the sessions. This task is designed for participants who can attend audio community events on X, engage meaningfully by asking questions or contri"
     },
     {
-      "provider": "gibwork",
-      "id": "cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
-      "title": "Share How You Got Started with BASIS Pick ONE angle",
-      "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
-      "reward_amount": 66.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-04T09:18:35.259Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. What made you try BASIS in the first place 2. How long it took from signup to your fi"
-    },
-    {
       "provider": "algora",
       "id": "3776235284",
       "title": "Add SHA-3 (Keccak) Hashing Support",
@@ -420,27 +420,6 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "6f4e4020-ed4f-409d-9091-9fb978efa53c",
-      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
-      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c",
-      "reward_amount": 38.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-03T09:40:30.028Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "The market is moving — BTC, ETH, and SOL are on a strong run. We want to hear from long-term holders using BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, about making their assets work between rallies. Pick ONE ang"
     },
     {
       "provider": "algora",
@@ -966,25 +945,6 @@
     },
     {
       "provider": "github",
-      "id": "3918732672",
-      "title": "[BOUNTY] wRTC Visibility Pack — Token Lists + Trackers + Logo (75 RTC)",
-      "url": "https://github.com/Scottcjn/rustchain-bounties/issues/89",
-      "reward_amount": null,
-      "reward_token": null,
-      "deadline": null,
-      "sponsor": "Scottcjn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Make **wRTC** easy to find and hard to spoof by getting it listed/verified across major Solana token lists + explorers. ## Canonical wRTC Info (for verification) - Mint: `12TAdKXxcGf6oCv4rqDz2NkgxjyHq6HQKoxKZYGf5i4X` - Decimals: `6`"
-    },
-    {
-      "provider": "github",
       "id": "5220496905",
       "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882",
@@ -1002,6 +962,26 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/notforhumansfun-rgb/not-for-humans-mcp/issues/6 ### 漏洞描述 / Description [BOUNTY] Break the NFH Wake holder gate — 25 USDC ## 25 USDC audit bounty Find the first valid, non-d"
+    },
+    {
+      "provider": "github",
+      "id": "5204694157",
+      "title": "[Bounty] [3 USDC][Open Competition V2] Build a 25-case agent findability and task-search ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/831",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1063 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Build a 25-case agent findability and task-search corpus ## Funded Open Competition V"
     },
     {
       "provider": "github",

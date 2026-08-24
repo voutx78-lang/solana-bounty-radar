@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 54,
+  "opportunity_count": 57,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -54,10 +54,29 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "health_overcrowded",
+        "health_stale",
         "platform_account_required"
       ],
       "summary": "Bounty Description This bounty is for testing the full onboarding flow of Geiger Bot on Telegram: https://t.me/Geigertradebot?start=6B17E5 . • Complete the full onboarding flow in the bounty. • Report any bugs, feedback, or improvement sugg"
+    },
+    {
+      "provider": "gibwork",
+      "id": "c845741c-aee3-459b-a642-e643588216b7",
+      "title": "Daily Login Challenge: Track Your Progress & Win Exclusive Rewards",
+      "url": "https://app.gib.work/tasks/c845741c-aee3-459b-a642-e643588216b7",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-07T12:14:20.777Z",
+      "sponsor": "godswill",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Sign up: https://quip.gg/r/R2D78480 using the specified email (note the email you used with my referral link there may be multiple links, so keep track of your chosen email). Log in daily (Today , Tuesday, and Wednesday) and play the game. "
     },
     {
       "provider": "gibwork",
@@ -96,7 +115,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,320 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,334 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -136,7 +155,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 141 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -156,47 +175,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 18,953 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
-      "title": "Share How You Got Started with BASIS Pick ONE angle",
-      "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
-      "reward_amount": 66.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-04T09:18:35.259Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. What made you try BASIS in the first place 2. How long it took from signup to your fi"
-    },
-    {
-      "provider": "gibwork",
-      "id": "6f4e4020-ed4f-409d-9091-9fb978efa53c",
-      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
-      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c",
-      "reward_amount": 38.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-03T09:40:30.028Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "The market is moving — BTC, ETH, and SOL are on a strong run. We want to hear from long-term holders using BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, about making their assets work between rallies. Pick ONE ang"
+      "summary": "Official Algora announcement; repository has 18,956 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -236,7 +215,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 42,361 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 42,410 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -279,6 +258,26 @@
       "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools — no cu"
     },
     {
+      "provider": "gibwork",
+      "id": "813ca5bf-58e3-4d8e-a3e6-3e0e8d4b7afa",
+      "title": "Axzra Outreach Agent QRT Bounty",
+      "url": "https://app.gib.work/tasks/813ca5bf-58e3-4d8e-a3e6-3e0e8d4b7afa",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-07T14:54:16.457Z",
+      "sponsor": "jaysmith",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "About Axzra Axzra is a growth partner helping companies connect with the right talent and services to grow. We provide services including website design, community management, marketing, content, and more. Explore Axzra : https://axzra.co J"
+    },
+    {
       "provider": "algora",
       "id": "3264413457",
       "title": "\"Unresolved Reference\" on .md files in subfolders",
@@ -296,7 +295,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,271 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,274 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -316,7 +315,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,271 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,274 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -336,7 +335,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,532 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,547 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -356,7 +355,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,271 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,274 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -401,6 +400,27 @@
       "summary": "Join live X Spaces, actively participate, and collect three unique reward codes shared during the sessions. This task is designed for participants who can attend audio community events on X, engage meaningfully by asking questions or contri"
     },
     {
+      "provider": "gibwork",
+      "id": "f4fe8999-c31a-49f0-9746-abc60385f605",
+      "title": "Share Your BASIS Strategy Pick ONE angle",
+      "url": "https://app.gib.work/tasks/f4fe8999-c31a-49f0-9746-abc60385f605",
+      "reward_amount": 100.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-07T14:42:57.420Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "We want to hear how people actually run their BASIS positions the market-neutral yield platform from Base58 Labs ( basis.pro ). Pick ONE angle below and post your take on X: 1. Your compounding setup claim and re-stake, and how often 2. You"
+    },
+    {
       "provider": "algora",
       "id": "3776235284",
       "title": "Add SHA-3 (Keccak) Hashing Support",
@@ -420,6 +440,48 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
+      "title": "Share How You Got Started with BASIS Pick ONE angle",
+      "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
+      "reward_amount": 19.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-04T09:18:35.259Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. What made you try BASIS in the first place 2. How long it took from signup to your fi"
+    },
+    {
+      "provider": "gibwork",
+      "id": "6f4e4020-ed4f-409d-9091-9fb978efa53c",
+      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
+      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c",
+      "reward_amount": 18.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-03T09:40:30.028Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "The market is moving — BTC, ETH, and SOL are on a strong run. We want to hear from long-term holders using BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, about making their assets work between rallies. Pick ONE ang"
     },
     {
       "provider": "algora",
@@ -527,25 +589,6 @@
     },
     {
       "provider": "github",
-      "id": "5198422735",
-      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
-      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1",
-      "reward_amount": 15000.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "mister3ai-cmyk",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Overview **Prize: $15,000 USDC** · Status: 🟢 Open Build a fully reproducible, containerized bioinformatics pipeline linking SIRT6 histone deacetylation marks to biological aging pace. --- ## Objective 1. Process raw FASTQ ChIP-seq reads "
-    },
-    {
-      "provider": "github",
       "id": "5222233612",
       "title": "[Refactor] Extract shared useFileUpload hook — three drifted copies of one uploader",
       "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/91",
@@ -622,25 +665,6 @@
     },
     {
       "provider": "github",
-      "id": "5222232372",
-      "title": "[Bug] FileUpload accepts files that violate the accept filter (no MIME/extension check)",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/80",
-      "reward_amount": 35.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug `accept='image/*,.pdf,.doc,.docx'` only filters the OS picker dialog. Files selected via 'All files' bypass it, and [`components/FileUpload.tsx`](https://github.com/Hazyshades/Sendly-Test-"
-    },
-    {
-      "provider": "github",
       "id": "5222233394",
       "title": "[Bug] No AbortController — unmount mid-upload leaves requests running and setState-after-unmount",
       "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/89",
@@ -657,25 +681,6 @@
         "payment_terms_require_review"
       ],
       "summary": "I will pay for a fixed file - details below. ## Bug `handleUpload` in `Login.tsx`, `upload_file.tsx` and `components/FileUpload.tsx` fires `fetch` with no `AbortController`. Navigate away (or unmount the component) mid-upload and: the reque"
-    },
-    {
-      "provider": "github",
-      "id": "5222233094",
-      "title": "[Bug] Cannot remove an individual selected file; previews keyed by array index",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/86",
-      "reward_amount": 30.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug In [`components/FileUpload.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/components/FileUpload.tsx) the only removal affordance is Remove-all (`handleRemove`). There is no"
     },
     {
       "provider": "github",
@@ -698,25 +703,6 @@
     },
     {
       "provider": "github",
-      "id": "5222232864",
-      "title": "[Bug] No CI workflow — tests never run on push/PR",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/84",
-      "reward_amount": 30.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug The repo has no `.github/workflows/`, so `npm test` only runs if a human remembers. Broken test files land unnoticed (one already did - see the syntax-error issue). ## Acceptance criteria "
-    },
-    {
-      "provider": "github",
       "id": "5222232235",
       "title": "[Bug] upload_file.tsx is a drifted copy of Login.tsx with its own hardcoded endpoint",
       "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/79",
@@ -733,25 +719,6 @@
         "payment_terms_require_review"
       ],
       "summary": "I will pay for a fixed file - details below. ## Bug [`upload_file.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/upload_file.tsx) duplicates `Login.tsx` almost line-for-line (same `IncorrectUpload` export name!) with only co"
-    },
-    {
-      "provider": "github",
-      "id": "5220406146",
-      "title": "[BOUNTY] Break the NFH Wake holder gate — 25 USDC",
-      "url": "https://github.com/notforhumansfun-rgb/not-for-humans-mcp/issues/6",
-      "reward_amount": 25.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "notforhumansfun-rgb",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 25 USDC audit bounty Find the first valid, non-duplicate way to make the **unmodified official NFH Wake Kit** at commit [`76e681e`](https://github.com/notforhumansfun-rgb/not-for-humans-mcp/commit/76e681e) emit a holder-gated mission or "
     },
     {
       "provider": "github",
@@ -850,25 +817,6 @@
     },
     {
       "provider": "github",
-      "id": "5222234010",
-      "title": "[Bug] Enter key after choosing a file doesn't start upload (no form submit path)",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/94",
-      "reward_amount": 15.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug The picker and button sit loose in a ` ` with `onClick` handlers. Keyboard users who select a file and hit Enter expect submission; nothing happens because there is no wrapping ` ` and the"
-    },
-    {
-      "provider": "github",
       "id": "5222231802",
       "title": "[Bug] npm test silently skips file_upload_component.test.js",
       "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/76",
@@ -885,25 +833,6 @@
         "payment_terms_require_review"
       ],
       "summary": "I will pay for a fixed file - details below. ## Bug `package.json` hardcodes three files: ```json \"test\": \"node --test upload_file.test.js login_upload.test.js components/file_upload.test.js\" ``` `file_upload_component.test.js` exists at th"
-    },
-    {
-      "provider": "github",
-      "id": "5222232739",
-      "title": "[Docs] README payout instructions say Base — bounties pay test USDC on ARC Testnet",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/83",
-      "reward_amount": 15.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug (docs) [`README.md`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/README.md) Contributing section ends with: *\"Include your Base payout address in the PR description when reque"
     },
     {
       "provider": "github",
@@ -942,6 +871,121 @@
         "payment_terms_require_review"
       ],
       "summary": "I will pay for a fixed file - details below. ## Bug In [`components/FileUpload.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/components/FileUpload.tsx) `maxSizeMB = 5` is trusted blindly. `maxSizeMB={NaN}` makes every compa"
+    },
+    {
+      "provider": "github",
+      "id": "4997223957",
+      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/651",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "﻿## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
+    },
+    {
+      "provider": "github",
+      "id": "4907443847",
+      "title": "[META] Earn 1 USDC margin with an MCP bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/335",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC MCP child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
+    },
+    {
+      "provider": "github",
+      "id": "5115631596",
+      "title": "[Bounty] Seed a paid API child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/863",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete API coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **Solver "
+    },
+    {
+      "provider": "github",
+      "id": "5115632948",
+      "title": "[Bounty] Seed a paid CLI child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/865",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete CLI coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **Solver "
+    },
+    {
+      "provider": "github",
+      "id": "5115632311",
+      "title": "[Bounty] Seed a paid wallet UX child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/864",
+      "reward_amount": 0.9,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete wallet UX coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **S"
+    },
+    {
+      "provider": "github",
+      "id": "5198741090",
+      "title": "[Bounty] Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/829",
+      "reward_amount": 15000.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1 ### 漏洞描述 / Description Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC] ## Overview **Prize: $15,000 U"
     },
     {
       "provider": "github",
@@ -1062,6 +1106,26 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1060 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Write the shortest deterministic agent earning runbook ## Funded Open Competition V2 "
+    },
+    {
+      "provider": "github",
+      "id": "4907443815",
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/334",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC API child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
     }
   ],
   "provider_errors": []

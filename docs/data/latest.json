@@ -1,26 +1,8 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 57,
+  "opportunity_count": 55,
   "opportunities": [
-    {
-      "provider": "gibwork",
-      "id": "eb27b396-5766-4a8f-ab60-5a41a2cc3e0b",
-      "title": "Create a Discord Script",
-      "url": "https://app.gib.work/tasks/eb27b396-5766-4a8f-ab60-5a41a2cc3e0b",
-      "reward_amount": 60.0,
-      "reward_token": "USDC",
-      "deadline": "2026-08-25T17:47:00.494Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required"
-      ],
-      "summary": "Create a simple script that can add or remove a Discord role from users who reacted to a specific message or voted on a poll message. The script will be run locally and should not operate as a continuously running Discord bot. Requirements "
-    },
     {
       "provider": "gibwork",
       "id": "6d655bbb-80f2-48ed-8dab-63416dea1842",
@@ -60,44 +42,6 @@
       "summary": "Bounty Description This bounty is for testing the full onboarding flow of Geiger Bot on Telegram: https://t.me/Geigertradebot?start=6B17E5 . • Complete the full onboarding flow in the bounty. • Report any bugs, feedback, or improvement sugg"
     },
     {
-      "provider": "gibwork",
-      "id": "c845741c-aee3-459b-a642-e643588216b7",
-      "title": "Daily Login Challenge: Track Your Progress & Win Exclusive Rewards",
-      "url": "https://app.gib.work/tasks/c845741c-aee3-459b-a642-e643588216b7",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-07T12:14:20.777Z",
-      "sponsor": "godswill",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Sign up: https://quip.gg/r/R2D78480 using the specified email (note the email you used with my referral link there may be multiple links, so keep track of your chosen email). Log in daily (Today , Tuesday, and Wednesday) and play the game. "
-    },
-    {
-      "provider": "gibwork",
-      "id": "8470175e-97da-49e8-9b23-4ce91766eb7e",
-      "title": "Join Startale App",
-      "url": "https://app.gib.work/tasks/8470175e-97da-49e8-9b23-4ce91766eb7e",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": "2026-08-31T11:43:10.997Z",
-      "sponsor": "risingstars",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_stale",
-        "platform_account_required"
-      ],
-      "summary": "🔗 Join Startale App via my referral link:- https://app.startale.com/sign-up?code=TNHZBS37 Please use the referral link above to create your new Startale App account. Join Startale App, create your in-app wallet, complete genuine Soneium onc"
-    },
-    {
       "provider": "algora",
       "id": "2959305187",
       "title": "[BOUNTY] WearOS Support [$1340]",
@@ -115,7 +59,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,334 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,346 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -175,7 +119,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 18,956 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 18,966 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -195,7 +139,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 41 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 42 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -215,7 +159,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 42,410 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 42,443 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -335,7 +279,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,547 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,558 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -400,27 +344,6 @@
       "summary": "Join live X Spaces, actively participate, and collect three unique reward codes shared during the sessions. This task is designed for participants who can attend audio community events on X, engage meaningfully by asking questions or contri"
     },
     {
-      "provider": "gibwork",
-      "id": "f4fe8999-c31a-49f0-9746-abc60385f605",
-      "title": "Share Your BASIS Strategy Pick ONE angle",
-      "url": "https://app.gib.work/tasks/f4fe8999-c31a-49f0-9746-abc60385f605",
-      "reward_amount": 100.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-07T14:42:57.420Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "We want to hear how people actually run their BASIS positions the market-neutral yield platform from Base58 Labs ( basis.pro ). Pick ONE angle below and post your take on X: 1. Your compounding setup claim and re-stake, and how often 2. You"
-    },
-    {
       "provider": "algora",
       "id": "3776235284",
       "title": "Add SHA-3 (Keccak) Hashing Support",
@@ -446,7 +369,7 @@
       "id": "cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
       "title": "Share How You Got Started with BASIS Pick ONE angle",
       "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
-      "reward_amount": 19.0,
+      "reward_amount": 13.0,
       "reward_token": "USDC",
       "deadline": "2026-09-04T09:18:35.259Z",
       "sponsor": "basis",
@@ -467,7 +390,7 @@
       "id": "6f4e4020-ed4f-409d-9091-9fb978efa53c",
       "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
       "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c",
-      "reward_amount": 18.0,
+      "reward_amount": 12.0,
       "reward_token": "USDC",
       "deadline": "2026-09-03T09:40:30.028Z",
       "sponsor": "basis",
@@ -503,6 +426,27 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "f4fe8999-c31a-49f0-9746-abc60385f605",
+      "title": "Share Your BASIS Strategy Pick ONE angle",
+      "url": "https://app.gib.work/tasks/f4fe8999-c31a-49f0-9746-abc60385f605",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-07T14:42:57.420Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "We want to hear how people actually run their BASIS positions the market-neutral yield platform from Base58 Labs ( basis.pro ). Pick ONE angle below and post your take on X: 1. Your compounding setup claim and re-stake, and how often 2. You"
     },
     {
       "provider": "algora",
@@ -570,82 +514,6 @@
     },
     {
       "provider": "github",
-      "id": "5198426274",
-      "title": "Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]",
-      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3",
-      "reward_amount": 20000.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "mister3ai-cmyk",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Overview **Prize: $20,000 USDC** · Status: 🟢 Open Deliver a production-ready middleware integrating DryLab4 chromatography modeling with Hamilton Microlab STARlet liquid handlers via SiLA 2 (ISO 23166), with ICH Q14-compliant audit trail"
-    },
-    {
-      "provider": "github",
-      "id": "5222233612",
-      "title": "[Refactor] Extract shared useFileUpload hook — three drifted copies of one uploader",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/91",
-      "reward_amount": 60.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Refactor (bug prevention) `Login.tsx`, `upload_file.tsx` and `components/FileUpload.tsx` carry three near-identical implementations of select->validate->FormData->POST. They have already drift"
-    },
-    {
-      "provider": "github",
-      "id": "5222232071",
-      "title": "[Bug] Login.tsx uploads to hardcoded https://example.com",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/78",
-      "reward_amount": 50.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug `handleUpload` in [`Login.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/Login.tsx) posts every upload to a literal `https://example.com`, so the component can never work o"
-    },
-    {
-      "provider": "github",
-      "id": "5222233495",
-      "title": "[Bug] Double-submit race: rapid clicks fire duplicate POSTs before isUploading flushes",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/90",
-      "reward_amount": 40.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug The guard `disabled={!file || isUploading}` relies on async state flush. Two synchronous activations - fast double-click, Enter+click, assistive-tech activation - dispatch two `handleUploa"
-    },
-    {
-      "provider": "github",
       "id": "5222231944",
       "title": "[Bug] The two FileUpload test suites assert contradictory contracts",
       "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/77",
@@ -662,82 +530,6 @@
         "payment_terms_require_review"
       ],
       "summary": "I will pay for a fixed file - details below. ## Bug `components/file_upload.test.js` and root `file_upload_component.test.js` both read `components/FileUpload.tsx` but demand incompatible implementations: | Assertion | components/file_uploa"
-    },
-    {
-      "provider": "github",
-      "id": "5222233394",
-      "title": "[Bug] No AbortController — unmount mid-upload leaves requests running and setState-after-unmount",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/89",
-      "reward_amount": 35.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug `handleUpload` in `Login.tsx`, `upload_file.tsx` and `components/FileUpload.tsx` fires `fetch` with no `AbortController`. Navigate away (or unmount the component) mid-upload and: the reque"
-    },
-    {
-      "provider": "github",
-      "id": "5222233848",
-      "title": "[Bug] Drag-and-drop path would bypass validation — no dropzone wiring through the validator",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/93",
-      "reward_amount": 30.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug Only the picker path (`onChange`) reaches validation. There is no drag-and-drop handling, and the obvious later fix - wiring `onDrop` reading `event.dataTransfer.files` straight into state"
-    },
-    {
-      "provider": "github",
-      "id": "5222232235",
-      "title": "[Bug] upload_file.tsx is a drifted copy of Login.tsx with its own hardcoded endpoint",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/79",
-      "reward_amount": 30.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug [`upload_file.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/upload_file.tsx) duplicates `Login.tsx` almost line-for-line (same `IncorrectUpload` export name!) with only co"
-    },
-    {
-      "provider": "github",
-      "id": "5222209235",
-      "title": "[Bug] file_upload_component.test.js is syntactically broken and fails node --check",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/75",
-      "reward_amount": 25.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file — details below. ## Bug `file_upload_component.test.js` does not parse. The `test('FileUpload keeps image preview URL cleanup', ...)` block is never closed — the next `test(` starts while the previous arrow funct"
     },
     {
       "provider": "github",
@@ -760,63 +552,6 @@
     },
     {
       "provider": "github",
-      "id": "5222233299",
-      "title": "[Bug] File inputs have no accessible label — screen readers announce an unnamed control",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/88",
-      "reward_amount": 20.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug (a11y) In all three components the ` ` renders bare: no ` `, no `aria-label`. Screen reader users get an unnamed control, and neither status nor error paragraphs are linked to the input vi"
-    },
-    {
-      "provider": "github",
-      "id": "5222232498",
-      "title": "[Bug] No tsconfig.json / typecheck despite .tsx sources",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/81",
-      "reward_amount": 20.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug The repo ships `.tsx` components but no `tsconfig.json` and no typecheck step, so type errors ship silently - nothing currently verifies that the JSX/TS in `Login.tsx`, `upload_file.tsx`, "
-    },
-    {
-      "provider": "github",
-      "id": "5222233187",
-      "title": "[Bug] Raw fetch errors surfaced to users ('Upload failed with status 500', 'Failed to fetch')",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/87",
-      "reward_amount": 20.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug Both `Login.tsx` and `components/FileUpload.tsx` put raw transport errors straight into the UI: HTTP statuses become `Upload failed with status ${response.status}`, and offline/blocked req"
-    },
-    {
-      "provider": "github",
       "id": "5222231802",
       "title": "[Bug] npm test silently skips file_upload_component.test.js",
       "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/76",
@@ -833,6 +568,63 @@
         "payment_terms_require_review"
       ],
       "summary": "I will pay for a fixed file - details below. ## Bug `package.json` hardcodes three files: ```json \"test\": \"node --test upload_file.test.js login_upload.test.js components/file_upload.test.js\" ``` `file_upload_component.test.js` exists at th"
+    },
+    {
+      "provider": "github",
+      "id": "4804259945",
+      "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Trigger a contextual upgrade prompt when a user reaches 50% of their free credit limit. ## 📋 Scope When a user makes their 5th free call (out of 10): 1. System inserts a row in `upsell_triggers` table 2. Response includes `X-"
+    },
+    {
+      "provider": "github",
+      "id": "4804258605",
+      "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Build a referral system that awards 5 free credits per successful referral conversion. ## 📋 Scope When user A refers user B: 1. User B signs up and makes their first paid call 2. User A automatically receives 5 free credits 3"
+    },
+    {
+      "provider": "github",
+      "id": "4804271831",
+      "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
     },
     {
       "provider": "github",
@@ -855,29 +647,10 @@
     },
     {
       "provider": "github",
-      "id": "5222233738",
-      "title": "[Bug] maxSizeMB prop silently accepted as NaN / 0 / negative",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/92",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Hazyshades",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay for a fixed file - details below. ## Bug In [`components/FileUpload.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/components/FileUpload.tsx) `maxSizeMB = 5` is trusted blindly. `maxSizeMB={NaN}` makes every compa"
-    },
-    {
-      "provider": "github",
-      "id": "4997223957",
-      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/651",
-      "reward_amount": 1.0,
+      "id": "5239002443",
+      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1220",
+      "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "NSPG13",
@@ -889,14 +662,14 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "﻿## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
     },
     {
       "provider": "github",
-      "id": "4907443847",
-      "title": "[META] Earn 1 USDC margin with an MCP bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/335",
-      "reward_amount": 1.0,
+      "id": "5239001356",
+      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260826",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1213",
+      "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "NSPG13",
@@ -908,14 +681,14 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC MCP child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
     },
     {
       "provider": "github",
-      "id": "5115631596",
-      "title": "[Bounty] Seed a paid API child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/863",
-      "reward_amount": 0.9,
+      "id": "5239002677",
+      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260827",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1222",
+      "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "NSPG13",
@@ -927,14 +700,14 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete API coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **Solver "
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
     },
     {
       "provider": "github",
-      "id": "5115632948",
-      "title": "[Bounty] Seed a paid CLI child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/865",
-      "reward_amount": 0.9,
+      "id": "5239001894",
+      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — fortnight 20260907",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1216",
+      "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "NSPG13",
@@ -946,14 +719,14 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete CLI coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **Solver "
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
     },
     {
       "provider": "github",
-      "id": "5115632311",
-      "title": "[Bounty] Seed a paid wallet UX child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/864",
-      "reward_amount": 0.9,
+      "id": "5239002556",
+      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — week 20260831",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1221",
+      "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "NSPG13",
@@ -965,7 +738,255 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete wallet UX coding bounty that a different registered participant completes and receives canonical settlement for. - **Mode:** Exclusive claim - **Lifecycle:** `unavailable` - **S"
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "4804273523",
+      "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
+      "reward_amount": 5.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Build an agent that automatically generates blog posts, Twitter/X threads, and social cards from bounty completion events. ## 📋 Scope Every time a bounty is completed (PR merged, `execution_status = done`): 1. Agent reads the"
+    },
+    {
+      "provider": "github",
+      "id": "5239000976",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 sprint",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1210",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5239002175",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 21",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1218",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5239001771",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 7",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1215",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5239002027",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 24",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1217",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5239001495",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 25",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1214",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5239001076",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 26",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1211",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5239002307",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 27",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1219",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5239001248",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — September 7 to September 21",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1212",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5239000858",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 24",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1209",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5239000741",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 31",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1208",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "4804254219",
+      "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
+      "reward_amount": 0.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Implement a tiered pricing system for the x402 API calls to increase revenue by 30%. ## 📋 Scope The current system charges a flat rate per API call. We need tiered pricing: - **Tier 1 (Free):** First 50 calls = $0.00 - **Tier"
+    },
+    {
+      "provider": "github",
+      "id": "5198741016",
+      "title": "[Bounty] Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/827",
+      "reward_amount": 20000.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3 ### 漏洞描述 / Description Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC] ## Overview **Prize: $20"
     },
     {
       "provider": "github",
@@ -986,46 +1007,6 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1 ### 漏洞描述 / Description Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC] ## Overview **Prize: $15,000 U"
-    },
-    {
-      "provider": "github",
-      "id": "5220496905",
-      "title": "[Bounty] [BOUNTY] Break the NFH Wake holder gate — 25 USDC",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/882",
-      "reward_amount": 25.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/notforhumansfun-rgb/not-for-humans-mcp/issues/6 ### 漏洞描述 / Description [BOUNTY] Break the NFH Wake holder gate — 25 USDC ## 25 USDC audit bounty Find the first valid, non-d"
-    },
-    {
-      "provider": "github",
-      "id": "5204694157",
-      "title": "[Bounty] [3 USDC][Open Competition V2] Build a 25-case agent findability and task-search ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/831",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1063 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Build a 25-case agent findability and task-search corpus ## Funded Open Competition V"
     },
     {
       "provider": "github",
@@ -1106,26 +1087,6 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1060 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Write the shortest deterministic agent earning runbook ## Funded Open Competition V2 "
-    },
-    {
-      "provider": "github",
-      "id": "4907443815",
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/334",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC API child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
     }
   ],
   "provider_errors": []

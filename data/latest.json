@@ -5,6 +5,24 @@
   "opportunities": [
     {
       "provider": "gibwork",
+      "id": "52d793b9-5e2c-4a7b-8981-94edcc4807a9",
+      "title": "Sign Up On VeryChat App",
+      "url": "https://app.gib.work/tasks/52d793b9-5e2c-4a7b-8981-94edcc4807a9",
+      "reward_amount": 3.5,
+      "reward_token": "USDC",
+      "deadline": "2026-09-09T08:40:22.845Z",
+      "sponsor": "dbabefloxy",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required"
+      ],
+      "summary": "Task Description Help us grow the Verychat community! Complete these 3 simple steps: REQUIREMENTS 1. Download the Verychat App Link: https://invite.verychat.io/dbabefloxy 2. Register using ref code: Dbabefloxy Must use this exact code durin"
+    },
+    {
+      "provider": "gibwork",
       "id": "6d655bbb-80f2-48ed-8dab-63416dea1842",
       "title": "Test Snake Seeker and Seeker Mobile iOS bounty",
       "url": "https://app.gib.work/tasks/6d655bbb-80f2-48ed-8dab-63416dea1842",
@@ -59,7 +77,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,346 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,360 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -68,7 +86,7 @@
       "url": "https://app.gib.work/tasks/2b789b47-9727-471c-a955-9e3a40894de2",
       "reward_amount": 200.0,
       "reward_token": "USDC",
-      "deadline": "2026-08-28T04:00:00.000Z",
+      "deadline": "2026-09-04T04:00:00.000Z",
       "sponsor": "gibwork",
       "category": "tasks",
       "status": "CREATED",
@@ -119,7 +137,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 18,966 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 18,975 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -159,7 +177,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 42,443 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 42,485 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -180,26 +198,6 @@
         "platform_account_required"
       ],
       "summary": "Bounty Description This bounty is for reviewing the devrels.xyz onboarding flow and identifying what should be improved. • Go through the full onboarding flow on devrels.xyz as a new user. • Focus your bounty feedback on clarity of copy and"
-    },
-    {
-      "provider": "gibwork",
-      "id": "18ccc3d3-789d-40bf-a061-ac1a8f2db790",
-      "title": "Write an X post about Velo (Hedera DeFi)",
-      "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790",
-      "reward_amount": 13.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-11T23:00:00.000Z",
-      "sponsor": "kazamsingap",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_overcrowded",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools — no cu"
     },
     {
       "provider": "gibwork",
@@ -279,7 +277,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,558 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,570 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -303,12 +301,32 @@
     },
     {
       "provider": "gibwork",
+      "id": "18ccc3d3-789d-40bf-a061-ac1a8f2db790",
+      "title": "Write an X post about Velo (Hedera DeFi)",
+      "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790",
+      "reward_amount": 4.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-11T23:00:00.000Z",
+      "sponsor": "kazamsingap",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools — no cu"
+    },
+    {
+      "provider": "gibwork",
       "id": "b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7",
       "title": "Improve Gibwork Landing Page or Submit a GitHub Enhancement",
       "url": "https://app.gib.work/tasks/b7c2a3c9-c412-4613-9cfb-d8a5f54d14b7",
       "reward_amount": 350.0,
       "reward_token": "USDC",
-      "deadline": "2026-08-31T04:00:00.000Z",
+      "deadline": "2026-09-23T04:00:00.000Z",
       "sponsor": "gibwork",
       "category": "tasks",
       "status": "CREATED",
@@ -365,48 +383,6 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
-      "title": "Share How You Got Started with BASIS Pick ONE angle",
-      "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
-      "reward_amount": 13.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-04T09:18:35.259Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. What made you try BASIS in the first place 2. How long it took from signup to your fi"
-    },
-    {
-      "provider": "gibwork",
-      "id": "6f4e4020-ed4f-409d-9091-9fb978efa53c",
-      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
-      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c",
-      "reward_amount": 12.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-03T09:40:30.028Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "The market is moving — BTC, ETH, and SOL are on a strong run. We want to hear from long-term holders using BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, about making their assets work between rallies. Pick ONE ang"
-    },
-    {
       "provider": "algora",
       "id": "2769360144",
       "title": "Dolor sit amet",
@@ -429,12 +405,12 @@
     },
     {
       "provider": "gibwork",
-      "id": "f4fe8999-c31a-49f0-9746-abc60385f605",
-      "title": "Share Your BASIS Strategy Pick ONE angle",
-      "url": "https://app.gib.work/tasks/f4fe8999-c31a-49f0-9746-abc60385f605",
+      "id": "cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
+      "title": "Share How You Got Started with BASIS Pick ONE angle",
+      "url": "https://app.gib.work/tasks/cedd3387-68a6-400c-a1b3-7e5ba3fb69d8",
       "reward_amount": 10.0,
       "reward_token": "USDC",
-      "deadline": "2026-09-07T14:42:57.420Z",
+      "deadline": "2026-09-04T09:18:35.259Z",
       "sponsor": "basis",
       "category": "tasks",
       "status": "CREATED",
@@ -446,7 +422,7 @@
         "social_account_likely_required",
         "verified_account_required"
       ],
-      "summary": "We want to hear how people actually run their BASIS positions the market-neutral yield platform from Base58 Labs ( basis.pro ). Pick ONE angle below and post your take on X: 1. Your compounding setup claim and re-stake, and how often 2. You"
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. What made you try BASIS in the first place 2. How long it took from signup to your fi"
     },
     {
       "provider": "algora",
@@ -492,6 +468,27 @@
     },
     {
       "provider": "gibwork",
+      "id": "6f4e4020-ed4f-409d-9091-9fb978efa53c",
+      "title": "Share Your Bull Market Staking Plan — Pick ONE angle",
+      "url": "https://app.gib.work/tasks/6f4e4020-ed4f-409d-9091-9fb978efa53c",
+      "reward_amount": 9.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-03T09:40:30.028Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "The market is moving — BTC, ETH, and SOL are on a strong run. We want to hear from long-term holders using BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, about making their assets work between rallies. Pick ONE ang"
+    },
+    {
+      "provider": "gibwork",
       "id": "b614a67a-42da-44d8-9499-7e6f75cf5c54",
       "title": "Create a Gibwork Product Walkthrough for New Users",
       "url": "https://app.gib.work/tasks/b614a67a-42da-44d8-9499-7e6f75cf5c54",
@@ -514,13 +511,13 @@
     },
     {
       "provider": "github",
-      "id": "5222231944",
-      "title": "[Bug] The two FileUpload test suites assert contradictory contracts",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/77",
-      "reward_amount": 40.0,
-      "reward_token": "USDC",
+      "id": "4085861095",
+      "title": "🦞 Lobster Rewards - TokenTon26 Consumer App Submission",
+      "url": "https://github.com/zhuzhushiwojia/lobster-rewards/issues/1",
+      "reward_amount": 8500.0,
+      "reward_token": "USD",
       "deadline": null,
-      "sponsor": "Hazyshades",
+      "sponsor": "zhuzhushiwojia",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -529,14 +526,14 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "I will pay for a fixed file - details below. ## Bug `components/file_upload.test.js` and root `file_upload_component.test.js` both read `components/FileUpload.tsx` but demand incompatible implementations: | Assertion | components/file_uploa"
+      "summary": "## 🦞 Lobster Rewards - TokenTon26 Consumer App Submission **Demo**: https://app-psi-dun-67.vercel.app/ **GitHub**: https://github.com/zhuzhushiwojia/lobster-rewards ### ✅ Completed Features - Wallet Connection (Solana Wallet Adapter) - Poin"
     },
     {
       "provider": "github",
-      "id": "5222232993",
-      "title": "[Bug] Login.tsx has no file-size cap (FileUpload caps at 5MB)",
-      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/85",
-      "reward_amount": 25.0,
+      "id": "5222233299",
+      "title": "[Bug] File inputs have no accessible label — screen readers announce an unnamed control",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/issues/88",
+      "reward_amount": 20.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "Hazyshades",
@@ -548,7 +545,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "I will pay for a fixed file - details below. ## Bug [`Login.tsx`](https://github.com/Hazyshades/Sendly-Test-Repo/blob/main/Login.tsx) accepts any file of any size, while `components/FileUpload.tsx` enforces `maxSizeMB = 5`. A user picking a"
+      "summary": "I will pay for a fixed file - details below. ## Bug (a11y) In all three components the ` ` renders bare: no ` `, no `aria-label`. Screen reader users get an unnamed control, and neither status nor error paragraphs are linked to the input vi"
     },
     {
       "provider": "github",
@@ -913,13 +910,13 @@
     },
     {
       "provider": "github",
-      "id": "5239000858",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 24",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1209",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
+      "id": "4006355155",
+      "title": "🏆 BOUNTY (1 SOL): Film \"I Deleted My Nginx Config — Watch What Happens\" Demo",
+      "url": "https://github.com/bolivian-peru/os-moda/issues/2",
+      "reward_amount": 1.0,
+      "reward_token": "SOL",
       "deadline": null,
-      "sponsor": "NSPG13",
+      "sponsor": "bolivian-peru",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -928,26 +925,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
-    },
-    {
-      "provider": "github",
-      "id": "5239000741",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 31",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1208",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+      "summary": "## 🏆 Bounty: 1 SOL **Film a real demo of osModa self-healing after destructive deletion. Upload to YouTube. Earn 1 SOL.** --- ## The Demo **Title:** \"I Mass Deleted My Server's Nginx Config. Watch What Happens.\" **Format:** 45-90 second scr"
     },
     {
       "provider": "github",
@@ -970,23 +948,41 @@
     },
     {
       "provider": "github",
-      "id": "5198741016",
-      "title": "[Bounty] Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/827",
-      "reward_amount": 20000.0,
-      "reward_token": "USDC",
+      "id": "3077764317",
+      "title": "Add Hardhat test suite for ListingRegistry.sol",
+      "url": "https://github.com/Nobayprotocol/Nobay-Protocol/issues/3",
+      "reward_amount": null,
+      "reward_token": null,
       "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
+      "sponsor": "Nobayprotocol",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
       "autonomous": false,
       "risk_flags": [
         "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
+        "payment_terms_require_review"
       ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3 ### 漏洞描述 / Description Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC] ## Overview **Prize: $20"
+      "summary": "Build unit tests to verify: - Signature validity - Rejection of invalid signatures - Event emission - Seller mapping and metadata accuracy Optional: - Use Foundry in parallel for comparison Type: DevOps / QA Labels: testing, Solidity, help "
+    },
+    {
+      "provider": "github",
+      "id": "5070518193",
+      "title": "Implement Stellar path payment support for cross-asset payments",
+      "url": "https://github.com/OphirPay/OphirPay/issues/64",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "OphirPay",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Context Cross-asset sends (send XLM, recipient receives USDC, etc.) are not supported. This adds path payments with a rate preview. ## Scope `src/app/send/page.tsxx`, `src/lib/stellar.ts` ## Acceptance Criteria - [ ] Use PathPaymentStric"
     },
     {
       "provider": "github",

@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 52,
+  "opportunity_count": 53,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -41,6 +41,24 @@
     },
     {
       "provider": "gibwork",
+      "id": "ebf78998-24c3-426f-a0b0-81d0698d9bd9",
+      "title": "Flaunt your Verychat Login Streaks",
+      "url": "https://app.gib.work/tasks/ebf78998-24c3-426f-a0b0-81d0698d9bd9",
+      "reward_amount": 4.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-16T14:16:29.852Z",
+      "sponsor": "dbabefloxy",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required"
+      ],
+      "summary": "Time to reward consistency as promised There are 2 ways to earn: WAY 1: Already on Verychat? Upload a screenshot of your longest login streak WAY 2: New to Verychat? 1. Download the Verychat App Link: https://invite.verychat.io/dbabefloxy 2"
+    },
+    {
+      "provider": "gibwork",
       "id": "ce839876-bf1f-42b7-914b-dd59f8fea1fb",
       "title": "Axzra outreach Agent's Bounty ",
       "url": "https://app.gib.work/tasks/ce839876-bf1f-42b7-914b-dd59f8fea1fb",
@@ -61,7 +79,7 @@
     {
       "provider": "algora",
       "id": "2959305187",
-      "title": "[BOUNTY] WearOS Support [$1340]",
+      "title": "[BOUNTY] WearOS Support [$2340]",
       "url": "https://github.com/microg/GmsCore/issues/2843",
       "reward_amount": 1340.0,
       "reward_token": "USD",
@@ -76,7 +94,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,509 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,519 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -136,7 +154,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 19,103 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 19,117 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -176,7 +194,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 42,932 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 42,970 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -236,7 +254,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,739 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,757 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -277,6 +295,26 @@
         "social_account_likely_required"
       ],
       "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools — no cu"
+    },
+    {
+      "provider": "gibwork",
+      "id": "620aefdd-f96f-4f3f-8d12-ce0a39c5a836",
+      "title": "Share Your BASIS Story Pick ONE Theme",
+      "url": "https://app.gib.work/tasks/620aefdd-f96f-4f3f-8d12-ce0a39c5a836",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-23T06:07:01.024Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the part of the experience that matters most to you. Pick ONE theme below and post your take on X: 1. Why you chose BASIS over yo"
     },
     {
       "provider": "gibwork",
@@ -406,27 +444,6 @@
     },
     {
       "provider": "gibwork",
-      "id": "f949b047-65ad-4741-8419-d03184b78fb1",
-      "title": "Auto Earn Is Live Share Your Take on X",
-      "url": "https://app.gib.work/tasks/f949b047-65ad-4741-8419-d03184b78fb1",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-21T03:42:19.210Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs just shipped Auto Earn: unclaimed staking rewards now restake automatically every Monday at 00:00 UTC. Read the announcement and share your own take. Pick ONE angle belo"
-    },
-    {
-      "provider": "gibwork",
       "id": "53b0737a-3a6b-475b-a965-4a2a00016875",
       "title": "Create an X thread for Paid Requests",
       "url": "https://app.gib.work/tasks/53b0737a-3a6b-475b-a965-4a2a00016875",
@@ -468,13 +485,13 @@
     },
     {
       "provider": "github",
-      "id": "1017408519",
-      "title": "Sample Template for Bounty",
-      "url": "https://github.com/Opty-Fi/defi-adapters/issues/7",
-      "reward_amount": 5000.0,
-      "reward_token": "USDC",
+      "id": "5404125732",
+      "title": "[Bounty: $1,400] Critical: Reentrancy and Share Inflation in ERC-4626 Deposit Mechanism",
+      "url": "https://github.com/Senthemodder/evm-vault-audit/issues/1",
+      "reward_amount": 1400.0,
+      "reward_token": "USD",
       "deadline": null,
-      "sponsor": "Opty-Fi",
+      "sponsor": "Senthemodder",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -483,13 +500,51 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Integrating Convex Finance using OptyFi's DeFi Adapter Interface ### Prize Bounty 5000 USDC ### Description The bounty is to build an integration with Convex Finance’s liquidity pools using OptyFi's DeFi Adapter interface and [defi-legos"
+      "summary": "### Severity: Critical ### Reward: ,400 USDC (Escrow Locked) ### Description In our ERC-4626 vault implementation (contracts/YieldVault.sol), an initial depositor can manipulate the exchange rate between shares and underlying assets via don"
     },
     {
       "provider": "github",
-      "id": "5378716737",
+      "id": "5404125866",
+      "title": "[Bounty: $1,100] High: Slippage Rounding Error in Flash Loan Fee Calculation",
+      "url": "https://github.com/Senthemodder/evm-vault-audit/issues/2",
+      "reward_amount": 1100.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Senthemodder",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### Severity: High ### Reward: ,100 USDC (Escrow Locked) ### Description The flash loan fee calculation in contracts/FlashBorrower.sol rounds fee shares in favor of the borrower instead of the vault reserves, allowing micro-drainage over re"
+    },
+    {
+      "provider": "github",
+      "id": "5404125973",
+      "title": "[Bounty: $950] Medium: Unchecked Return Value in ERC-20 Transfer Callback",
+      "url": "https://github.com/Senthemodder/evm-vault-audit/issues/3",
+      "reward_amount": 950.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Senthemodder",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### Severity: Medium ### Reward: USDC (Escrow Locked) ### Description Direct calls to ransfer() on non-standard ERC-20 tokens (e.g. USDT) that do not return boolean values cause transaction reverts during batch yield harvesting. ### Require"
+    },
+    {
+      "provider": "github",
+      "id": "5401195890",
       "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1340",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1365",
       "reward_amount": 15.068098,
       "reward_token": "USDC",
       "deadline": null,
@@ -502,13 +557,70 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery Create a parametric CAD concept for a flower-shaped rainwater collector that retrofits onto a tinaco in Mexico City. - **Current work state:** `in_progress` - **Current payment state:** `escrowed` - **Current c"
+      "summary": "## Canonical bounty discovery Create a parametric CAD concept for a flower-shaped rainwater collector that retrofits onto a tinaco in Mexico City. - **Current work state:** `verification_pending` - **Current payment state:** `escrowed` - **"
     },
     {
       "provider": "github",
-      "id": "5239001894",
+      "id": "5401200924",
+      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1386",
+      "reward_amount": 6.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5401199813",
+      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260826",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1379",
+      "reward_amount": 6.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5401201209",
+      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260827",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1388",
+      "reward_amount": 6.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5401200294",
       "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — fortnight 20260907",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1216",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1382",
       "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -525,9 +637,9 @@
     },
     {
       "provider": "github",
-      "id": "5239002556",
+      "id": "5401201047",
       "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — week 20260831",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1221",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1387",
       "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -544,9 +656,47 @@
     },
     {
       "provider": "github",
-      "id": "5239001771",
+      "id": "5401199359",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 sprint",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1376",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5401200622",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 21",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1384",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5401200093",
       "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 7",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1215",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1381",
       "reward_amount": 3.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -563,9 +713,85 @@
     },
     {
       "provider": "github",
-      "id": "5239001248",
+      "id": "5401200467",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 24",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1383",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5401199961",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 25",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1380",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5401199497",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 26",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1377",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5401200773",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 27",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1385",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5401199656",
       "title": "Generate qualifying GMV for Highest externally funded canonical GMV — September 7 to September 21",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1212",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1378",
       "reward_amount": 3.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -582,9 +808,28 @@
     },
     {
       "provider": "github",
-      "id": "5239000741",
+      "id": "5401199206",
+      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 24",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1375",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
+    },
+    {
+      "provider": "github",
+      "id": "5401199059",
       "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 31",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1208",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1374",
       "reward_amount": 3.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -601,142 +846,9 @@
     },
     {
       "provider": "github",
-      "id": "5078042577",
-      "title": "[DIRECT] Add an OpenHands earning-loop integration",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/773",
-      "reward_amount": 2.01,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Let OpenHands recognize Agent Bounties as paid-work infrastructure and follow the earning loop with canonical claimability and payment checks. ## Funded payment contract **Funded and claimable on Base mainnet.** - Contract: `0x294cd"
-    },
-    {
-      "provider": "github",
-      "id": "5004492738",
-      "title": "[DIRECT] Add a concise direct-bounty evidence checklist",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/686",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Add a small machine-readable and human-readable evidence checklist for direct coding bounties that binds the repository commit, benchmark/check run, artifact digest, and canonical settlement boundary. ## Acceptance criteria - The ch"
-    },
-    {
-      "provider": "github",
-      "id": "5004492550",
-      "title": "[DIRECT] Add a ready-to-earn inventory filter regression test",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/683",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Add a deterministic regression test that proves the public ready-to-earn inventory excludes canonical bounties with `verification_ready=false`, `recovery-reserved`, invalid terms, or terminal status. ## Acceptance criteria - The tes"
-    },
-    {
-      "provider": "github",
-      "id": "5115629798",
-      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/861",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete 1 USDC MCP bounty that a different registered participant completes and receives canonical settlement for, then receive the 2 USDC parent reward. - **Current work state:** `read"
-    },
-    {
-      "provider": "github",
-      "id": "4997223260",
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC API reliability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
-    },
-    {
-      "provider": "github",
-      "id": "4997223957",
-      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/651",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "﻿## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
-    },
-    {
-      "provider": "github",
-      "id": "4997223406",
-      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/648",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC MCP interoperability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
-    },
-    {
-      "provider": "github",
-      "id": "5387024836",
+      "id": "5401196901",
       "title": "[Bounty] Seed a paid API child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1349",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1368",
       "reward_amount": 0.9,
       "reward_token": "USDC",
       "deadline": null,
@@ -753,9 +865,9 @@
     },
     {
       "provider": "github",
-      "id": "5387025049",
+      "id": "5401198048",
       "title": "[Bounty] Seed a paid CLI child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1351",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1371",
       "reward_amount": 0.9,
       "reward_token": "USDC",
       "deadline": null,
@@ -772,9 +884,9 @@
     },
     {
       "provider": "github",
-      "id": "5387024733",
+      "id": "5401195750",
       "title": "[Bounty] Seed a paid MCP child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1348",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1364",
       "reward_amount": 0.9,
       "reward_token": "USDC",
       "deadline": null,
@@ -791,9 +903,9 @@
     },
     {
       "provider": "github",
-      "id": "5387024963",
+      "id": "5401197486",
       "title": "[Bounty] Seed a paid wallet UX child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1350",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1369",
       "reward_amount": 0.9,
       "reward_token": "USDC",
       "deadline": null,
@@ -810,67 +922,9 @@
     },
     {
       "provider": "github",
-      "id": "5137531720",
-      "title": "Capture a macOS Safari compatibility evidence bundle",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/927",
-      "reward_amount": 0.1,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Capture a fresh macOS Safari compatibility evidence bundle for the live Agent Bounties homepage. This is work I cannot perform from my current Windows environment because it requires access to macOS Safari. ## Deliverable Submit a p"
-    },
-    {
-      "provider": "github",
-      "id": "5044866190",
-      "title": "Put live Discord events on the community calls page",
-      "url": "https://github.com/Arrow-air/website/issues/215",
-      "reward_amount": null,
-      "reward_token": null,
-      "deadline": null,
-      "sponsor": "Arrow-air",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### Category Operations ### Project Cross-project ### USDC reward, optional _No response_ ### ARROW reward, optional 1600 ### Expected completion window ~2 weeks after assignment ### Expiry date, optional _No response_ ### Disciplines - [X]"
-    },
-    {
-      "provider": "github",
-      "id": "5387619198",
-      "title": "[Bounty] [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1214",
-      "reward_amount": 350.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/claude-honeypot/issues/4 ### 漏洞描述 / Description [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6 ### Problem Our ERC-20 token contract in `cont"
-    },
-    {
-      "provider": "github",
-      "id": "5379452531",
+      "id": "5401256592",
       "title": "[Bounty] [Bounty] Flower-shaped rainwater collector for a tinaco",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1201",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1294",
       "reward_amount": 15.068098,
       "reward_token": "USDC",
       "deadline": null,
@@ -884,27 +938,7 @@
         "payment_terms_require_review",
         "mirror_listing"
       ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1340 ### 漏洞描述 / Description [Bounty] Flower-shaped rainwater collector for a tinaco ## Canonical bounty discovery Create a parametric CAD conce"
-    },
-    {
-      "provider": "github",
-      "id": "5290929680",
-      "title": "[DRAFT DIRECT] Make verifier settlement deadline-aware and provider-resilient",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1262",
-      "reward_amount": 14.5,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "> **UNFUNDED PRECOMMIT — do not claim, sign, spend, or start implementation yet.** This becomes paid work only after the immutable benchmark reaches protected `main`, a live verifier canary passes, and canonical Base creation/funding/claima"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1365 ### 漏洞描述 / Description [Bounty] Flower-shaped rainwater collector for a tinaco ## Canonical bounty discovery Create a parametric CAD conce"
     },
     {
       "provider": "github",
@@ -928,29 +962,9 @@
     },
     {
       "provider": "github",
-      "id": "4907443925",
-      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid distribution tooling child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/337",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "## Goal Create and fully fund a concrete distribution-tooling coding bounty that a different registered participant completes and receives canonical settlement for. ## Live payment evidence **Funded and claimable on Base mainnet.** - Contra"
-    },
-    {
-      "provider": "github",
-      "id": "5387619923",
+      "id": "5401256487",
       "title": "[Bounty] [Bounty] Seed a paid API child bounty",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1220",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1293",
       "reward_amount": 0.9,
       "reward_token": "USDC",
       "deadline": null,
@@ -964,13 +978,13 @@
         "payment_terms_require_review",
         "mirror_listing"
       ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1349 ### 漏洞描述 / Description [Bounty] Seed a paid API child bounty ## Canonical bounty discovery Create and fully fund a concrete API coding bou"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1368 ### 漏洞描述 / Description [Bounty] Seed a paid API child bounty ## Canonical bounty discovery Create and fully fund a concrete API coding bou"
     },
     {
       "provider": "github",
-      "id": "5387619700",
+      "id": "5401256267",
       "title": "[Bounty] [Bounty] Seed a paid CLI child bounty",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1218",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1291",
       "reward_amount": 0.9,
       "reward_token": "USDC",
       "deadline": null,
@@ -984,13 +998,13 @@
         "payment_terms_require_review",
         "mirror_listing"
       ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1351 ### 漏洞描述 / Description [Bounty] Seed a paid CLI child bounty ## Canonical bounty discovery Create and fully fund a concrete CLI coding bou"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1371 ### 漏洞描述 / Description [Bounty] Seed a paid CLI child bounty ## Canonical bounty discovery Create and fully fund a concrete CLI coding bou"
     },
     {
       "provider": "github",
-      "id": "5387620019",
+      "id": "5401256698",
       "title": "[Bounty] [Bounty] Seed a paid MCP child bounty",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1221",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1295",
       "reward_amount": 0.9,
       "reward_token": "USDC",
       "deadline": null,
@@ -1004,13 +1018,13 @@
         "payment_terms_require_review",
         "mirror_listing"
       ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1348 ### 漏洞描述 / Description [Bounty] Seed a paid MCP child bounty ## Canonical bounty discovery Create and fully fund a concrete MCP coding bou"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1364 ### 漏洞描述 / Description [Bounty] Seed a paid MCP child bounty ## Canonical bounty discovery Create and fully fund a concrete MCP coding bou"
     },
     {
       "provider": "github",
-      "id": "5387619809",
+      "id": "5401256371",
       "title": "[Bounty] [Bounty] Seed a paid wallet UX child bounty",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1219",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1292",
       "reward_amount": 0.9,
       "reward_token": "USDC",
       "deadline": null,
@@ -1024,7 +1038,7 @@
         "payment_terms_require_review",
         "mirror_listing"
       ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1350 ### 漏洞描述 / Description [Bounty] Seed a paid wallet UX child bounty ## Canonical bounty discovery Create and fully fund a concrete wallet U"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1369 ### 漏洞描述 / Description [Bounty] Seed a paid wallet UX child bounty ## Canonical bounty discovery Create and fully fund a concrete wallet U"
     }
   ],
   "provider_errors": []

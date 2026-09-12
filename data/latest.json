@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 52,
+  "opportunity_count": 50,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -77,7 +77,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,544 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,563 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -157,7 +157,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 19,132 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 19,137 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -197,7 +197,27 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 43,039 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 43,070 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "8d21b03d-1649-479c-91c7-b73023af08b3",
+      "title": "Share How You Actually Use BASIS Pick ONE Theme",
+      "url": "https://app.gib.work/tasks/8d21b03d-1649-479c-91c7-b73023af08b3",
+      "reward_amount": 24.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-25T08:20:54.473Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how it fits into your real routine. Pick ONE theme below and post your take on X: 1. How you use boosters and which asset you boo"
     },
     {
       "provider": "gibwork",
@@ -237,7 +257,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,283 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,285 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -257,7 +277,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,283 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,285 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -277,7 +297,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,788 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,802 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -297,48 +317,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,283 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "18ccc3d3-789d-40bf-a061-ac1a8f2db790",
-      "title": "Write an X post about Velo (Hedera DeFi)",
-      "url": "https://app.gib.work/tasks/18ccc3d3-789d-40bf-a061-ac1a8f2db790",
-      "reward_amount": 4.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-11T23:00:00.000Z",
-      "sponsor": "kazamsingap",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_overcrowded",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We're looking for an original X post explaining what Velo is and why it matters. Velo ( veloexchange.org ) is a non-custodial DEX and staking protocol built natively on Hedera: - Swaps route on-chain through real SaucerSwap V2 pools — no cu"
-    },
-    {
-      "provider": "gibwork",
-      "id": "8d21b03d-1649-479c-91c7-b73023af08b3",
-      "title": "Share How You Actually Use BASIS Pick ONE Theme",
-      "url": "https://app.gib.work/tasks/8d21b03d-1649-479c-91c7-b73023af08b3",
-      "reward_amount": 145.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-25T08:20:54.473Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how it fits into your real routine. Pick ONE theme below and post your take on X: 1. How you use boosters and which asset you boo"
+      "summary": "Official Algora announcement; repository has 2,285 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -425,26 +404,23 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "53b0737a-3a6b-475b-a965-4a2a00016875",
-      "title": "Create an X thread for Paid Requests",
-      "url": "https://app.gib.work/tasks/53b0737a-3a6b-475b-a965-4a2a00016875",
-      "reward_amount": 125.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-12T15:20:33.153Z",
-      "sponsor": "gibwork",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
+      "provider": "github",
+      "id": "5407238364",
+      "title": "[Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Space-Time Complexity",
+      "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/1",
+      "reward_amount": 1250.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Senthemodder",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
       "autonomous": false,
       "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_paused",
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_x_account_required"
+        "escrow_unverified",
+        "payment_terms_require_review"
       ],
-      "summary": "Requires Verified X account with 200+ followers. This bounty is for creating a clear, up-to-date X thread that explains the Gibwork Paid Request feature using the latest platform update . The goal of this bounty is to publish an informative"
+      "summary": "### Severity: High ### Bounty: ,250 USDC (Escrow Locked) ### Problem Description Our state topology solver requires resolving whether a query graph G_q is isomorphic to a subgraph of G_t. The current Ullmann-based backtracking implementatio"
     },
     {
       "provider": "github",
@@ -502,6 +478,25 @@
         "payment_terms_require_review"
       ],
       "summary": "### Bounty: USDC (Escrow Locked) ### Description In ui/hud_screen.json, custom inventory text slicing overflows on item names > 16 characters on mobile viewport profiles. ` [JSON UI Engine][Warning] Binding resolution failed for #inventory_"
+    },
+    {
+      "provider": "github",
+      "id": "5407238639",
+      "title": "[Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70",
+      "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/4",
+      "reward_amount": 500.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Senthemodder",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### Bounty: USDC (Escrow Locked) ### Description Registering custom slash commands in scripts/commands/inspect.ts crashes BDS at startup: ` TypeError: CustomCommandRegistry.registerCommand is not a function at registerInspectCommand (script"
     },
     {
       "provider": "github",
@@ -714,25 +709,6 @@
     },
     {
       "provider": "github",
-      "id": "5115629798",
-      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/861",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete 1 USDC MCP bounty that a different registered participant completes and receives canonical settlement for, then receive the 2 USDC parent reward. - **Current work state:** `read"
-    },
-    {
-      "provider": "github",
       "id": "4997223260",
       "title": "[META] Earn 1 USDC margin with a API reliability bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/647",
@@ -749,25 +725,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Create and fully fund a concrete **1 USDC API reliability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
-    },
-    {
-      "provider": "github",
-      "id": "4997223957",
-      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/651",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "﻿## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
     },
     {
       "provider": "github",

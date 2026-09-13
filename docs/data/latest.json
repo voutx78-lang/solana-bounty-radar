@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 50,
+  "opportunity_count": 51,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -77,7 +77,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,563 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,568 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -121,23 +121,23 @@
     },
     {
       "provider": "gibwork",
-      "id": "b3735fc5-991c-45e6-aea0-8755314acb0c",
-      "title": "Introduce Yourself to the Community",
-      "url": "https://app.gib.work/tasks/b3735fc5-991c-45e6-aea0-8755314acb0c",
-      "reward_amount": 120.0,
+      "id": "a5ec2956-3f86-4a13-9fef-a3623c563a2e",
+      "title": "Share Your BASIS Week Pick ONE Theme",
+      "url": "https://app.gib.work/tasks/a5ec2956-3f86-4a13-9fef-a3623c563a2e",
+      "reward_amount": 150.0,
       "reward_token": "USDC",
-      "deadline": "2026-09-20T15:39:40.569Z",
-      "sponsor": "anthony",
+      "deadline": "2026-09-27T01:02:11.553Z",
+      "sponsor": "basis",
       "category": "tasks",
       "status": "CREATED",
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "health_stale",
+        "crowded_50_plus_pending",
         "platform_account_required",
-        "verified_account_required"
+        "social_account_likely_required"
       ],
-      "summary": "There’s a person behind every username, and we’d love to meet you. Post a 30–60 second intro video in our Discord so other freelancers, builders, and bounty participants can get to know you and discover what you could work on together. What"
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how it fits into your week, especially now that Auto Earn is live. Pick ONE theme below and post your take on X: 1. Why you chose"
     },
     {
       "provider": "algora",
@@ -157,7 +157,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 19,137 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 19,139 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -197,47 +197,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 43,070 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "8d21b03d-1649-479c-91c7-b73023af08b3",
-      "title": "Share How You Actually Use BASIS Pick ONE Theme",
-      "url": "https://app.gib.work/tasks/8d21b03d-1649-479c-91c7-b73023af08b3",
-      "reward_amount": 24.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-25T08:20:54.473Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how it fits into your real routine. Pick ONE theme below and post your take on X: 1. How you use boosters and which asset you boo"
-    },
-    {
-      "provider": "gibwork",
-      "id": "e2e5aaca-3749-434f-bfd2-ffa3c6f0a9b3",
-      "title": "Engage with @DHiveWorkng on Twitter/X",
-      "url": "https://app.gib.work/tasks/e2e5aaca-3749-434f-bfd2-ffa3c6f0a9b3",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-25T15:32:09.822Z",
-      "sponsor": "chibuzoramos2",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_overcrowded",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Bounty Description Complete this bounty by engaging with posts from the Twitter/X account @DHiveWorkng. • Follow the @DHiveWorkng account. • Like, comment on, and quote the pinned post. • Like, comment on, and quote 2 other posts from the s"
+      "summary": "Official Algora announcement; repository has 43,205 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -257,7 +217,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,285 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,286 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -277,7 +237,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,285 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,286 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -297,7 +257,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,802 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,820 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -317,7 +277,68 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,285 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,286 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "e2e5aaca-3749-434f-bfd2-ffa3c6f0a9b3",
+      "title": "Engage with @DHiveWorkng on Twitter/X",
+      "url": "https://app.gib.work/tasks/e2e5aaca-3749-434f-bfd2-ffa3c6f0a9b3",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-25T15:32:09.822Z",
+      "sponsor": "chibuzoramos2",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Bounty Description Complete this bounty by engaging with posts from the Twitter/X account @DHiveWorkng. • Follow the @DHiveWorkng account. • Like, comment on, and quote the pinned post. • Like, comment on, and quote 2 other posts from the s"
+    },
+    {
+      "provider": "gibwork",
+      "id": "8d21b03d-1649-479c-91c7-b73023af08b3",
+      "title": "Share How You Actually Use BASIS Pick ONE Theme",
+      "url": "https://app.gib.work/tasks/8d21b03d-1649-479c-91c7-b73023af08b3",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-25T08:20:54.473Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how it fits into your real routine. Pick ONE theme below and post your take on X: 1. How you use boosters and which asset you boo"
+    },
+    {
+      "provider": "gibwork",
+      "id": "b3735fc5-991c-45e6-aea0-8755314acb0c",
+      "title": "Introduce Yourself to the Community",
+      "url": "https://app.gib.work/tasks/b3735fc5-991c-45e6-aea0-8755314acb0c",
+      "reward_amount": 120.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-20T15:39:40.569Z",
+      "sponsor": "anthony",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_stale",
+        "platform_account_required",
+        "verified_account_required"
+      ],
+      "summary": "There’s a person behind every username, and we’d love to meet you. Post a 30–60 second intro video in our Discord so other freelancers, builders, and bounty participants can get to know you and discover what you could work on together. What"
     },
     {
       "provider": "algora",
@@ -652,25 +673,6 @@
     },
     {
       "provider": "github",
-      "id": "5239000741",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 31",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1208",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
-    },
-    {
-      "provider": "github",
       "id": "5078042577",
       "title": "[DIRECT] Add an OpenHands earning-loop integration",
       "url": "https://github.com/NSPG13/agent-bounties/issues/773",
@@ -763,6 +765,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Create and fully fund a concrete **1 USDC agent discovery child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
+    },
+    {
+      "provider": "github",
+      "id": "4006355816",
+      "title": "🏆 BOUNTY (1 SOL): Film \"Two AI Agents Talking Across Continents\" Mesh Demo",
+      "url": "https://github.com/bolivian-peru/os-moda/issues/3",
+      "reward_amount": 1.0,
+      "reward_token": "SOL",
+      "deadline": null,
+      "sponsor": "bolivian-peru",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🏆 Bounty: 1 SOL **Film a real demo of two osModa servers communicating via encrypted P2P mesh. Upload to YouTube. Earn 1 SOL.** --- ## The Demo **Title:** \"My Two AI Agents Talking to Each Other Across Continents\" **Format:** 60-90 secon"
     },
     {
       "provider": "github",

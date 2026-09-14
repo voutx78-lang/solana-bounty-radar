@@ -1,8 +1,24 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 51,
+  "opportunity_count": 52,
   "opportunities": [
+    {
+      "provider": "superteam",
+      "id": "f1250fa6-7e09-4962-8eb1-60969bcf0bbb",
+      "title": "Colosseum Crypto World's Fair Hackathon | Superteam Vietnam Track",
+      "url": "https://superteam.fun/earn/listing/colosseum-crypto-worlds-fair-hackathon-superteam-vietnam-track/",
+      "reward_amount": 10000.0,
+      "reward_token": "USDG",
+      "deadline": "2026-10-13T06:59:00.000Z",
+      "sponsor": "Superteam Vietnam",
+      "category": "hackathon",
+      "status": "OPEN",
+      "submission_mode": "official_agent_api",
+      "autonomous": true,
+      "risk_flags": [],
+      "summary": "Agent-eligible listing from a verified Superteam sponsor."
+    },
     {
       "provider": "gibwork",
       "id": "1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
@@ -20,6 +36,24 @@
         "platform_account_required"
       ],
       "summary": "Join this Gibwork Developer Hackathon bounty to create a new non-web-app use case for Gibwork using the SDK, CLI, or MCP . This bounty is focused on practical developer workflows, automations, integrations, or tooling that demonstrate a com"
+    },
+    {
+      "provider": "gibwork",
+      "id": "ebf78998-24c3-426f-a0b0-81d0698d9bd9",
+      "title": "Flaunt your Verychat Login Streaks",
+      "url": "https://app.gib.work/tasks/ebf78998-24c3-426f-a0b0-81d0698d9bd9",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-16T14:16:29.852Z",
+      "sponsor": "dbabefloxy",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required"
+      ],
+      "summary": "Time to reward consistency as promised There are 2 ways to earn: WAY 1: Already on Verychat? Upload a screenshot of your longest login streak WAY 2: New to Verychat? 1. Download the Verychat App Link: https://invite.verychat.io/dbabefloxy 2"
     },
     {
       "provider": "gibwork",
@@ -41,25 +75,6 @@
       "summary": "We’re putting up a 𝗯𝗼𝘂𝗻𝘁𝘆 for Axzra Agents. The 𝗳𝗶𝗿𝘀𝘁 𝗮𝗴𝗲𝗻𝘁 to successfully close a deal worth $500 or more will win. 𝗛𝗼𝘄 𝗶𝘁 𝘄𝗼𝗿𝗸𝘀 You earn 15% of the deal value in total: • 10% paid through Gibwork • 5% agent commission from Axzra For exam"
     },
     {
-      "provider": "gibwork",
-      "id": "ebf78998-24c3-426f-a0b0-81d0698d9bd9",
-      "title": "Flaunt your Verychat Login Streaks",
-      "url": "https://app.gib.work/tasks/ebf78998-24c3-426f-a0b0-81d0698d9bd9",
-      "reward_amount": 4.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-16T14:16:29.852Z",
-      "sponsor": "dbabefloxy",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_stale",
-        "platform_account_required"
-      ],
-      "summary": "Time to reward consistency as promised There are 2 ways to earn: WAY 1: Already on Verychat? Upload a screenshot of your longest login streak WAY 2: New to Verychat? 1. Download the Verychat App Link: https://invite.verychat.io/dbabefloxy 2"
-    },
-    {
       "provider": "algora",
       "id": "2959305187",
       "title": "[BOUNTY] WearOS Support [$2340]",
@@ -77,7 +92,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,568 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,585 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -120,26 +135,6 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "a5ec2956-3f86-4a13-9fef-a3623c563a2e",
-      "title": "Share Your BASIS Week Pick ONE Theme",
-      "url": "https://app.gib.work/tasks/a5ec2956-3f86-4a13-9fef-a3623c563a2e",
-      "reward_amount": 150.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-27T01:02:11.553Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how it fits into your week, especially now that Auto Earn is live. Pick ONE theme below and post your take on X: 1. Why you chose"
-    },
-    {
       "provider": "algora",
       "id": "1994771240",
       "title": "Option to return errors as JSON",
@@ -157,7 +152,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 19,139 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 19,145 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -197,7 +192,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 43,205 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 43,511 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -217,7 +212,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,286 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,288 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -237,7 +232,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,286 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,288 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -257,7 +252,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,820 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,831 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -277,14 +272,34 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,286 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,288 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "a5ec2956-3f86-4a13-9fef-a3623c563a2e",
+      "title": "Share Your BASIS Week Pick ONE Theme",
+      "url": "https://app.gib.work/tasks/a5ec2956-3f86-4a13-9fef-a3623c563a2e",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-27T01:02:11.553Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how it fits into your week, especially now that Auto Earn is live. Pick ONE theme below and post your take on X: 1. Why you chose"
     },
     {
       "provider": "gibwork",
       "id": "e2e5aaca-3749-434f-bfd2-ffa3c6f0a9b3",
       "title": "Engage with @DHiveWorkng on Twitter/X",
       "url": "https://app.gib.work/tasks/e2e5aaca-3749-434f-bfd2-ffa3c6f0a9b3",
-      "reward_amount": 2.0,
+      "reward_amount": 1.0,
       "reward_token": "USDC",
       "deadline": "2026-09-25T15:32:09.822Z",
       "sponsor": "chibuzoramos2",
@@ -304,7 +319,7 @@
       "id": "8d21b03d-1649-479c-91c7-b73023af08b3",
       "title": "Share How You Actually Use BASIS Pick ONE Theme",
       "url": "https://app.gib.work/tasks/8d21b03d-1649-479c-91c7-b73023af08b3",
-      "reward_amount": 2.0,
+      "reward_amount": 1.0,
       "reward_token": "USDC",
       "deadline": "2026-09-25T08:20:54.473Z",
       "sponsor": "basis",
@@ -521,6 +536,25 @@
     },
     {
       "provider": "github",
+      "id": "5378716737",
+      "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1340",
+      "reward_amount": 15.068098,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create a parametric CAD concept for a flower-shaped rainwater collector that retrofits onto a tinaco in Mexico City. - **Current work state:** `in_progress` - **Current payment state:** `escrowed` - **Current c"
+    },
+    {
+      "provider": "github",
       "id": "4804258605",
       "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
       "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
@@ -543,25 +577,6 @@
       "id": "5239002443",
       "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1220",
-      "reward_amount": 6.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
-    },
-    {
-      "provider": "github",
-      "id": "5239001356",
-      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260826",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1213",
       "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -746,25 +761,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Create and fully fund a concrete **1 USDC CLI child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
-    },
-    {
-      "provider": "github",
-      "id": "4972111892",
-      "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/590",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC agent discovery child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
     },
     {
       "provider": "github",
@@ -983,6 +979,26 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/4 ### 漏洞描述 / Description [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70 #"
+    },
+    {
+      "provider": "github",
+      "id": "5387619198",
+      "title": "[Bounty] [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1214",
+      "reward_amount": 350.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/claude-honeypot/issues/4 ### 漏洞描述 / Description [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6 ### Problem Our ERC-20 token contract in `cont"
     },
     {
       "provider": "github",

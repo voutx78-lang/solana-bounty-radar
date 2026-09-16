@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 51,
+  "opportunity_count": 50,
   "opportunities": [
     {
       "provider": "superteam",
@@ -74,22 +74,22 @@
     },
     {
       "provider": "gibwork",
-      "id": "ebf78998-24c3-426f-a0b0-81d0698d9bd9",
-      "title": "Flaunt your Verychat Login Streaks",
-      "url": "https://app.gib.work/tasks/ebf78998-24c3-426f-a0b0-81d0698d9bd9",
-      "reward_amount": 2.0,
+      "id": "b8c28587-f8ca-4fff-974c-acdef45b92bd",
+      "title": "Find a Developer Who Could Win the Gibwork Hackathon Bounty",
+      "url": "https://app.gib.work/tasks/b8c28587-f8ca-4fff-974c-acdef45b92bd",
+      "reward_amount": 6.67,
       "reward_token": "USDC",
-      "deadline": "2026-09-16T14:16:29.852Z",
-      "sponsor": "dbabefloxy",
+      "deadline": "2026-09-18T15:53:08.436Z",
+      "sponsor": "anthony",
       "category": "tasks",
       "status": "CREATED",
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "health_overcrowded",
-        "platform_account_required"
+        "platform_account_required",
+        "social_account_likely_required"
       ],
-      "summary": "Time to reward consistency as promised There are 2 ways to earn: WAY 1: Already on Verychat? Upload a screenshot of your longest login streak WAY 2: New to Verychat? 1. Download the Verychat App Link: https://invite.verychat.io/dbabefloxy 2"
+      "summary": "Find and personally invite a developer with the skills to compete for—and win—the Gibwork bounty in the Gibwork hackathon. Choose someone based on their actual projects, technical experience, and ability to deliver a strong submission. Requ"
     },
     {
       "provider": "algora",
@@ -109,7 +109,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,600 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,605 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -169,7 +169,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 19,146 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 19,152 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -209,7 +209,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 43,747 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 44,131 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -229,7 +229,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,290 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,291 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -249,7 +249,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,290 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,291 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -269,7 +269,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,851 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,867 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -289,27 +289,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,290 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "4c0562b6-ae1b-41a3-b7c2-ffd7107772d7",
-      "title": "Amplify the BASIS × Numbers Protocol Partnership Retweet + Comment",
-      "url": "https://app.gib.work/tasks/4c0562b6-ae1b-41a3-b7c2-ffd7107772d7",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-29T10:34:47.644Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs just announced a partnership with Numbers Protocol. Help amplify the announcement on X. Requirements: 1. Retweet this post: https://x.com/basis__pro/status/2099825295683"
+      "summary": "Official Algora announcement; repository has 2,291 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -333,6 +313,26 @@
     },
     {
       "provider": "gibwork",
+      "id": "04c6d040-c4c0-4bc8-93b3-29f820360959",
+      "title": "Share Your BASIS Story Pick ONE Theme",
+      "url": "https://app.gib.work/tasks/04c6d040-c4c0-4bc8-93b3-29f820360959",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-29T13:58:22.903Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the part of the experience that matters most to you. Pick ONE theme below and post your take on X: 1. Why you chose BASIS in the "
+    },
+    {
+      "provider": "gibwork",
       "id": "b3735fc5-991c-45e6-aea0-8755314acb0c",
       "title": "Introduce Yourself to the Community",
       "url": "https://app.gib.work/tasks/b3735fc5-991c-45e6-aea0-8755314acb0c",
@@ -351,27 +351,6 @@
         "verified_account_required"
       ],
       "summary": "There’s a person behind every username, and we’d love to meet you. Post a 30–60 second intro video in our Discord so other freelancers, builders, and bounty participants can get to know you and discover what you could work on together. What"
-    },
-    {
-      "provider": "gibwork",
-      "id": "04c6d040-c4c0-4bc8-93b3-29f820360959",
-      "title": "Share Your BASIS Story Pick ONE Theme",
-      "url": "https://app.gib.work/tasks/04c6d040-c4c0-4bc8-93b3-29f820360959",
-      "reward_amount": 100.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-29T13:58:22.903Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the part of the experience that matters most to you. Pick ONE theme below and post your take on X: 1. Why you chose BASIS in the "
     },
     {
       "provider": "algora",
@@ -456,6 +435,47 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "612d9f96-a0fd-4da5-9898-ee10045150de",
+      "title": "Draft the Next @gib_work Post",
+      "url": "https://app.gib.work/tasks/612d9f96-a0fd-4da5-9898-ee10045150de",
+      "reward_amount": 25.0,
+      "reward_token": "USDC",
+      "deadline": "2026-09-23T15:26:23.510Z",
+      "sponsor": "anthony",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "Review the 10 most recent posts from @gib_work on X, then draft an original post that feels like it belongs next in the feed. Match the tone, length, spacing, and overall format. Pay attention to how we open posts, talk about Gibwork, and e"
+    },
+    {
+      "provider": "github",
+      "id": "5474839659",
+      "title": "Bounty",
+      "url": "https://github.com/OmniBlocks/Boxy-gh/issues/143",
+      "reward_amount": 100.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "OmniBlocks",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "I will pay $100 for whoever can implement a feature in Boxy's code review bot that pre-emptively closes the PRs of people who aren't in the organization and aren't explicitly whitelisted, and then pings @OmniBlocks/coders to reopen before a"
     },
     {
       "provider": "github",
@@ -801,25 +821,6 @@
     },
     {
       "provider": "github",
-      "id": "4006355816",
-      "title": "🏆 BOUNTY (1 SOL): Film \"Two AI Agents Talking Across Continents\" Mesh Demo",
-      "url": "https://github.com/bolivian-peru/os-moda/issues/3",
-      "reward_amount": 1.0,
-      "reward_token": "SOL",
-      "deadline": null,
-      "sponsor": "bolivian-peru",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🏆 Bounty: 1 SOL **Film a real demo of two osModa servers communicating via encrypted P2P mesh. Upload to YouTube. Earn 1 SOL.** --- ## The Demo **Title:** \"My Two AI Agents Talking to Each Other Across Continents\" **Format:** 60-90 secon"
-    },
-    {
-      "provider": "github",
       "id": "5401196901",
       "title": "[Bounty] Seed a paid API child bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1368",
@@ -915,46 +916,6 @@
     },
     {
       "provider": "github",
-      "id": "5408447058",
-      "title": "[Bounty] [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1334",
-      "reward_amount": 850.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/2 ### 漏洞描述 / Description [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept AABB Dropout ### Bounty: U"
-    },
-    {
-      "provider": "github",
-      "id": "5408446923",
-      "title": "[Bounty] [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1332",
-      "reward_amount": 700.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/5 ### 漏洞描述 / Description [Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src/types/state.ts ### Bount"
-    },
-    {
-      "provider": "github",
       "id": "5408446992",
       "title": "[Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationE",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1333",
@@ -992,6 +953,26 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/claude-honeypot/issues/4 ### 漏洞描述 / Description [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6 ### Problem Our ERC-20 token contract in `cont"
+    },
+    {
+      "provider": "github",
+      "id": "5204694575",
+      "title": "[Bounty] [3 USDC][Open Competition V2] Write the shortest deterministic agent earning run",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/835",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1060 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Write the shortest deterministic agent earning runbook ## Funded Open Competition V2 "
     }
   ],
   "provider_errors": []

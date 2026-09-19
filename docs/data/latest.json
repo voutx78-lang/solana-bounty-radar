@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 44,
+  "opportunity_count": 45,
   "opportunities": [
     {
       "provider": "superteam",
@@ -73,25 +73,6 @@
     },
     {
       "provider": "gibwork",
-      "id": "ce839876-bf1f-42b7-914b-dd59f8fea1fb",
-      "title": "Axzra outreach Agent's Bounty ",
-      "url": "https://app.gib.work/tasks/ce839876-bf1f-42b7-914b-dd59f8fea1fb",
-      "reward_amount": 50.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-21T23:00:00.000Z",
-      "sponsor": "jaysmith",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "discord_membership_required",
-        "platform_account_required"
-      ],
-      "summary": "We’re putting up a 𝗯𝗼𝘂𝗻𝘁𝘆 for Axzra Agents. The 𝗳𝗶𝗿𝘀𝘁 𝗮𝗴𝗲𝗻𝘁 to successfully close a deal worth $500 or more will win. 𝗛𝗼𝘄 𝗶𝘁 𝘄𝗼𝗿𝗸𝘀 You earn 15% of the deal value in total: • 10% paid through Gibwork • 5% agent commission from Axzra For exam"
-    },
-    {
-      "provider": "gibwork",
       "id": "a5ec2956-3f86-4a13-9fef-a3623c563a2e",
       "title": "Share Your BASIS Week Pick ONE Theme",
       "url": "https://app.gib.work/tasks/a5ec2956-3f86-4a13-9fef-a3623c563a2e",
@@ -127,7 +108,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,620 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,628 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -190,6 +171,26 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "b3a45773-f2f9-4b12-844e-b8a635e4bc6f",
+      "title": "Share Your BASIS Numbers Pick ONE Topic",
+      "url": "https://app.gib.work/tasks/b3a45773-f2f9-4b12-844e-b8a635e4bc6f",
+      "reward_amount": 125.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-03T03:31:51.401Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the stuff only real users know. Pick ONE topic below and post your take on X: 1. The number you can't stop checking on your dashb"
+    },
+    {
       "provider": "algora",
       "id": "1994771240",
       "title": "Option to return errors as JSON",
@@ -207,27 +208,27 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 19,160 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 19,162 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
-      "id": "25ffe152-f790-4d2a-9640-792a0773669f",
-      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $30.00",
-      "url": "https://app.gib.work/tasks/25ffe152-f790-4d2a-9640-792a0773669f",
-      "reward_amount": 30.0,
+      "id": "ce839876-bf1f-42b7-914b-dd59f8fea1fb",
+      "title": "Axzra outreach Agent's Bounty ",
+      "url": "https://app.gib.work/tasks/ce839876-bf1f-42b7-914b-dd59f8fea1fb",
+      "reward_amount": 50.0,
       "reward_token": "USDC",
-      "deadline": "2026-10-02T16:37:04.000Z",
-      "sponsor": "anthony",
+      "deadline": "2026-09-21T23:00:00.000Z",
+      "sponsor": "jaysmith",
       "category": "tasks",
       "status": "CREATED",
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
+        "discord_membership_required",
+        "health_stale",
+        "platform_account_required"
       ],
-      "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
+      "summary": "We’re putting up a 𝗯𝗼𝘂𝗻𝘁𝘆 for Axzra Agents. The 𝗳𝗶𝗿𝘀𝘁 𝗮𝗴𝗲𝗻𝘁 to successfully close a deal worth $500 or more will win. 𝗛𝗼𝘄 𝗶𝘁 𝘄𝗼𝗿𝗸𝘀 You earn 15% of the deal value in total: • 10% paid through Gibwork • 5% agent commission from Axzra For exam"
     },
     {
       "provider": "algora",
@@ -267,7 +268,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 44,316 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 44,395 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -287,7 +288,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,294 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,295 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -307,7 +308,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,294 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,295 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -327,7 +328,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,890 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,895 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -347,7 +348,27 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,294 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,295 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "25ffe152-f790-4d2a-9640-792a0773669f",
+      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $30.00",
+      "url": "https://app.gib.work/tasks/25ffe152-f790-4d2a-9640-792a0773669f",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-02T16:37:04.000Z",
+      "sponsor": "anthony",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
     },
     {
       "provider": "gibwork",
@@ -456,27 +477,6 @@
     },
     {
       "provider": "gibwork",
-      "id": "73ff9481-dc96-47ba-81d0-5d9d55ecdc89",
-      "title": "Share Your BASIS Take Pick ONE Topic",
-      "url": "https://app.gib.work/tasks/73ff9481-dc96-47ba-81d0-5d9d55ecdc89",
-      "reward_amount": 9.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-02T05:33:46.497Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs on whatever part of the experience matters most to you. Pick ONE topic below and post your take on X: 1. Why you chose BASIS over other"
-    },
-    {
-      "provider": "gibwork",
       "id": "612d9f96-a0fd-4da5-9898-ee10045150de",
       "title": "Draft the Next @gib_work Post",
       "url": "https://app.gib.work/tasks/612d9f96-a0fd-4da5-9898-ee10045150de",
@@ -496,25 +496,6 @@
         "verified_account_required"
       ],
       "summary": "Review the 10 most recent posts from @gib_work on X, then draft an original post that feels like it belongs next in the feed. Match the tone, length, spacing, and overall format. Pay attention to how we open posts, talk about Gibwork, and e"
-    },
-    {
-      "provider": "github",
-      "id": "5474839659",
-      "title": "Bounty",
-      "url": "https://github.com/OmniBlocks/Boxy-gh/issues/143",
-      "reward_amount": 100.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "OmniBlocks",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "I will pay $100 for whoever can implement a feature in Boxy's code review bot that pre-emptively closes the PRs of people who aren't in the organization and aren't explicitly whitelisted, and then pings @OmniBlocks/coders to reopen before a"
     },
     {
       "provider": "github",
@@ -553,6 +534,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## 🎯 Objective Trigger a contextual upgrade prompt when a user reaches 50% of their free credit limit. ## 📋 Scope When a user makes their 5th free call (out of 10): 1. System inserts a row in `upsell_triggers` table 2. Response includes `X-"
+    },
+    {
+      "provider": "github",
+      "id": "4804258605",
+      "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Build a referral system that awards 5 free credits per successful referral conversion. ## 📋 Scope When user A refers user B: 1. User B signs up and makes their first paid call 2. User A automatically receives 5 free credits 3"
     },
     {
       "provider": "github",
@@ -819,6 +819,26 @@
         "payment_terms_require_review"
       ],
       "summary": "Build unit tests to verify: - Signature validity - Rejection of invalid signatures - Event emission - Seller mapping and metadata accuracy Optional: - Use Foundry in parallel for comparison Type: DevOps / QA Labels: testing, Solidity, help "
+    },
+    {
+      "provider": "github",
+      "id": "5476627612",
+      "title": "[Bounty] Bounty",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1573",
+      "reward_amount": 100.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/OmniBlocks/Boxy-gh/issues/143 ### 漏洞描述 / Description Bounty I will pay $100 for whoever can implement a feature in Boxy's code review bot that pre-emptively closes the PRs "
     },
     {
       "provider": "github",

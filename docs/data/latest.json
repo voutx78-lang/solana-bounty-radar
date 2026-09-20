@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 45,
+  "opportunity_count": 46,
   "opportunities": [
     {
       "provider": "superteam",
@@ -73,6 +73,24 @@
     },
     {
       "provider": "gibwork",
+      "id": "bc9c5425-af90-419a-a0da-918232c15bc2",
+      "title": "FLAUNT YOUR VERYCHAT STREAKS",
+      "url": "https://app.gib.work/tasks/bc9c5425-af90-419a-a0da-918232c15bc2",
+      "reward_amount": 4.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-04T11:02:21.340Z",
+      "sponsor": "dbabefloxy",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required"
+      ],
+      "summary": "Time to reward consistency as promised There are 2 ways to earn: WAY 1: Already on Verychat? Upload a screenshot of your longest login streak WAY 2: New to Verychat? 1. Download the Verychat App Link: https://invite.verychat.io/dbabefloxy 2"
+    },
+    {
+      "provider": "gibwork",
       "id": "a5ec2956-3f86-4a13-9fef-a3623c563a2e",
       "title": "Share Your BASIS Week Pick ONE Theme",
       "url": "https://app.gib.work/tasks/a5ec2956-3f86-4a13-9fef-a3623c563a2e",
@@ -108,7 +126,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,628 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,638 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -171,26 +189,6 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "b3a45773-f2f9-4b12-844e-b8a635e4bc6f",
-      "title": "Share Your BASIS Numbers Pick ONE Topic",
-      "url": "https://app.gib.work/tasks/b3a45773-f2f9-4b12-844e-b8a635e4bc6f",
-      "reward_amount": 125.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-03T03:31:51.401Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the stuff only real users know. Pick ONE topic below and post your take on X: 1. The number you can't stop checking on your dashb"
-    },
-    {
       "provider": "algora",
       "id": "1994771240",
       "title": "Option to return errors as JSON",
@@ -208,7 +206,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 19,162 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 19,165 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -268,7 +266,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 44,395 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 44,476 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -288,7 +286,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,295 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,299 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -308,7 +306,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,295 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,299 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -328,7 +326,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,895 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,910 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -348,27 +346,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,295 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "25ffe152-f790-4d2a-9640-792a0773669f",
-      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $30.00",
-      "url": "https://app.gib.work/tasks/25ffe152-f790-4d2a-9640-792a0773669f",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-02T16:37:04.000Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
+      "summary": "Official Algora announcement; repository has 2,299 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -377,7 +355,7 @@
       "url": "https://app.gib.work/tasks/b3735fc5-991c-45e6-aea0-8755314acb0c",
       "reward_amount": 120.0,
       "reward_token": "USDC",
-      "deadline": "2026-09-20T15:39:40.569Z",
+      "deadline": "2026-09-30T04:00:00.000Z",
       "sponsor": "anthony",
       "category": "tasks",
       "status": "CREATED",
@@ -390,6 +368,27 @@
         "verified_account_required"
       ],
       "summary": "There’s a person behind every username, and we’d love to meet you. Post a 30–60 second intro video in our Discord so other freelancers, builders, and bounty participants can get to know you and discover what you could work on together. What"
+    },
+    {
+      "provider": "gibwork",
+      "id": "8f73ad0b-8cfb-43ba-a574-a9499303acd5",
+      "title": "Drop Your Take on BASIS Leave a Thoughtful Comment",
+      "url": "https://app.gib.work/tasks/8f73ad0b-8cfb-43ba-a574-a9499303acd5",
+      "reward_amount": 100.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-04T03:37:26.345Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Visit basis.pro , explore for 5 minutes, then come back here and leave a COMMENT below answering ONE of these: 1. Which part of the platform surprised you most and why? 2. What's one thing you'd improve? 3. How does it compare to yield plat"
     },
     {
       "provider": "algora",
@@ -411,6 +410,27 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "b3a45773-f2f9-4b12-844e-b8a635e4bc6f",
+      "title": "Share Your BASIS Numbers Pick ONE Topic",
+      "url": "https://app.gib.work/tasks/b3a45773-f2f9-4b12-844e-b8a635e4bc6f",
+      "reward_amount": 46.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-03T03:31:51.401Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the stuff only real users know. Pick ONE topic below and post your take on X: 1. The number you can't stop checking on your dashb"
     },
     {
       "provider": "algora",
@@ -490,7 +510,7 @@
       "autonomous": false,
       "risk_flags": [
         "crowded_50_plus_pending",
-        "health_stale",
+        "health_overcrowded",
         "platform_account_required",
         "social_account_likely_required",
         "verified_account_required"

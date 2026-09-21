@@ -1,40 +1,8 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 46,
+  "opportunity_count": 44,
   "opportunities": [
-    {
-      "provider": "superteam",
-      "id": "f1250fa6-7e09-4962-8eb1-60969bcf0bbb",
-      "title": "Colosseum Crypto World's Fair Hackathon | Superteam Vietnam Track",
-      "url": "https://superteam.fun/earn/listing/colosseum-crypto-worlds-fair-hackathon-superteam-vietnam-track/",
-      "reward_amount": 10000.0,
-      "reward_token": "USDG",
-      "deadline": "2026-10-13T06:59:00.000Z",
-      "sponsor": "Superteam Vietnam",
-      "category": "hackathon",
-      "status": "OPEN",
-      "submission_mode": "official_agent_api",
-      "autonomous": true,
-      "risk_flags": [],
-      "summary": "Agent-eligible listing from a verified Superteam sponsor."
-    },
-    {
-      "provider": "superteam",
-      "id": "3c12a2d7-88af-40cb-add1-79546e76b8a2",
-      "title": "Road to Colosseum | Builders Reflect & Share",
-      "url": "https://superteam.fun/earn/listing/road-to-colosseum-builders-reflect-and-share/",
-      "reward_amount": 1000.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-12T16:59:00.000Z",
-      "sponsor": "Superteam Vietnam",
-      "category": "bounty",
-      "status": "OPEN",
-      "submission_mode": "official_agent_api",
-      "autonomous": true,
-      "risk_flags": [],
-      "summary": "Agent-eligible listing from a verified Superteam sponsor."
-    },
     {
       "provider": "gibwork",
       "id": "1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
@@ -126,7 +94,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,638 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,652 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -189,24 +157,24 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "algora",
-      "id": "1994771240",
-      "title": "Option to return errors as JSON",
-      "url": "https://github.com/elysiajs/elysia/issues/313",
-      "reward_amount": 100.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "elysiajs",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "github_pr_plus_platform_account",
+      "provider": "gibwork",
+      "id": "611387d3-d1cf-4836-b26c-a09d6800df0e",
+      "title": "Your BASIS Story, Your Angle Pick ONE Topic",
+      "url": "https://app.gib.work/tasks/611387d3-d1cf-4836-b26c-a09d6800df0e",
+      "reward_amount": 150.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-05T05:50:03.478Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
+        "crowded_50_plus_pending",
         "platform_account_required",
-        "payment_profile_required",
-        "bounty_status_requires_review"
+        "social_account_likely_required"
       ],
-      "summary": "Official Algora announcement; repository has 19,165 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Your BASIS Story, Your Angle Pick ONE Topic Overview: We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the side of the experience that stands out most to you. Pick ONE topic belo"
     },
     {
       "provider": "gibwork",
@@ -266,7 +234,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 44,476 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 44,576 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -286,7 +254,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,299 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,304 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -306,7 +274,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,299 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,304 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -326,7 +294,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,910 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,927 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -346,7 +314,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,299 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,304 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -371,24 +339,24 @@
     },
     {
       "provider": "gibwork",
-      "id": "8f73ad0b-8cfb-43ba-a574-a9499303acd5",
-      "title": "Drop Your Take on BASIS Leave a Thoughtful Comment",
-      "url": "https://app.gib.work/tasks/8f73ad0b-8cfb-43ba-a574-a9499303acd5",
-      "reward_amount": 100.0,
+      "id": "dea2be55-de45-45a3-89d6-ecdf83e01d83",
+      "title": "Which Web3 Community Group Chats Are You Active In?",
+      "url": "https://app.gib.work/tasks/dea2be55-de45-45a3-89d6-ecdf83e01d83",
+      "reward_amount": 75.0,
       "reward_token": "USDC",
-      "deadline": "2026-10-04T03:37:26.345Z",
-      "sponsor": "basis",
+      "deadline": "2026-09-24T16:10:35.240Z",
+      "sponsor": "anthony",
       "category": "tasks",
       "status": "CREATED",
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
         "crowded_50_plus_pending",
-        "health_overcrowded",
         "platform_account_required",
-        "social_account_likely_required"
+        "social_account_likely_required",
+        "verified_account_required"
       ],
-      "summary": "Visit basis.pro , explore for 5 minutes, then come back here and leave a COMMENT below answering ONE of these: 1. Which part of the platform surprised you most and why? 2. What's one thing you'd improve? 3. How does it compare to yield plat"
+      "summary": "Tell us how many Web3 community group chats you actively participate in and what those communities are about. Groups can be on Telegram, WhatsApp, Discord, or another chat platform. What to submit Your total number of active Web3 group chat"
     },
     {
       "provider": "algora",
@@ -410,27 +378,6 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "b3a45773-f2f9-4b12-844e-b8a635e4bc6f",
-      "title": "Share Your BASIS Numbers Pick ONE Topic",
-      "url": "https://app.gib.work/tasks/b3a45773-f2f9-4b12-844e-b8a635e4bc6f",
-      "reward_amount": 46.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-03T03:31:51.401Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the stuff only real users know. Pick ONE topic below and post your take on X: 1. The number you can't stop checking on your dashb"
     },
     {
       "provider": "algora",
@@ -497,6 +444,27 @@
     },
     {
       "provider": "gibwork",
+      "id": "8f73ad0b-8cfb-43ba-a574-a9499303acd5",
+      "title": "Drop Your Take on BASIS Leave a Thoughtful Comment",
+      "url": "https://app.gib.work/tasks/8f73ad0b-8cfb-43ba-a574-a9499303acd5",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-04T03:37:26.345Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Visit basis.pro , explore for 5 minutes, then come back here and leave a COMMENT below answering ONE of these: 1. Which part of the platform surprised you most and why? 2. What's one thing you'd improve? 3. How does it compare to yield plat"
+    },
+    {
+      "provider": "gibwork",
       "id": "612d9f96-a0fd-4da5-9898-ee10045150de",
       "title": "Draft the Next @gib_work Post",
       "url": "https://app.gib.work/tasks/612d9f96-a0fd-4da5-9898-ee10045150de",
@@ -519,9 +487,9 @@
     },
     {
       "provider": "github",
-      "id": "5401195890",
+      "id": "5378716737",
       "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1365",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1340",
       "reward_amount": 15.068098,
       "reward_token": "USDC",
       "deadline": null,
@@ -534,7 +502,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery Create a parametric CAD concept for a flower-shaped rainwater collector that retrofits onto a tinaco in Mexico City. - **Current work state:** `verification_pending` - **Current payment state:** `escrowed` - **"
+      "summary": "## Canonical bounty discovery Create a parametric CAD concept for a flower-shaped rainwater collector that retrofits onto a tinaco in Mexico City. - **Current work state:** `in_progress` - **Current payment state:** `escrowed` - **Current c"
     },
     {
       "provider": "github",
@@ -636,25 +604,6 @@
       "id": "5401199359",
       "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 sprint",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1376",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically inside the exact scoring window. Produce the highest eligible externally funded GMV score without counting excluded wallets or contracts. - **C"
-    },
-    {
-      "provider": "github",
-      "id": "5401199206",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 24",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1375",
       "reward_amount": 3.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -859,6 +808,26 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/OmniBlocks/Boxy-gh/issues/143 ### 漏洞描述 / Description Bounty I will pay $100 for whoever can implement a feature in Boxy's code review bot that pre-emptively closes the PRs "
+    },
+    {
+      "provider": "github",
+      "id": "5290929680",
+      "title": "[DRAFT DIRECT] Make verifier settlement deadline-aware and provider-resilient",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1262",
+      "reward_amount": 14.5,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "> **UNFUNDED PRECOMMIT — do not claim, sign, spend, or start implementation yet.** This becomes paid work only after the immutable benchmark reaches protected `main`, a live verifier canary passes, and canonical Base creation/funding/claima"
     },
     {
       "provider": "github",

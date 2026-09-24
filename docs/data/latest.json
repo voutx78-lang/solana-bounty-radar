@@ -23,6 +23,25 @@
     },
     {
       "provider": "gibwork",
+      "id": "d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7",
+      "title": "Invite Users, Earn Points, and Climb the Leaderboard",
+      "url": "https://app.gib.work/tasks/d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7",
+      "reward_amount": 125.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-14T20:00:00.000Z",
+      "sponsor": "anthony",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Invite people to Gibwork and earn points when they accept your referral and participate in a bounty, connect a qualifying X account, and create funded bounties. Compete for a 125.00 USDC reward pool and follow your progress on our shared le"
+    },
+    {
+      "provider": "gibwork",
       "id": "9f881000-866b-4366-a057-292645172adf",
       "title": "JOIN RAYCASH APP POINTS SYSTEM",
       "url": "https://app.gib.work/tasks/9f881000-866b-4366-a057-292645172adf",
@@ -58,7 +77,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,670 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,680 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -121,46 +140,6 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "6e49b27e-f9c4-4a6d-a61f-f4c8fc342c67",
-      "title": "Share Your Red Week Story Pick ONE angle",
-      "url": "https://app.gib.work/tasks/6e49b27e-f9c4-4a6d-a61f-f4c8fc342c67",
-      "reward_amount": 150.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-07T00:22:51.965Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about what a down week actually looked like for them. Pick ONE angle below and post your take on X: 1. What you actually did during a r"
-    },
-    {
-      "provider": "gibwork",
-      "id": "c35bd56f-9c59-4155-863a-cacfcb36a4b2",
-      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $30.00",
-      "url": "https://app.gib.work/tasks/c35bd56f-9c59-4155-863a-cacfcb36a4b2",
-      "reward_amount": 30.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-06T19:58:26.000Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
-    },
-    {
       "provider": "algora",
       "id": "2782641291",
       "title": "Use pglite so that postgres isn't required when generating types",
@@ -184,11 +163,11 @@
       "provider": "algora",
       "id": "3113543796",
       "title": "[Enhancement]: Support for Sora Video Generation (Azure OpenAI Integration)",
-      "url": "https://github.com/danny-avila/LibreChat/issues/7702",
+      "url": "https://github.com/LibreChat-AI/LibreChat/issues/7702",
       "reward_amount": 25.0,
       "reward_token": "USD",
       "deadline": null,
-      "sponsor": "danny-avila",
+      "sponsor": "LibreChat-AI",
       "category": "issue",
       "status": "open",
       "submission_mode": "github_pr_plus_platform_account",
@@ -198,7 +177,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 44,783 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 44,881 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -218,7 +197,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,308 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,309 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -238,7 +217,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,308 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,309 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -258,7 +237,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,964 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 8,986 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -278,7 +257,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,308 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,309 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -302,27 +281,6 @@
       "summary": "There’s a person behind every username, and we’d love to meet you. Post a 30–60 second intro video in our Discord so other freelancers, builders, and bounty participants can get to know you and discover what you could work on together. What"
     },
     {
-      "provider": "gibwork",
-      "id": "dea2be55-de45-45a3-89d6-ecdf83e01d83",
-      "title": "Which Web3 Community Group Chats Are You Active In?",
-      "url": "https://app.gib.work/tasks/dea2be55-de45-45a3-89d6-ecdf83e01d83",
-      "reward_amount": 73.0,
-      "reward_token": "USDC",
-      "deadline": "2026-09-24T16:10:35.240Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "Tell us how many Web3 community group chats you actively participate in and what those communities are about. Groups can be on Telegram, WhatsApp, Discord, or another chat platform. What to submit Your total number of active Web3 group chat"
-    },
-    {
       "provider": "algora",
       "id": "3776235284",
       "title": "Add SHA-3 (Keccak) Hashing Support",
@@ -342,6 +300,27 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "c35bd56f-9c59-4155-863a-cacfcb36a4b2",
+      "title": "Invite a UGC Creator to Gibwork and Get a Reply — $30.00",
+      "url": "https://app.gib.work/tasks/c35bd56f-9c59-4155-863a-cacfcb36a4b2",
+      "reward_amount": 30.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-06T19:58:26.000Z",
+      "sponsor": "anthony",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_stale",
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
     },
     {
       "provider": "algora",
@@ -407,6 +386,27 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "f4ce151a-de3e-4cc7-94f7-e553e7452f39",
+      "title": "What Would You Change About BASIS? Pick ONE angle",
+      "url": "https://app.gib.work/tasks/f4ce151a-de3e-4cc7-94f7-e553e7452f39",
+      "reward_amount": 7.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-08T11:52:42.837Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the changes they'd ask for. Pick ONE angle below and post your take on X: 1. The feature you'd add to BASIS if the team asked for"
+    },
+    {
       "provider": "github",
       "id": "5555642496",
       "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
@@ -443,6 +443,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## 🎯 Objective Trigger a contextual upgrade prompt when a user reaches 50% of their free credit limit. ## 📋 Scope When a user makes their 5th free call (out of 10): 1. System inserts a row in `upsell_triggers` table 2. Response includes `X-"
+    },
+    {
+      "provider": "github",
+      "id": "4804258605",
+      "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Build a referral system that awards 5 free credits per successful referral conversion. ## 📋 Scope When user A refers user B: 1. User B signs up and makes their first paid call 2. User A automatically receives 5 free credits 3"
     },
     {
       "provider": "github",
@@ -519,25 +538,6 @@
         "payment_terms_require_review"
       ],
       "summary": "> **Archived duplicate.** Follow [the current bounty thread #1210](https://github.com/NSPG13/agent-bounties/issues/1210) and its linked canonical state. The text below is a saved historical snapshot, not a current invitation to claim or spe"
-    },
-    {
-      "provider": "github",
-      "id": "5239002175",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 21",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1218",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically during the scoring window. Highest eligible externally funded GMV wins. - **Current work state:** `unavailable` - **Current payment state:** `e"
     },
     {
       "provider": "github",
@@ -841,7 +841,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "**Problem** ROADMAP.md lists fiat on-ramp integration (Kado, MoonPay) under Q4 2026 as unstarted, and the product targets users who think in fiat - the currency toggle exists precisely because of that. Today a user can hold and send XLM or "
+      "summary": "> [!IMPORTANT] > **⛔ TARGET BRANCH: `integration/staging` — open the fix PR against this branch, NOT `main`.** **Problem** ROADMAP.md lists fiat on-ramp integration (Kado, MoonPay) under Q4 2026 as unstarted, and the product targets users w"
     },
     {
       "provider": "github",
@@ -860,7 +860,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "**Problem** Multi-asset support is a headline capability (USDC and custom tokens, the AssetSelector component, src/lib/assets.ts) and src/lib/trustline.ts exists for trustline operations, with a simulator (referenced from the coverage confi"
+      "summary": "> [!IMPORTANT] > **⛔ TARGET BRANCH: `integration/staging` — open the fix PR against this branch, NOT `main`.** **Problem** Multi-asset support is a headline capability (USDC and custom tokens, the AssetSelector component, src/lib/assets.ts)"
     },
     {
       "provider": "github",

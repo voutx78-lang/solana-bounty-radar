@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 50,
+  "opportunity_count": 49,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -54,7 +54,7 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "health_overcrowded",
+        "health_stale",
         "platform_account_required"
       ],
       "summary": "Join the Raycash Points system and earn incentive points for using the Raycash app. (Later Points converted into Tokens) 📝 Task Join Raycash using my referral link: https://raycash.xyz/r/UZ4ZBW Complete the required steps to participate in "
@@ -77,7 +77,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,680 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,691 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -177,7 +177,27 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 44,881 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 44,945 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "7c17d0a2-3561-4d19-91bc-1f53c8bb7e86",
+      "title": "Share One Small Detail About How You Use BASIS Pick ONE angle",
+      "url": "https://app.gib.work/tasks/7c17d0a2-3561-4d19-91bc-1f53c8bb7e86",
+      "reward_amount": 12.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-09T00:59:37.497Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Even the small details count. Pick ONE angle below and post your take on X: 1. Which asset you stake, and why you picked it 2. The tim"
     },
     {
       "provider": "algora",
@@ -197,7 +217,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,309 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,311 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -217,7 +237,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,309 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,311 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -237,7 +257,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 8,986 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,003 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -257,7 +277,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,309 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,311 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -386,27 +406,6 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "f4ce151a-de3e-4cc7-94f7-e553e7452f39",
-      "title": "What Would You Change About BASIS? Pick ONE angle",
-      "url": "https://app.gib.work/tasks/f4ce151a-de3e-4cc7-94f7-e553e7452f39",
-      "reward_amount": 7.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-08T11:52:42.837Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the changes they'd ask for. Pick ONE angle below and post your take on X: 1. The feature you'd add to BASIS if the team asked for"
-    },
-    {
       "provider": "github",
       "id": "5555642496",
       "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
@@ -465,47 +464,9 @@
     },
     {
       "provider": "github",
-      "id": "5239002443",
-      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1220",
-      "reward_amount": 6.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Compete to create and fund marketplace demand that settles canonically during the announced forward window. Highest pro-rata externally funded GMV wins. - **Current work state:** `unavailable` - **Current payme"
-    },
-    {
-      "provider": "github",
       "id": "5239002677",
       "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260827",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1222",
-      "reward_amount": 6.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Compete to create and fund marketplace demand that settles canonically during the announced forward window. Highest pro-rata externally funded GMV wins. - **Current work state:** `unavailable` - **Current payme"
-    },
-    {
-      "provider": "github",
-      "id": "5239002556",
-      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — week 20260831",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1221",
       "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -538,25 +499,6 @@
         "payment_terms_require_review"
       ],
       "summary": "> **Archived duplicate.** Follow [the current bounty thread #1210](https://github.com/NSPG13/agent-bounties/issues/1210) and its linked canonical state. The text below is a saved historical snapshot, not a current invitation to claim or spe"
-    },
-    {
-      "provider": "github",
-      "id": "5239002307",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 27",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1219",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically during the scoring window. Highest eligible externally funded GMV wins. - **Current work state:** `unavailable` - **Current payment state:** `e"
     },
     {
       "provider": "github",
@@ -731,6 +673,25 @@
     },
     {
       "provider": "github",
+      "id": "5584591293",
+      "title": "Expose inference cost metrics on the public ledger endpoint",
+      "url": "https://github.com/Grainlify/grainlify-bounty-agent/issues/2",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Grainlify",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "**The problem** The public ledger shows individual inference calls — model, quote id, transaction signature, amount paid. It does not show the aggregates that actually tell you whether paying per request is sensible: what a call costs on av"
+    },
+    {
+      "provider": "github",
       "id": "5555638005",
       "title": "[Bounty] Fix one deterministic agent-card discovery regression",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1502",
@@ -785,6 +746,25 @@
         "payment_terms_require_review"
       ],
       "summary": "> **Archived duplicate.** Follow [the current bounty thread #865](https://github.com/NSPG13/agent-bounties/issues/865) and its linked canonical state. The text below is a saved historical snapshot, not a current invitation to claim or spend"
+    },
+    {
+      "provider": "github",
+      "id": "5584591123",
+      "title": "Record the real network fee in the ledger, not only the capped estimate",
+      "url": "https://github.com/Grainlify/grainlify-bounty-agent/issues/1",
+      "reward_amount": 0.002031,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Grainlify",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "**The problem** When the agent pays for inference over x402, the Solana network fee is most of what the call costs — in our measurements a paid call cost $0.002031, of which $0.002004 was the network fee. So the fee is the number most worth"
     },
     {
       "provider": "github",

@@ -23,25 +23,6 @@
     },
     {
       "provider": "gibwork",
-      "id": "d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7",
-      "title": "Invite Users, Earn Points, and Climb the Leaderboard",
-      "url": "https://app.gib.work/tasks/d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7",
-      "reward_amount": 125.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-14T20:00:00.000Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Invite people to Gibwork and earn points when they accept your referral and participate in a bounty, connect a qualifying X account, and create funded bounties. Compete for a 125.00 USDC reward pool and follow your progress on our shared le"
-    },
-    {
-      "provider": "gibwork",
       "id": "9f881000-866b-4366-a057-292645172adf",
       "title": "JOIN RAYCASH APP POINTS SYSTEM",
       "url": "https://app.gib.work/tasks/9f881000-866b-4366-a057-292645172adf",
@@ -77,7 +58,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,691 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,695 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -140,6 +121,26 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7",
+      "title": "Invite Users, Earn Points, and Climb the Leaderboard",
+      "url": "https://app.gib.work/tasks/d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7",
+      "reward_amount": 125.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-14T20:00:00.000Z",
+      "sponsor": "anthony",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Invite people to Gibwork and earn points when they accept your referral and participate in a bounty, connect a qualifying X account, and create funded bounties. Compete for a 125.00 USDC reward pool and follow your progress on our shared le"
+    },
+    {
       "provider": "algora",
       "id": "2782641291",
       "title": "Use pglite so that postgres isn't required when generating types",
@@ -177,27 +178,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 44,945 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "7c17d0a2-3561-4d19-91bc-1f53c8bb7e86",
-      "title": "Share One Small Detail About How You Use BASIS Pick ONE angle",
-      "url": "https://app.gib.work/tasks/7c17d0a2-3561-4d19-91bc-1f53c8bb7e86",
-      "reward_amount": 12.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-09T00:59:37.497Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Even the small details count. Pick ONE angle below and post your take on X: 1. Which asset you stake, and why you picked it 2. The tim"
+      "summary": "Official Algora announcement; repository has 44,977 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -257,7 +238,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,003 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,017 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -406,6 +387,27 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "7c17d0a2-3561-4d19-91bc-1f53c8bb7e86",
+      "title": "Share One Small Detail About How You Use BASIS Pick ONE angle",
+      "url": "https://app.gib.work/tasks/7c17d0a2-3561-4d19-91bc-1f53c8bb7e86",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-09T00:59:37.497Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Even the small details count. Pick ONE angle below and post your take on X: 1. Which asset you stake, and why you picked it 2. The tim"
+    },
+    {
       "provider": "github",
       "id": "5555642496",
       "title": "[Bounty] Flower-shaped rainwater collector for a tinaco",
@@ -467,6 +469,25 @@
       "id": "5239002677",
       "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260827",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1222",
+      "reward_amount": 6.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Compete to create and fund marketplace demand that settles canonically during the announced forward window. Highest pro-rata externally funded GMV wins. - **Current work state:** `unavailable` - **Current payme"
+    },
+    {
+      "provider": "github",
+      "id": "5239002556",
+      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — week 20260831",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1221",
       "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -822,25 +843,6 @@
         "payment_terms_require_review"
       ],
       "summary": "> [!IMPORTANT] > **⛔ TARGET BRANCH: `integration/staging` — open the fix PR against this branch, NOT `main`.** **Problem** ROADMAP.md lists fiat on-ramp integration (Kado, MoonPay) under Q4 2026 as unstarted, and the product targets users w"
-    },
-    {
-      "provider": "github",
-      "id": "5556777922",
-      "title": "Add a trustline setup flow for non-native assets",
-      "url": "https://github.com/OphirPay/OphirPay/issues/809",
-      "reward_amount": null,
-      "reward_token": null,
-      "deadline": null,
-      "sponsor": "OphirPay",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> [!IMPORTANT] > **⛔ TARGET BRANCH: `integration/staging` — open the fix PR against this branch, NOT `main`.** **Problem** Multi-asset support is a headline capability (USDC and custom tokens, the AssetSelector component, src/lib/assets.ts)"
     },
     {
       "provider": "github",

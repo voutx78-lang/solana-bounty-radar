@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 43,
+  "opportunity_count": 49,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -60,25 +60,6 @@
       "summary": "IronVaults.xyz is running a bounty for participants to create a vault on the platform and publish an X thread about their experience. This bounty rewards the first 2 participants who complete both steps with 20 USDC each , awards 40 USDC fo"
     },
     {
-      "provider": "gibwork",
-      "id": "9f881000-866b-4366-a057-292645172adf",
-      "title": "JOIN RAYCASH APP POINTS SYSTEM",
-      "url": "https://app.gib.work/tasks/9f881000-866b-4366-a057-292645172adf",
-      "reward_amount": 4.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-07T14:39:23.434Z",
-      "sponsor": "official",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_stale",
-        "platform_account_required"
-      ],
-      "summary": "Join the Raycash Points system and earn incentive points for using the Raycash app. (Later Points converted into Tokens) 📝 Task Join Raycash using my referral link: https://raycash.xyz/r/UZ4ZBW Complete the required steps to participate in "
-    },
-    {
       "provider": "algora",
       "id": "2959305187",
       "title": "[BOUNTY] WearOS Support [$2340]",
@@ -96,7 +77,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,743 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,755 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -216,7 +197,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 45,188 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 45,203 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -236,7 +217,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,315 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,314 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -256,7 +237,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,315 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,314 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -276,7 +257,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,108 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,123 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -296,7 +277,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,315 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,314 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -341,27 +322,6 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "8cfab855-2146-4bc8-96d4-d05e5678fe12",
-      "title": "Find X Accounts Sharing Web3 Opportunities",
-      "url": "https://app.gib.work/tasks/8cfab855-2146-4bc8-96d4-d05e5678fe12",
-      "reward_amount": 30.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-04T15:39:44.862Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "Help us discover X accounts that consistently share Web3 earning opportunities with their audience—bounties, hackathons, grants, freelance gigs, and other paid opportunities. We’re looking for accounts people follow to discover opportunitie"
-    },
-    {
       "provider": "algora",
       "id": "2769360144",
       "title": "Dolor sit amet",
@@ -381,6 +341,27 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "f3228097-5bb3-4cd9-9170-f02c3c2f44fd",
+      "title": "Share Your BASIS Story Pick ONE Theme",
+      "url": "https://app.gib.work/tasks/f3228097-5bb3-4cd9-9170-f02c3c2f44fd",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-16T02:21:17.253Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "There's no single way to use BASIS. If you're staking on BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs pick the part of your experience that matters most to you and share it. Pick ONE theme below and post your take "
     },
     {
       "provider": "algora",
@@ -429,7 +410,7 @@
       "id": "91dd2813-b2a0-4a05-88b8-818ceba19a21",
       "title": "How Long Have You Been Staking on BASIS? Pick ONE angle",
       "url": "https://app.gib.work/tasks/91dd2813-b2a0-4a05-88b8-818ceba19a21",
-      "reward_amount": 9.0,
+      "reward_amount": 1.0,
       "reward_token": "USDC",
       "deadline": "2026-10-13T06:29:40.453Z",
       "sponsor": "basis",
@@ -447,13 +428,13 @@
     },
     {
       "provider": "gibwork",
-      "id": "d13c8c10-ad64-407c-a504-e3760abb0ff0",
-      "title": "Engage with the BASIS ETF Flows Report — Retweet, Like & Comment",
-      "url": "https://app.gib.work/tasks/d13c8c10-ad64-407c-a504-e3760abb0ff0",
-      "reward_amount": 4.0,
+      "id": "8cfab855-2146-4bc8-96d4-d05e5678fe12",
+      "title": "Find X Accounts Sharing Web3 Opportunities",
+      "url": "https://app.gib.work/tasks/8cfab855-2146-4bc8-96d4-d05e5678fe12",
+      "reward_amount": 30.0,
       "reward_token": "USDC",
-      "deadline": "2026-10-13T09:24:52.202Z",
-      "sponsor": "basis",
+      "deadline": "2026-10-04T15:39:44.862Z",
+      "sponsor": "anthony",
       "category": "tasks",
       "status": "CREATED",
       "submission_mode": "platform_account",
@@ -462,9 +443,10 @@
         "crowded_50_plus_pending",
         "health_overcrowded",
         "platform_account_required",
-        "social_account_likely_required"
+        "social_account_likely_required",
+        "verified_account_required"
       ],
-      "summary": "BASIS just published new market research: the ETF ledger turned positive year-to-date Bitcoin ETF flows flipped to +$926M after the strongest ETF week of 2026, while price refused to confirm. Read the post, share it, and tell us what you ma"
+      "summary": "Help us discover X accounts that consistently share Web3 earning opportunities with their audience—bounties, hackathons, grants, freelance gigs, and other paid opportunities. We’re looking for accounts people follow to discover opportunitie"
     },
     {
       "provider": "github",
@@ -772,6 +754,120 @@
     },
     {
       "provider": "github",
+      "id": "5115629798",
+      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/861",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete 1 USDC MCP bounty that a different registered participant completes and receives canonical settlement for, then receive the 2 USDC parent reward. - **Current work state:** `read"
+    },
+    {
+      "provider": "github",
+      "id": "4997223260",
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC API reliability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
+    },
+    {
+      "provider": "github",
+      "id": "4997223957",
+      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/651",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "﻿## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
+    },
+    {
+      "provider": "github",
+      "id": "4907443765",
+      "title": "[META] Earn 1 USDC margin with a CLI bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/333",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC CLI child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
+    },
+    {
+      "provider": "github",
+      "id": "4997223406",
+      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/648",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC MCP interoperability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
+    },
+    {
+      "provider": "github",
+      "id": "4907443890",
+      "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/336",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC wallet UX child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** whe"
+    },
+    {
+      "provider": "github",
       "id": "4972111892",
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590",
@@ -846,6 +942,26 @@
         "listing_quarantined"
       ],
       "summary": "> **UNFUNDED PRECOMMIT — do not claim, sign, spend, or start implementation yet.** This becomes paid work only after the immutable benchmark reaches protected `main`, a live verifier canary passes, and canonical Base creation/funding/claima"
+    },
+    {
+      "provider": "github",
+      "id": "4907443815",
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/334",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "## Goal Create and fully fund a concrete **1 USDC API child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
     }
   ],
   "provider_errors": []

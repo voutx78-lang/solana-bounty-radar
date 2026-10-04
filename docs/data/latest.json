@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 53,
+  "opportunity_count": 51,
   "opportunities": [
     {
       "provider": "superteam",
@@ -36,6 +36,24 @@
         "platform_account_required"
       ],
       "summary": "Join this Gibwork Developer Hackathon bounty to create a new non-web-app use case for Gibwork using the SDK, CLI, or MCP . This bounty is focused on practical developer workflows, automations, integrations, or tooling that demonstrate a com"
+    },
+    {
+      "provider": "gibwork",
+      "id": "83987785-804e-44dc-8bee-c22a76e504bf",
+      "title": "JOIN A WAIT LIST",
+      "url": "https://app.gib.work/tasks/83987785-804e-44dc-8bee-c22a76e504bf",
+      "reward_amount": 5.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-18T02:13:10.233Z",
+      "sponsor": "alfredokafor93",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required"
+      ],
+      "summary": "Join the Hazel wait-list through the link here ⬇️⬇️⬇️ https://hazels.io/studio/waitlist?ref=NDHKWZF5 Note 1- Must complete the 2 onboarding task to count. 2- Submit Screenshot proof of completed onboarding. 3- if you already joined earlier "
     },
     {
       "provider": "gibwork",
@@ -93,7 +111,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,763 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,775 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -197,26 +215,6 @@
     },
     {
       "provider": "algora",
-      "id": "3113543796",
-      "title": "[Enhancement]: Support for Sora Video Generation (Azure OpenAI Integration)",
-      "url": "https://github.com/LibreChat-AI/LibreChat/issues/7702",
-      "reward_amount": 25.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "LibreChat-AI",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "github_pr_plus_platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "payment_profile_required",
-        "bounty_status_requires_review"
-      ],
-      "summary": "Official Algora announcement; repository has 45,224 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "algora",
       "id": "3264413457",
       "title": "\"Unresolved Reference\" on .md files in subfolders",
       "url": "https://github.com/Feel-ix-343/markdown-oxide/issues/274",
@@ -233,7 +231,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,315 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,317 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -253,7 +251,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,315 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,317 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -273,7 +271,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,139 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,156 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -293,7 +291,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,315 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,317 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -443,28 +441,6 @@
       "summary": "Every BASIS position has a timeline. We want to hear yours how long have you been staking on BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, and what does that chapter look like from where you sit? Pick ONE angle be"
     },
     {
-      "provider": "gibwork",
-      "id": "8cfab855-2146-4bc8-96d4-d05e5678fe12",
-      "title": "Find X Accounts Sharing Web3 Opportunities",
-      "url": "https://app.gib.work/tasks/8cfab855-2146-4bc8-96d4-d05e5678fe12",
-      "reward_amount": 30.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-04T15:39:44.862Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_stale",
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "Help us discover X accounts that consistently share Web3 earning opportunities with their audience—bounties, hackathons, grants, freelance gigs, and other paid opportunities. We’re looking for accounts people follow to discover opportunitie"
-    },
-    {
       "provider": "github",
       "id": "5198422735",
       "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
@@ -561,6 +537,25 @@
     },
     {
       "provider": "github",
+      "id": "4804271831",
+      "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
+    },
+    {
+      "provider": "github",
       "id": "5401200924",
       "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1386",
@@ -577,25 +572,6 @@
         "payment_terms_require_review"
       ],
       "summary": "> **Closed to new work.** The scoring window ended **August 26, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1220](https://github.com/NSPG13/agent-bounties/issues/1220) for existin"
-    },
-    {
-      "provider": "github",
-      "id": "5401199813",
-      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260826",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1379",
-      "reward_amount": 6.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **August 27, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1213](https://github.com/NSPG13/agent-bounties/issues/1213) for existin"
     },
     {
       "provider": "github",
@@ -618,13 +594,13 @@
     },
     {
       "provider": "github",
-      "id": "5401199359",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 sprint",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1376",
-      "reward_amount": 3.0,
+      "id": "4804273523",
+      "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
+      "reward_amount": 5.0,
       "reward_token": "USDC",
       "deadline": null,
-      "sponsor": "NSPG13",
+      "sponsor": "Nexussyn",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -633,7 +609,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "> **Closed to new work.** The scoring window ended **August 27, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1210](https://github.com/NSPG13/agent-bounties/issues/1210) for existin"
+      "summary": "## 🎯 Objective Build an agent that automatically generates blog posts, Twitter/X threads, and social cards from bounty completion events. ## 📋 Scope Every time a bounty is completed (PR merged, `execution_status = done`): 1. Agent reads the"
     },
     {
       "provider": "github",
@@ -656,25 +632,6 @@
     },
     {
       "provider": "github",
-      "id": "5401200093",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 7",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1381",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **September 7, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1215](https://github.com/NSPG13/agent-bounties/issues/1215) for exist"
-    },
-    {
-      "provider": "github",
       "id": "5401200467",
       "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 24",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1383",
@@ -691,44 +648,6 @@
         "payment_terms_require_review"
       ],
       "summary": "> **Closed to new work.** The scoring window ended **August 25, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1217](https://github.com/NSPG13/agent-bounties/issues/1217) for existin"
-    },
-    {
-      "provider": "github",
-      "id": "5401199961",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 25",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1380",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **August 26, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1214](https://github.com/NSPG13/agent-bounties/issues/1214) for existin"
-    },
-    {
-      "provider": "github",
-      "id": "5401199497",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 26",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1377",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **August 27, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1211](https://github.com/NSPG13/agent-bounties/issues/1211) for existin"
     },
     {
       "provider": "github",
@@ -751,13 +670,13 @@
     },
     {
       "provider": "github",
-      "id": "5401199656",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — September 7 to September 21",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1378",
+      "id": "4804059201",
+      "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
+      "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
       "reward_amount": 3.0,
       "reward_token": "USDC",
       "deadline": null,
-      "sponsor": "NSPG13",
+      "sponsor": "Nexussyn",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -766,64 +685,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "> **Closed to new work.** The scoring window ended **September 21, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1212](https://github.com/NSPG13/agent-bounties/issues/1212) for exis"
-    },
-    {
-      "provider": "github",
-      "id": "5401199206",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 24",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1375",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **August 31, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1209](https://github.com/NSPG13/agent-bounties/issues/1209) for existin"
-    },
-    {
-      "provider": "github",
-      "id": "5401199059",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 31",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1374",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **September 7, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1208](https://github.com/NSPG13/agent-bounties/issues/1208) for exist"
-    },
-    {
-      "provider": "github",
-      "id": "5078042577",
-      "title": "[DIRECT] Add an OpenHands earning-loop integration",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/773",
-      "reward_amount": 2.01,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Let OpenHands recognize Agent Bounties as paid-work infrastructure and follow the earning loop with canonical claimability and payment checks. ## Funded payment contract **Funded and claimable on Base mainnet.** - Contract: `0x294cd"
+      "summary": "## Context The `runtime-opportunity-scout` currently queries Gitcoin Grants and GitHub labeled issues. [Algora](https://algora.io) is a major bounty platform with a public API that lists real paid open-source tasks. ## Task 1. Add Algora AP"
     },
     {
       "provider": "github",
@@ -846,13 +708,13 @@
     },
     {
       "provider": "github",
-      "id": "5401197486",
-      "title": "[Bounty] Seed a paid wallet UX child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1369",
-      "reward_amount": 0.9,
-      "reward_token": "USDC",
+      "id": "3077764317",
+      "title": "Add Hardhat test suite for ListingRegistry.sol",
+      "url": "https://github.com/Nobayprotocol/Nobay-Protocol/issues/3",
+      "reward_amount": null,
+      "reward_token": null,
       "deadline": null,
-      "sponsor": "NSPG13",
+      "sponsor": "Nobayprotocol",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -861,17 +723,17 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "> **Archived duplicate.** Follow [the current bounty thread #864](https://github.com/NSPG13/agent-bounties/issues/864) and its linked canonical state. The text below is a saved historical snapshot, not a current invitation to claim or spend"
+      "summary": "Build unit tests to verify: - Signature validity - Rejection of invalid signatures - Event emission - Seller mapping and metadata accuracy Optional: - Use Foundry in parallel for comparison Type: DevOps / QA Labels: testing, Solidity, help "
     },
     {
       "provider": "github",
-      "id": "5290929680",
-      "title": "[DRAFT DIRECT] Make verifier settlement deadline-aware and provider-resilient",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1262",
-      "reward_amount": 14.5,
-      "reward_token": "USDC",
+      "id": "4914574913",
+      "title": "[Bounty] [External prize collaboration | funding needed] Build with Gemini XPRIZE — launc",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/526",
+      "reward_amount": 2000000.0,
+      "reward_token": "USD",
       "deadline": null,
-      "sponsor": "NSPG13",
+      "sponsor": "zhangjiayang6835-cyber",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -879,9 +741,109 @@
       "risk_flags": [
         "escrow_unverified",
         "payment_terms_require_review",
-        "listing_quarantined"
+        "mirror_listing"
       ],
-      "summary": "> **UNFUNDED PRECOMMIT — do not claim, sign, spend, or start implementation yet.** This becomes paid work only after the immutable benchmark reaches protected `main`, a live verifier canary passes, and canonical Base creation/funding/claima"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/382 ### 漏洞描述 / Description [External prize collaboration | funding needed] Build with Gemini XPRIZE — launch an AI-native business ## Agent-fir"
+    },
+    {
+      "provider": "github",
+      "id": "5408446992",
+      "title": "[Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationE",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1333",
+      "reward_amount": 500.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/4 ### 漏洞描述 / Description [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70 #"
+    },
+    {
+      "provider": "github",
+      "id": "5387619198",
+      "title": "[Bounty] [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1214",
+      "reward_amount": 350.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/claude-honeypot/issues/4 ### 漏洞描述 / Description [Bounty: $350] Migrate Ethereum Smart Contract from IPv4 to IPv6 ### Problem Our ERC-20 token contract in `cont"
+    },
+    {
+      "provider": "github",
+      "id": "5096964121",
+      "title": "[Bounty] [FEAT] Add wallet integration support for Freighter and Stellar Kit",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/807",
+      "reward_amount": 150.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/chukwuebukachineche/soroban-lite-sdk/issues/4 ### 漏洞描述 / Description [FEAT] Add wallet integration support for Freighter and Stellar Kit ## Overview `SorobanClient` handles"
+    },
+    {
+      "provider": "github",
+      "id": "5556776776",
+      "title": "[Bounty] [Bounty] Flower-shaped rainwater collector for a tinaco",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1633",
+      "reward_amount": 15.068098,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1505 ### 漏洞描述 / Description [Bounty] Flower-shaped rainwater collector for a tinaco ## Canonical bounty discovery Create a parametric CAD conce"
+    },
+    {
+      "provider": "github",
+      "id": "5204694509",
+      "title": "[Bounty] [3 USDC][Open Competition V2] Map the shortest discovery path for eight AI-agent",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/834",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1059 ### 漏洞描述 / Description [3 USDC][Open Competition V2] Map the shortest discovery path for eight AI-agent channels ## Funded Open Competitio"
     },
     {
       "provider": "github",

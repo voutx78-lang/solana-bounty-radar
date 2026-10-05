@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 51,
+  "opportunity_count": 50,
   "opportunities": [
     {
       "provider": "superteam",
@@ -36,24 +36,6 @@
         "platform_account_required"
       ],
       "summary": "Join this Gibwork Developer Hackathon bounty to create a new non-web-app use case for Gibwork using the SDK, CLI, or MCP . This bounty is focused on practical developer workflows, automations, integrations, or tooling that demonstrate a com"
-    },
-    {
-      "provider": "gibwork",
-      "id": "83987785-804e-44dc-8bee-c22a76e504bf",
-      "title": "JOIN A WAIT LIST",
-      "url": "https://app.gib.work/tasks/83987785-804e-44dc-8bee-c22a76e504bf",
-      "reward_amount": 5.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-18T02:13:10.233Z",
-      "sponsor": "alfredokafor93",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required"
-      ],
-      "summary": "Join the Hazel wait-list through the link here ⬇️⬇️⬇️ https://hazels.io/studio/waitlist?ref=NDHKWZF5 Note 1- Must complete the 2 onboarding task to count. 2- Submit Screenshot proof of completed onboarding. 3- if you already joined earlier "
     },
     {
       "provider": "gibwork",
@@ -111,7 +93,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,775 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,780 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -174,26 +156,6 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
-      "title": "Invite a UGC Creator to Gibwork and Get a Reply — Round 2",
-      "url": "https://app.gib.work/tasks/7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
-      "reward_amount": 30.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-15T03:59:00.000Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
-    },
-    {
       "provider": "algora",
       "id": "2782641291",
       "title": "Use pglite so that postgres isn't required when generating types",
@@ -212,6 +174,26 @@
         "bounty_status_requires_review"
       ],
       "summary": "Official Algora announcement; repository has 42 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "3642da5f-4ba7-4a7e-9b6a-161ebbd2a102",
+      "title": "Follow, Quote Post & Join the $RKS Telegram",
+      "url": "https://app.gib.work/tasks/3642da5f-4ba7-4a7e-9b6a-161ebbd2a102",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-19T02:27:10.092Z",
+      "sponsor": "reekes",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Help spread the word about REKEES ($RKS), Seeker spelled backwards, on Solana. Tasks (complete all 3): 1. Follow @Rekees_RKS on X https://x.com/Rekees_RKS 2. Quote post this post with the CA as your caption https://x.com/Rekees_RKS/status/2"
     },
     {
       "provider": "algora",
@@ -271,7 +253,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,156 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,173 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -337,12 +319,12 @@
     },
     {
       "provider": "gibwork",
-      "id": "3534fb77-41e8-410c-94d3-2ab210d5799c",
-      "title": "Where Are You Staking From? Pick ONE angle",
-      "url": "https://app.gib.work/tasks/3534fb77-41e8-410c-94d3-2ab210d5799c",
-      "reward_amount": 11.0,
+      "id": "ea35598a-0cee-4c9f-b55a-6302ab1c63ad",
+      "title": "How Often Do You Add to Your BASIS Stake? Pick ONE angle",
+      "url": "https://app.gib.work/tasks/ea35598a-0cee-4c9f-b55a-6302ab1c63ad",
+      "reward_amount": 45.0,
       "reward_token": "USDC",
-      "deadline": "2026-10-17T10:54:05.391Z",
+      "deadline": "2026-10-19T05:26:08.064Z",
       "sponsor": "basis",
       "category": "tasks",
       "status": "CREATED",
@@ -354,7 +336,28 @@
         "platform_account_required",
         "social_account_likely_required"
       ],
-      "summary": "We want to see how global BASIS really is. Tell the community where you're staking from and what it's like using the market-neutral yield platform from Base58 Labs where you live. Pick ONE angle below and post your take on X: 1. Your countr"
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how you keep growing your stake. Pick ONE angle below and post your take on X: 1. How often do you add to your stake daily, weekl"
+    },
+    {
+      "provider": "gibwork",
+      "id": "7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
+      "title": "Invite a UGC Creator to Gibwork and Get a Reply — Round 2",
+      "url": "https://app.gib.work/tasks/7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
+      "reward_amount": 30.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-15T03:59:00.000Z",
+      "sponsor": "anthony",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_stale",
+        "platform_account_required",
+        "social_account_likely_required",
+        "verified_account_required"
+      ],
+      "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
     },
     {
       "provider": "algora",
@@ -418,27 +421,6 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "91dd2813-b2a0-4a05-88b8-818ceba19a21",
-      "title": "How Long Have You Been Staking on BASIS? Pick ONE angle",
-      "url": "https://app.gib.work/tasks/91dd2813-b2a0-4a05-88b8-818ceba19a21",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-13T06:29:40.453Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_overcrowded",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Every BASIS position has a timeline. We want to hear yours how long have you been staking on BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs, and what does that chapter look like from where you sit? Pick ONE angle be"
     },
     {
       "provider": "github",

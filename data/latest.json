@@ -57,25 +57,6 @@
       "summary": "This bounty invites contributors to create a clear, engaging X thread explaining the Gibwork mobile app on iOS and Android , including what the app does and the opportunities it offers users. The goal of this bounty is to produce a thread t"
     },
     {
-      "provider": "gibwork",
-      "id": "25ab1f78-6afd-4e59-aa89-10e9c19fe304",
-      "title": "Create an X thread and IronVaults vault",
-      "url": "https://app.gib.work/tasks/25ab1f78-6afd-4e59-aa89-10e9c19fe304",
-      "reward_amount": 100.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-14T14:34:43.452Z",
-      "sponsor": "bichistriver",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "IronVaults.xyz is running a bounty for participants to create a vault on the platform and publish an X thread about their experience. This bounty rewards the first 2 participants who complete both steps with 20 USDC each , awards 40 USDC fo"
-    },
-    {
       "provider": "algora",
       "id": "2959305187",
       "title": "[BOUNTY] WearOS Support [$2340]",
@@ -93,7 +74,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,780 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,788 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -156,6 +137,26 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "25ab1f78-6afd-4e59-aa89-10e9c19fe304",
+      "title": "Create an X thread and IronVaults vault",
+      "url": "https://app.gib.work/tasks/25ab1f78-6afd-4e59-aa89-10e9c19fe304",
+      "reward_amount": 100.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-14T14:34:43.452Z",
+      "sponsor": "bichistriver",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_stale",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "IronVaults.xyz is running a bounty for participants to create a vault on the platform and publish an X thread about their experience. This bounty rewards the first 2 participants who complete both steps with 20 USDC each , awards 40 USDC fo"
+    },
+    {
       "provider": "algora",
       "id": "2782641291",
       "title": "Use pglite so that postgres isn't required when generating types",
@@ -213,7 +214,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,317 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -233,7 +234,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,317 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -253,7 +254,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,173 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,186 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -273,7 +274,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,317 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -316,27 +317,6 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "ea35598a-0cee-4c9f-b55a-6302ab1c63ad",
-      "title": "How Often Do You Add to Your BASIS Stake? Pick ONE angle",
-      "url": "https://app.gib.work/tasks/ea35598a-0cee-4c9f-b55a-6302ab1c63ad",
-      "reward_amount": 45.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-19T05:26:08.064Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how you keep growing your stake. Pick ONE angle below and post your take on X: 1. How often do you add to your stake daily, weekl"
     },
     {
       "provider": "gibwork",
@@ -421,6 +401,27 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "ea35598a-0cee-4c9f-b55a-6302ab1c63ad",
+      "title": "How Often Do You Add to Your BASIS Stake? Pick ONE angle",
+      "url": "https://app.gib.work/tasks/ea35598a-0cee-4c9f-b55a-6302ab1c63ad",
+      "reward_amount": 6.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-19T05:26:08.064Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how you keep growing your stake. Pick ONE angle below and post your take on X: 1. How often do you add to your stake daily, weekl"
     },
     {
       "provider": "github",
@@ -557,25 +558,6 @@
     },
     {
       "provider": "github",
-      "id": "5401200294",
-      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — fortnight 20260907",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1382",
-      "reward_amount": 6.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **September 21, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1216](https://github.com/NSPG13/agent-bounties/issues/1216) for exis"
-    },
-    {
-      "provider": "github",
       "id": "4804273523",
       "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
       "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
@@ -687,6 +669,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Create and fully fund a concrete **1 USDC agent discovery child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
+    },
+    {
+      "provider": "github",
+      "id": "4006355155",
+      "title": "🏆 BOUNTY (1 SOL): Film \"I Deleted My Nginx Config — Watch What Happens\" Demo",
+      "url": "https://github.com/bolivian-peru/os-moda/issues/2",
+      "reward_amount": 1.0,
+      "reward_token": "SOL",
+      "deadline": null,
+      "sponsor": "bolivian-peru",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🏆 Bounty: 1 SOL **Film a real demo of osModa self-healing after destructive deletion. Upload to YouTube. Earn 1 SOL.** --- ## The Demo **Title:** \"I Mass Deleted My Server's Nginx Config. Watch What Happens.\" **Format:** 45-90 second scr"
     },
     {
       "provider": "github",

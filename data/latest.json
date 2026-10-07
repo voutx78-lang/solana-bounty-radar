@@ -21,6 +21,24 @@
     },
     {
       "provider": "gibwork",
+      "id": "9adb1772-5fdc-4aba-9036-86124b03cd6e",
+      "title": "OGs VS NEWBIES",
+      "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e",
+      "reward_amount": 5.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-20T22:59:30.771Z",
+      "sponsor": "dbabefloxy",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required"
+      ],
+      "summary": "BOUNTY: How Long Have You Been Mining $VERY? OGs or Newbies - everyone can win! WAY 1: FOR OGs Show proof you’re an OG: 1. Profile page with username 2. Login streak / activity log 3. When did you join? WAY 2: FOR NEWBIES 1. Download: https"
+    },
+    {
+      "provider": "gibwork",
       "id": "1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
       "title": "Gibwork Developer Hackathon Bounty",
       "url": "https://app.gib.work/tasks/1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
@@ -33,6 +51,7 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
+        "health_stale",
         "platform_account_required"
       ],
       "summary": "Join this Gibwork Developer Hackathon bounty to create a new non-web-app use case for Gibwork using the SDK, CLI, or MCP . This bounty is focused on practical developer workflows, automations, integrations, or tooling that demonstrate a com"
@@ -74,7 +93,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,788 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,801 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -190,7 +209,7 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "health_overcrowded",
+        "health_stale",
         "platform_account_required",
         "social_account_likely_required"
       ],
@@ -254,7 +273,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,186 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,194 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -340,6 +359,27 @@
       "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
     },
     {
+      "provider": "gibwork",
+      "id": "31701d1a-8c3f-4955-a882-6b40f0b85198",
+      "title": "What Surprised You About BASIS? Pick ONE angle",
+      "url": "https://app.gib.work/tasks/31701d1a-8c3f-4955-a882-6b40f0b85198",
+      "reward_amount": 11.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-21T04:29:07.285Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS (basis.pro) the market-neutral yield platform from Base58 Labs — about the thing you didn't expect. Pick ONE angle below and post your take on X: 1. How fast your first deposit showed up 2. How quickl"
+    },
+    {
       "provider": "algora",
       "id": "2769360144",
       "title": "Dolor sit amet",
@@ -403,32 +443,11 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "ea35598a-0cee-4c9f-b55a-6302ab1c63ad",
-      "title": "How Often Do You Add to Your BASIS Stake? Pick ONE angle",
-      "url": "https://app.gib.work/tasks/ea35598a-0cee-4c9f-b55a-6302ab1c63ad",
-      "reward_amount": 6.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-19T05:26:08.064Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how you keep growing your stake. Pick ONE angle below and post your take on X: 1. How often do you add to your stake daily, weekl"
-    },
-    {
       "provider": "github",
-      "id": "5198422735",
-      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
-      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1",
-      "reward_amount": 15000.0,
+      "id": "5198424414",
+      "title": "Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC]",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/2",
+      "reward_amount": 25000.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "mister3ai-cmyk",
@@ -440,45 +459,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Overview **Prize: $15,000 USDC** · Status: 🟢 Open Build a fully reproducible, containerized bioinformatics pipeline linking SIRT6 histone deacetylation marks to biological aging pace. --- ## Objective 1. Process raw FASTQ ChIP-seq reads "
-    },
-    {
-      "provider": "github",
-      "id": "5407238450",
-      "title": "[Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept AABB Dropout",
-      "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/2",
-      "reward_amount": 850.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Senthemodder",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### Bounty: USDC (Escrow Locked) ### Description In high-speed kinematic entity projection (> 1.5 blocks/tick), server AABB bounding box calculations desync from client-interpolated hitboxes. ### Requirements - Implement swept AABB continuo"
-    },
-    {
-      "provider": "github",
-      "id": "5407238541",
-      "title": "[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json",
-      "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/3",
-      "reward_amount": 650.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Senthemodder",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### Bounty: USDC (Escrow Locked) ### Description In ui/hud_screen.json, custom inventory text slicing overflows on item names > 16 characters on mobile viewport profiles. ` [JSON UI Engine][Warning] Binding resolution failed for #inventory_"
+      "summary": "## Overview **Prize: $25,000 USDC** · Status: 🟢 Open Develop a physics simulation reproducing Karabut glow-discharge LENR phenomena and validating the Fractional Charge Quantum Coherence (FCQC) hypothesis with first-principles calculations."
     },
     {
       "provider": "github",
@@ -539,13 +520,13 @@
     },
     {
       "provider": "github",
-      "id": "5401200924",
-      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1386",
-      "reward_amount": 6.0,
-      "reward_token": "USDC",
+      "id": "5739869296",
+      "title": "💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
+      "url": "https://github.com/quantumchain-core/velodag-core/issues/2",
+      "reward_amount": 10.0,
+      "reward_token": "USD",
       "deadline": null,
-      "sponsor": "NSPG13",
+      "sponsor": "quantumchain-core",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -554,7 +535,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "> **Closed to new work.** The scoring window ended **August 26, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1220](https://github.com/NSPG13/agent-bounties/issues/1220) for existin"
+      "summary": "### Looking for small bug bounties & sponsors Building VeloDAG Core in Rust (post-quantum BlockDAG). If you want to fund a bug fix or donate $10-$100 in stablecoins (USDT / USDC): - Comment \"interested in funding\" on this issue - I will sha"
     },
     {
       "provider": "github",
@@ -574,63 +555,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## 🎯 Objective Build an agent that automatically generates blog posts, Twitter/X threads, and social cards from bounty completion events. ## 📋 Scope Every time a bounty is completed (PR merged, `execution_status = done`): 1. Agent reads the"
-    },
-    {
-      "provider": "github",
-      "id": "5401200622",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 21",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1384",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **September 21, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1218](https://github.com/NSPG13/agent-bounties/issues/1218) for exis"
-    },
-    {
-      "provider": "github",
-      "id": "5401200467",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 24",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1383",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **August 25, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1217](https://github.com/NSPG13/agent-bounties/issues/1217) for existin"
-    },
-    {
-      "provider": "github",
-      "id": "5401200773",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 27",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1385",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **August 28, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1219](https://github.com/NSPG13/agent-bounties/issues/1219) for existin"
     },
     {
       "provider": "github",
@@ -727,6 +651,86 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/382 ### 漏洞描述 / Description [External prize collaboration | funding needed] Build with Gemini XPRIZE — launch an AI-native business ## Agent-fir"
+    },
+    {
+      "provider": "github",
+      "id": "5404801661",
+      "title": "[Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anchor CPI Di",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1301",
+      "reward_amount": 1500.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/solana-anchor-runtime/issues/1 ### 漏洞描述 / Description [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anchor CPI Dispatcher ### Severity: Cr"
+    },
+    {
+      "provider": "github",
+      "id": "5404801925",
+      "title": "[Bounty] [Bounty: $1,400] Critical: Reentrancy and Share Inflation in ERC-4626 Deposit Me",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1304",
+      "reward_amount": 1400.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/evm-vault-audit/issues/1 ### 漏洞描述 / Description [Bounty: $1,400] Critical: Reentrancy and Share Inflation in ERC-4626 Deposit Mechanism ### Severity: Critical "
+    },
+    {
+      "provider": "github",
+      "id": "5408447211",
+      "title": "[Bounty] [Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Spac",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1336",
+      "reward_amount": 1250.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/1 ### 漏洞描述 / Description [Bounty: $1,250] Optimize Subgraph Isomorphism to Strict O(N) Deterministic Space-Time Complexity ### Sev"
+    },
+    {
+      "provider": "github",
+      "id": "5408447058",
+      "title": "[Bounty] [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1334",
+      "reward_amount": 850.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/2 ### 漏洞描述 / Description [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept AABB Dropout ### Bounty: U"
     },
     {
       "provider": "github",

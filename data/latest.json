@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 50,
+  "opportunity_count": 51,
   "opportunities": [
     {
       "provider": "superteam",
@@ -93,7 +93,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,801 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,810 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -273,7 +273,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,194 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,214 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -359,27 +359,6 @@
       "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
     },
     {
-      "provider": "gibwork",
-      "id": "31701d1a-8c3f-4955-a882-6b40f0b85198",
-      "title": "What Surprised You About BASIS? Pick ONE angle",
-      "url": "https://app.gib.work/tasks/31701d1a-8c3f-4955-a882-6b40f0b85198",
-      "reward_amount": 11.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-21T04:29:07.285Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS (basis.pro) the market-neutral yield platform from Base58 Labs — about the thing you didn't expect. Pick ONE angle below and post your take on X: 1. How fast your first deposit showed up 2. How quickl"
-    },
-    {
       "provider": "algora",
       "id": "2769360144",
       "title": "Dolor sit amet",
@@ -422,6 +401,27 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "54320f98-f11e-48f5-967f-52849074578a",
+      "title": "What Would You Tell a Friend About BASIS? — Pick ONE angle",
+      "url": "https://app.gib.work/tasks/54320f98-f11e-48f5-967f-52849074578a",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-22T09:41:24.407Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Imagine a friend asks you about BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs. What would you actually say? Pick ONE angle below and post your take on X. Pick ONE angle: 1. Your one-line explanation of what BASIS i"
+    },
+    {
       "provider": "algora",
       "id": "2833280061",
       "title": "who can help me alogra",
@@ -460,6 +460,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## Overview **Prize: $25,000 USDC** · Status: 🟢 Open Develop a physics simulation reproducing Karabut glow-discharge LENR phenomena and validating the Fractional Charge Quantum Coherence (FCQC) hypothesis with first-principles calculations."
+    },
+    {
+      "provider": "github",
+      "id": "5198422735",
+      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
+      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1",
+      "reward_amount": 15000.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "mister3ai-cmyk",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Overview **Prize: $15,000 USDC** · Status: 🟢 Open Build a fully reproducible, containerized bioinformatics pipeline linking SIRT6 histone deacetylation marks to biological aging pace. --- ## Objective 1. Process raw FASTQ ChIP-seq reads "
     },
     {
       "provider": "github",
@@ -517,25 +536,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
-    },
-    {
-      "provider": "github",
-      "id": "5739869296",
-      "title": "💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
-      "url": "https://github.com/quantumchain-core/velodag-core/issues/2",
-      "reward_amount": 10.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "quantumchain-core",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### Looking for small bug bounties & sponsors Building VeloDAG Core in Rust (post-quantum BlockDAG). If you want to fund a bug fix or donate $10-$100 in stablecoins (USDT / USDC): - Comment \"interested in funding\" on this issue - I will sha"
     },
     {
       "provider": "github",
@@ -811,6 +811,26 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1505 ### 漏洞描述 / Description [Bounty] Flower-shaped rainwater collector for a tinaco ## Canonical bounty discovery Create a parametric CAD conce"
+    },
+    {
+      "provider": "github",
+      "id": "5742162145",
+      "title": "[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828",
+      "reward_amount": 10.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/quantumchain-core/velodag-core/issues/2 ### 漏洞描述 / Description 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev ### Looking for small bug bounties & sponsors Bui"
     },
     {
       "provider": "github",

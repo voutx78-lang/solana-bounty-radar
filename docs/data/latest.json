@@ -21,24 +21,6 @@
     },
     {
       "provider": "gibwork",
-      "id": "9adb1772-5fdc-4aba-9036-86124b03cd6e",
-      "title": "OGs VS NEWBIES",
-      "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e",
-      "reward_amount": 5.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-20T22:59:30.771Z",
-      "sponsor": "dbabefloxy",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required"
-      ],
-      "summary": "BOUNTY: How Long Have You Been Mining $VERY? OGs or Newbies - everyone can win! WAY 1: FOR OGs Show proof you’re an OG: 1. Profile page with username 2. Login streak / activity log 3. When did you join? WAY 2: FOR NEWBIES 1. Download: https"
-    },
-    {
-      "provider": "gibwork",
       "id": "1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
       "title": "Gibwork Developer Hackathon Bounty",
       "url": "https://app.gib.work/tasks/1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
@@ -76,6 +58,25 @@
       "summary": "This bounty invites contributors to create a clear, engaging X thread explaining the Gibwork mobile app on iOS and Android , including what the app does and the opportunities it offers users. The goal of this bounty is to produce a thread t"
     },
     {
+      "provider": "gibwork",
+      "id": "9adb1772-5fdc-4aba-9036-86124b03cd6e",
+      "title": "OGs VS NEWBIES",
+      "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e",
+      "reward_amount": 5.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-20T22:59:30.771Z",
+      "sponsor": "dbabefloxy",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_stale",
+        "platform_account_required"
+      ],
+      "summary": "BOUNTY: How Long Have You Been Mining $VERY? OGs or Newbies - everyone can win! WAY 1: FOR OGs Show proof you’re an OG: 1. Profile page with username 2. Login streak / activity log 3. When did you join? WAY 2: FOR NEWBIES 1. Download: https"
+    },
+    {
       "provider": "algora",
       "id": "2959305187",
       "title": "[BOUNTY] WearOS Support [$2340]",
@@ -93,7 +94,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,810 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,820 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -233,7 +234,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,321 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -253,7 +254,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,321 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -273,7 +274,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,214 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,232 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -293,7 +294,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,321 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -460,25 +461,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## Overview **Prize: $25,000 USDC** · Status: 🟢 Open Develop a physics simulation reproducing Karabut glow-discharge LENR phenomena and validating the Fractional Charge Quantum Coherence (FCQC) hypothesis with first-principles calculations."
-    },
-    {
-      "provider": "github",
-      "id": "5198422735",
-      "title": "Bounty #1 — ChIP-seq & Methylation PACE Pipeline [$15,000 USDC]",
-      "url": "https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/1",
-      "reward_amount": 15000.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "mister3ai-cmyk",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Overview **Prize: $15,000 USDC** · Status: 🟢 Open Build a fully reproducible, containerized bioinformatics pipeline linking SIRT6 histone deacetylation marks to biological aging pace. --- ## Objective 1. Process raw FASTQ ChIP-seq reads "
     },
     {
       "provider": "github",
@@ -714,6 +696,66 @@
     },
     {
       "provider": "github",
+      "id": "5404801586",
+      "title": "[Bounty] [Bounty: $1,200] High: Integer Overflow in Staking Reward Accrual Engine",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1300",
+      "reward_amount": 1200.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/solana-anchor-runtime/issues/2 ### 漏洞描述 / Description [Bounty: $1,200] High: Integer Overflow in Staking Reward Accrual Engine ### Severity: High ### Reward: ,"
+    },
+    {
+      "provider": "github",
+      "id": "5404801820",
+      "title": "[Bounty] [Bounty: $1,100] High: Slippage Rounding Error in Flash Loan Fee Calculation",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1303",
+      "reward_amount": 1100.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/evm-vault-audit/issues/2 ### 漏洞描述 / Description [Bounty: $1,100] High: Slippage Rounding Error in Flash Loan Fee Calculation ### Severity: High ### Reward: ,10"
+    },
+    {
+      "provider": "github",
+      "id": "5404801745",
+      "title": "[Bounty] [Bounty: $950] Medium: Unchecked Return Value in ERC-20 Transfer Callback",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1302",
+      "reward_amount": 950.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/evm-vault-audit/issues/3 ### 漏洞描述 / Description [Bounty: $950] Medium: Unchecked Return Value in ERC-20 Transfer Callback ### Severity: Medium ### Reward: USDC"
+    },
+    {
+      "provider": "github",
       "id": "5408447058",
       "title": "[Bounty] [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept A",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1334",
@@ -854,26 +896,6 @@
     },
     {
       "provider": "github",
-      "id": "5115629798",
-      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/861",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "## Canonical bounty discovery Create and fully fund a concrete 1 USDC MCP bounty that a different registered participant completes and receives canonical settlement for, then receive the 2 USDC parent reward. - **Current work state:** `unav"
-    },
-    {
-      "provider": "github",
       "id": "4997223260",
       "title": "[META] Earn 1 USDC margin with a API reliability bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/647",
@@ -934,46 +956,6 @@
     },
     {
       "provider": "github",
-      "id": "4997223406",
-      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/648",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC MCP interoperability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
-    },
-    {
-      "provider": "github",
-      "id": "4907443890",
-      "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/336",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC wallet UX child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** whe"
-    },
-    {
-      "provider": "github",
       "id": "4907443815",
       "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/334",
@@ -1011,6 +993,26 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/NSPG13/agent-bounties/issues/1531 ### 漏洞描述 / Description [Bounty] Fix one deterministic agent-card discovery regression ## Canonical bounty discovery Make the pinned failin"
+    },
+    {
+      "provider": "github",
+      "id": "5586145252",
+      "title": "[Bounty] Record the real network fee in the ledger, not only the capped estimate",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1660",
+      "reward_amount": 0.002031,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Grainlify/grainlify-bounty-agent/issues/1 ### 漏洞描述 / Description Record the real network fee in the ledger, not only the capped estimate **The problem** When the agent pays"
     }
   ],
   "provider_errors": []

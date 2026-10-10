@@ -94,7 +94,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,820 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,827 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -177,6 +177,26 @@
       "summary": "IronVaults.xyz is running a bounty for participants to create a vault on the platform and publish an X thread about their experience. This bounty rewards the first 2 participants who complete both steps with 20 USDC each , awards 40 USDC fo"
     },
     {
+      "provider": "gibwork",
+      "id": "47e51ff0-c0a6-4951-a524-5cfa8b5e3ac6",
+      "title": "When Do You Check Your Rewards on BASIS? Pick ONE angle",
+      "url": "https://app.gib.work/tasks/47e51ff0-c0a6-4951-a524-5cfa8b5e3ac6",
+      "reward_amount": 100.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-24T10:44:40.078Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We're curious about the everyday habits of people staking on BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs. Pick ONE angle below and post your take on X: 1. The first thing you look at when you open BASIS 2. Whether"
+    },
+    {
       "provider": "algora",
       "id": "2782641291",
       "title": "Use pglite so that postgres isn't required when generating types",
@@ -234,7 +254,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,321 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -254,7 +274,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,321 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -274,7 +294,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,232 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,244 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -294,7 +314,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,321 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -402,27 +422,6 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "54320f98-f11e-48f5-967f-52849074578a",
-      "title": "What Would You Tell a Friend About BASIS? — Pick ONE angle",
-      "url": "https://app.gib.work/tasks/54320f98-f11e-48f5-967f-52849074578a",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-22T09:41:24.407Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_overcrowded",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Imagine a friend asks you about BASIS ( basis.pro ), the market-neutral yield platform from Base58 Labs. What would you actually say? Pick ONE angle below and post your take on X. Pick ONE angle: 1. Your one-line explanation of what BASIS i"
-    },
-    {
       "provider": "algora",
       "id": "2833280061",
       "title": "who can help me alogra",
@@ -464,6 +463,25 @@
     },
     {
       "provider": "github",
+      "id": "5407238541",
+      "title": "[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json",
+      "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/3",
+      "reward_amount": 650.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Senthemodder",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### Bounty: USDC (Escrow Locked) ### Description In ui/hud_screen.json, custom inventory text slicing overflows on item names > 16 characters on mobile viewport profiles. ` [JSON UI Engine][Warning] Binding resolution failed for #inventory_"
+    },
+    {
+      "provider": "github",
       "id": "5407238639",
       "title": "[Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70",
       "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/4",
@@ -480,6 +498,25 @@
         "payment_terms_require_review"
       ],
       "summary": "### Bounty: USDC (Escrow Locked) ### Description Registering custom slash commands in scripts/commands/inspect.ts crashes BDS at startup: ` TypeError: CustomCommandRegistry.registerCommand is not a function at registerInspectCommand (script"
+    },
+    {
+      "provider": "github",
+      "id": "5792618033",
+      "title": "[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1632",
+      "reward_amount": 20.3,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Canonical bounty discovery You already maintain or regularly contribute to an established open-source project. Get that project to fund a real Agent Bounties bounty on one of its existing issues, so independent demand enters the marketpl"
     },
     {
       "provider": "github",
@@ -896,26 +933,6 @@
     },
     {
       "provider": "github",
-      "id": "4997223260",
-      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/647",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC API reliability child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit"
-    },
-    {
-      "provider": "github",
       "id": "4997223957",
       "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/651",
@@ -933,26 +950,6 @@
         "listing_quarantined"
       ],
       "summary": "﻿## Goal Create and fully fund a concrete **1 USDC bounty distribution child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross p"
-    },
-    {
-      "provider": "github",
-      "id": "4907443765",
-      "title": "[META] Earn 1 USDC margin with a CLI bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/333",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "## Goal Create and fully fund a concrete **1 USDC CLI child bounty** that a different registered participant completes and receives canonical settlement for. Completing the parent pays **2 USDC**, producing **1 USDC gross profit** when the "
     },
     {
       "provider": "github",

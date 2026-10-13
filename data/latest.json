@@ -94,7 +94,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,850 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,858 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -194,7 +194,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,320 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -214,7 +214,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,320 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -234,7 +234,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,281 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,293 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -254,7 +254,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,319 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,320 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -297,27 +297,6 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "719f5bac-1fdb-4cec-b1ea-53cef65c76f4",
-      "title": "What Would You Tell a Friend About BASIS? Pick ONE angle",
-      "url": "https://app.gib.work/tasks/719f5bac-1fdb-4cec-b1ea-53cef65c76f4",
-      "reward_amount": 25.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-26T04:44:32.737Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_overcrowded",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about what you'd actually say to a friend. Pick ONE angle below and post your take on X: 1. Your one-line summary for someone who's nev"
     },
     {
       "provider": "algora",
@@ -404,6 +383,27 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "23cd310e-d52e-4d69-a827-b1d1616848a6",
+      "title": "Share Your Best BASIS Moment Pick ONE angle",
+      "url": "https://app.gib.work/tasks/23cd310e-d52e-4d69-a827-b1d1616848a6",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-27T08:17:55.369Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the moment that made it click for you. Pick ONE angle below and post your take on X: 1. The first time you saw rewards accumulate"
+    },
+    {
       "provider": "github",
       "id": "787116159",
       "title": "[sifnode] $1000 bounty for implementing Azure AKS support for sifnode",
@@ -421,25 +421,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## Description Create scaffolding and deployment scripts for deploying sifnode to Azure via the Azure Kubernetes Service(AKS) ## Context AKS is a fully managed kubernetes service by Azure. The sifnode repo currently supports deployment to E"
-    },
-    {
-      "provider": "github",
-      "id": "788655995",
-      "title": "[sifnode] $1000 bounty for implementing Google Cloud support for sifnode #503",
-      "url": "https://github.com/Sifchain/sifnode/issues/524",
-      "reward_amount": 1000.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Sifchain",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Description Create scaffolding and deployment scripts for deploying sifnode to Google cloud via the [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) ## Context GKE is a fully managed kubernetes service by Goog"
     },
     {
       "provider": "github",
@@ -917,6 +898,26 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/2 ### 漏洞描述 / Description [Bounty: $850] Bedrock Physics: 1-Tick Kinematic Ghost Teleportation and Swept AABB Dropout ### Bounty: U"
+    },
+    {
+      "provider": "github",
+      "id": "5408446992",
+      "title": "[Bounty] [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationE",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1333",
+      "reward_amount": 500.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/4 ### 漏洞描述 / Description [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70 #"
     },
     {
       "provider": "github",

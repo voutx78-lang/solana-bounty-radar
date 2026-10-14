@@ -94,7 +94,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,858 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,866 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -137,26 +137,6 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
-      "title": "Invite a UGC Creator to Gibwork and Get a Reply — Round 2",
-      "url": "https://app.gib.work/tasks/7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
-      "reward_amount": 30.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-15T03:59:00.000Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
-    },
-    {
       "provider": "algora",
       "id": "2782641291",
       "title": "Use pglite so that postgres isn't required when generating types",
@@ -175,6 +155,26 @@
         "bounty_status_requires_review"
       ],
       "summary": "Official Algora announcement; repository has 42 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "c8434d65-bcbf-4896-81b0-1ad5dd3f8def",
+      "title": "BASIS on Hong Kong Solana ETFs Retweet + Comment",
+      "url": "https://app.gib.work/tasks/c8434d65-bcbf-4896-81b0-1ad5dd3f8def",
+      "reward_amount": 8.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-19T00:00:00.000Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "BASIS ( basis.pro ) just published an insights piece on Hong Kong's Solana ETFs: \"Hong Kong's Solana ETF Fee War Still Misses The Yield Question.\" Help get the research in front of more people. Requirements: 1. Retweet this post: https://x."
     },
     {
       "provider": "algora",
@@ -217,6 +217,26 @@
       "summary": "Official Algora announcement; repository has 2,320 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "9b7c9561-97bc-4ff3-b65d-341bdfab4c50",
+      "title": "BASIS DRR Update Retweet + Comment",
+      "url": "https://app.gib.work/tasks/9b7c9561-97bc-4ff3-b65d-341bdfab4c50",
+      "reward_amount": 5.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-17T00:00:00.000Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "BASIS ( basis.pro ) just posted its latest DRR update rates stepped up +0.02 across all four stAssets. Help spread the update. Requirements: 1. Retweet this post: https://x.com/basis__pro/status/2110316632866185645 2. Like the post 3. Follo"
+    },
+    {
       "provider": "algora",
       "id": "3735469261",
       "title": "Donation/funding for german language",
@@ -234,7 +254,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,293 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,308 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -258,45 +278,24 @@
     },
     {
       "provider": "gibwork",
-      "id": "d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7",
-      "title": "Invite Users, Earn Points, and Climb the Leaderboard",
-      "url": "https://app.gib.work/tasks/d8c7530d-b3b1-4c5b-80ef-a71a0e804ce7",
-      "reward_amount": 125.0,
+      "id": "7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
+      "title": "Invite a UGC Creator to Gibwork and Get a Reply — Round 2",
+      "url": "https://app.gib.work/tasks/7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
+      "reward_amount": 30.0,
       "reward_token": "USDC",
-      "deadline": "2026-10-14T20:00:00.000Z",
+      "deadline": "2026-10-15T03:59:00.000Z",
       "sponsor": "anthony",
       "category": "tasks",
       "status": "CREATED",
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "crowded_50_plus_pending",
         "health_stale",
         "platform_account_required",
-        "social_account_likely_required"
+        "social_account_likely_required",
+        "verified_account_required"
       ],
-      "summary": "Invite people to Gibwork and earn points when they accept your referral and participate in a bounty, connect a qualifying X account, and create funded bounties. Compete for a 125.00 USDC reward pool and follow your progress on our shared le"
-    },
-    {
-      "provider": "algora",
-      "id": "3776235284",
-      "title": "Add SHA-3 (Keccak) Hashing Support",
-      "url": "https://github.com/amithmandassociates-oss/hash-report-tool/issues/2",
-      "reward_amount": 50.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "amithmandassociates-oss",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "github_pr_plus_platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "payment_profile_required",
-        "bounty_status_requires_review",
-        "low_signal_repository"
-      ],
-      "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
     },
     {
       "provider": "algora",
@@ -384,12 +383,12 @@
     },
     {
       "provider": "gibwork",
-      "id": "23cd310e-d52e-4d69-a827-b1d1616848a6",
-      "title": "Share Your Best BASIS Moment Pick ONE angle",
-      "url": "https://app.gib.work/tasks/23cd310e-d52e-4d69-a827-b1d1616848a6",
-      "reward_amount": 1.0,
+      "id": "f2dc2d56-f90c-4fda-8655-dea1f0a77290",
+      "title": "What's One Thing You Do on BASIS Every Week? Pick ONE angle",
+      "url": "https://app.gib.work/tasks/f2dc2d56-f90c-4fda-8655-dea1f0a77290",
+      "reward_amount": 5.0,
       "reward_token": "USDC",
-      "deadline": "2026-10-27T08:17:55.369Z",
+      "deadline": "2026-10-28T06:26:26.712Z",
       "sponsor": "basis",
       "category": "tasks",
       "status": "CREATED",
@@ -397,11 +396,11 @@
       "autonomous": false,
       "risk_flags": [
         "crowded_50_plus_pending",
-        "health_overcrowded",
+        "health_competitive",
         "platform_account_required",
         "social_account_likely_required"
       ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the moment that made it click for you. Pick ONE angle below and post your take on X: 1. The first time you saw rewards accumulate"
+      "summary": "BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs is built on real habits. We want to hear the one small thing you find yourself doing on BASIS week after week. Pick ONE angle below and post your take on X: 1. The Monda"
     },
     {
       "provider": "github",

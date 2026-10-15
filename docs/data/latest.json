@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 48,
+  "opportunity_count": 47,
   "opportunities": [
     {
       "provider": "superteam",
@@ -94,7 +94,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,866 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,876 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -194,7 +194,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,320 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,322 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -214,27 +214,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,320 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "9b7c9561-97bc-4ff3-b65d-341bdfab4c50",
-      "title": "BASIS DRR Update Retweet + Comment",
-      "url": "https://app.gib.work/tasks/9b7c9561-97bc-4ff3-b65d-341bdfab4c50",
-      "reward_amount": 5.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-17T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "BASIS ( basis.pro ) just posted its latest DRR update rates stepped up +0.02 across all four stAssets. Help spread the update. Requirements: 1. Retweet this post: https://x.com/basis__pro/status/2110316632866185645 2. Like the post 3. Follo"
+      "summary": "Official Algora announcement; repository has 2,322 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -254,7 +234,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,308 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,328 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -274,28 +254,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,320 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
-      "title": "Invite a UGC Creator to Gibwork and Get a Reply — Round 2",
-      "url": "https://app.gib.work/tasks/7bfb8aeb-560c-41ae-9dc8-70f65326b59f",
-      "reward_amount": 30.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-15T03:59:00.000Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_stale",
-        "platform_account_required",
-        "social_account_likely_required",
-        "verified_account_required"
-      ],
-      "summary": "Find a UGC creator who would be a strong fit for the Gibwork mobile app video bounty . Send them a personal DM inviting them to participate and get a response. Choose someone based on their actual videos and ability to create engaging, orig"
+      "summary": "Official Algora announcement; repository has 2,322 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -380,6 +339,27 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "d0e3ae96-5d54-4c00-9975-958adab1cc21",
+      "title": "BASIS on IBKR Staking Retweet + Comment",
+      "url": "https://app.gib.work/tasks/d0e3ae96-5d54-4c00-9975-958adab1cc21",
+      "reward_amount": 9.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-19T00:00:00.000Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Interactive Brokers just launched crypto staking. BASIS' take: Wall Street has stopped asking whether crypto yield is real it's packaging it. Retweet and share your read. Requirements: 1. Retweet this post: https://x.com/basis__pro/status/2"
     },
     {
       "provider": "gibwork",
@@ -499,6 +479,63 @@
     },
     {
       "provider": "github",
+      "id": "5873061556",
+      "title": "[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
+      "url": "https://github.com/Parabola-org/parabola/issues/10",
+      "reward_amount": 90.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Parabola-org",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "**Context** Arc USDC has 6 decimals, Stellar USDC has 7 (`src/constants.ts`, `src/utils/amount.ts:14-16`). `transfer()` parses the amount in *source* chain decimals only. A Stellar→Arc transfer of `\"1.1234567\"` parses fine at 7 decimals and"
+    },
+    {
+      "provider": "github",
+      "id": "5873058539",
+      "title": "[Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn",
+      "url": "https://github.com/Parabola-org/parabola/issues/8",
+      "reward_amount": 90.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Parabola-org",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "**Context** `burn()` in `src/transfer.ts:153-179` calls `approveUsdcOnArc` unconditionally before every Arc-sourced burn, submitting an exact-amount ERC-20 approve even when TokenMessengerV2 already has an allowance ≥ `amountRaw` from a pri"
+    },
+    {
+      "provider": "github",
+      "id": "5858181549",
+      "title": "[BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base)",
+      "url": "https://github.com/verdikta/verdikta-applications/issues/76",
+      "reward_amount": 30.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "verdikta",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "Four solo bounties on [Poidh](https://poidh.xyz) (Base chain), about 0.0125 ETH (~$30) each, for builders who post and fund a real task on Verdikta Bounties, get it completed by the AI jury, and publish a 300-word write-up. Part of the **Br"
+    },
+    {
+      "provider": "github",
       "id": "5792618033",
       "title": "[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1632",
@@ -556,25 +593,6 @@
     },
     {
       "provider": "github",
-      "id": "4804271831",
-      "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
-    },
-    {
-      "provider": "github",
       "id": "5239002443",
       "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1220",
@@ -594,25 +612,6 @@
     },
     {
       "provider": "github",
-      "id": "5401199813",
-      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260826",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1379",
-      "reward_amount": 6.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **August 27, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1213](https://github.com/NSPG13/agent-bounties/issues/1213) for existin"
-    },
-    {
-      "provider": "github",
       "id": "5239002677",
       "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260827",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1222",
@@ -629,25 +628,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## Canonical bounty discovery Compete to create and fund marketplace demand that settles canonically during the announced forward window. Highest pro-rata externally funded GMV wins. - **Current work state:** `unavailable` - **Current payme"
-    },
-    {
-      "provider": "github",
-      "id": "5401200294",
-      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — fortnight 20260907",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1382",
-      "reward_amount": 6.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **September 21, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1216](https://github.com/NSPG13/agent-bounties/issues/1216) for exis"
     },
     {
       "provider": "github",
@@ -689,25 +669,6 @@
     },
     {
       "provider": "github",
-      "id": "5401200093",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 to September 7",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1381",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **September 7, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1215](https://github.com/NSPG13/agent-bounties/issues/1215) for exist"
-    },
-    {
-      "provider": "github",
       "id": "5239002307",
       "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 27",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1219",
@@ -724,25 +685,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically during the scoring window. Highest eligible externally funded GMV wins. - **Current work state:** `unavailable` - **Current payment state:** `e"
-    },
-    {
-      "provider": "github",
-      "id": "5401199656",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — September 7 to September 21",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1378",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **September 21, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1212](https://github.com/NSPG13/agent-bounties/issues/1212) for exis"
     },
     {
       "provider": "github",
@@ -860,23 +802,41 @@
     },
     {
       "provider": "github",
-      "id": "5404801820",
-      "title": "[Bounty] [Bounty: $1,100] High: Slippage Rounding Error in Flash Loan Fee Calculation",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1303",
-      "reward_amount": 1100.0,
-      "reward_token": "USD",
+      "id": "5858360373",
+      "title": "Add custom asset trustline creation quick-action modal in wallet selector",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1384",
+      "reward_amount": null,
+      "reward_token": null,
       "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
+      "sponsor": "OphirPay",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
       "autonomous": false,
       "risk_flags": [
         "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
+        "payment_terms_require_review"
       ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/evm-vault-audit/issues/2 ### 漏洞描述 / Description [Bounty: $1,100] High: Slippage Rounding Error in Flash Loan Fee Calculation ### Severity: High ### Reward: ,10"
+      "summary": "**Target Branch: integration/staging** --- ## Description When users attempt to receive or send non-native Stellar assets (e.g. USDC, EURC, or regional anchor tokens) in `src/components/AssetSelector.tsx`, their Stellar account must have an"
+    },
+    {
+      "provider": "github",
+      "id": "5858093169",
+      "title": "Add validation for token decimal precision mismatch in record_payment",
+      "url": "https://github.com/OphirPay/OphirPay/issues/1347",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "OphirPay",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "**Target Branch: integration/staging** --- ## Description In `contracts/ophirpay/src/contract.rs`, when `record_payment` is invoked, the amount is checked against zero and bounds, but there is no validation verifying that the transferred am"
     },
     {
       "provider": "github",
@@ -917,6 +877,26 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/4 ### 漏洞描述 / Description [Bounty: $500] Critical: system.beforeEvents.startup Throws CommandRegistrationError on Bedrock 1.21.70 #"
+    },
+    {
+      "provider": "github",
+      "id": "5860484466",
+      "title": "[Bounty] [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1892",
+      "reward_amount": 30.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/verdikta/verdikta-applications/issues/76 ### 漏洞描述 / Description [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base) Four solo b"
     },
     {
       "provider": "github",

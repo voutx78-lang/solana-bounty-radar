@@ -1,24 +1,8 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 47,
+  "opportunity_count": 44,
   "opportunities": [
-    {
-      "provider": "superteam",
-      "id": "b8fe03a2-01ac-4879-be1a-e58a5496927f",
-      "title": "Crea Contenido para Promocionar El Encuentro 2026 en Madrid",
-      "url": "https://superteam.fun/earn/listing/crea-contenido-para-promocionar-el-encuentro-2026/",
-      "reward_amount": 2000.0,
-      "reward_token": "USDG",
-      "deadline": "2026-10-24T22:59:59.999Z",
-      "sponsor": "La Familia",
-      "category": "bounty",
-      "status": "OPEN",
-      "submission_mode": "official_agent_api",
-      "autonomous": true,
-      "risk_flags": [],
-      "summary": "Agent-eligible listing from a verified Superteam sponsor."
-    },
     {
       "provider": "gibwork",
       "id": "1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
@@ -94,7 +78,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,876 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,891 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -137,6 +121,26 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "fee5da23-be65-4b10-b635-ad74a0761688",
+      "title": "Share Your BASIS Story 50 Topics, Pick ONE",
+      "url": "https://app.gib.work/tasks/fee5da23-be65-4b10-b635-ad74a0761688",
+      "reward_amount": 51.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-21T00:00:00.000Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the part of the experience that matters most to you. Pick ONE topic below and post your take on X: 1. How you first heard about B"
+    },
+    {
       "provider": "algora",
       "id": "2782641291",
       "title": "Use pglite so that postgres isn't required when generating types",
@@ -155,26 +159,6 @@
         "bounty_status_requires_review"
       ],
       "summary": "Official Algora announcement; repository has 42 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "c8434d65-bcbf-4896-81b0-1ad5dd3f8def",
-      "title": "BASIS on Hong Kong Solana ETFs Retweet + Comment",
-      "url": "https://app.gib.work/tasks/c8434d65-bcbf-4896-81b0-1ad5dd3f8def",
-      "reward_amount": 8.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-19T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "BASIS ( basis.pro ) just published an insights piece on Hong Kong's Solana ETFs: \"Hong Kong's Solana ETF Fee War Still Misses The Yield Question.\" Help get the research in front of more people. Requirements: 1. Retweet this post: https://x."
     },
     {
       "provider": "algora",
@@ -234,7 +218,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,328 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,378 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -341,48 +325,6 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "d0e3ae96-5d54-4c00-9975-958adab1cc21",
-      "title": "BASIS on IBKR Staking Retweet + Comment",
-      "url": "https://app.gib.work/tasks/d0e3ae96-5d54-4c00-9975-958adab1cc21",
-      "reward_amount": 9.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-19T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_overcrowded",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Interactive Brokers just launched crypto staking. BASIS' take: Wall Street has stopped asking whether crypto yield is real it's packaging it. Retweet and share your read. Requirements: 1. Retweet this post: https://x.com/basis__pro/status/2"
-    },
-    {
-      "provider": "gibwork",
-      "id": "f2dc2d56-f90c-4fda-8655-dea1f0a77290",
-      "title": "What's One Thing You Do on BASIS Every Week? Pick ONE angle",
-      "url": "https://app.gib.work/tasks/f2dc2d56-f90c-4fda-8655-dea1f0a77290",
-      "reward_amount": 5.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-28T06:26:26.712Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs is built on real habits. We want to hear the one small thing you find yourself doing on BASIS week after week. Pick ONE angle below and post your take on X: 1. The Monda"
-    },
-    {
       "provider": "github",
       "id": "787116159",
       "title": "[sifnode] $1000 bounty for implementing Azure AKS support for sifnode",
@@ -476,44 +418,6 @@
         "payment_terms_require_review"
       ],
       "summary": "### Bounty: USDC (Escrow Locked) ### Description Registering custom slash commands in scripts/commands/inspect.ts crashes BDS at startup: ` TypeError: CustomCommandRegistry.registerCommand is not a function at registerInspectCommand (script"
-    },
-    {
-      "provider": "github",
-      "id": "5873061556",
-      "title": "[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals",
-      "url": "https://github.com/Parabola-org/parabola/issues/10",
-      "reward_amount": 90.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Parabola-org",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "**Context** Arc USDC has 6 decimals, Stellar USDC has 7 (`src/constants.ts`, `src/utils/amount.ts:14-16`). `transfer()` parses the amount in *source* chain decimals only. A Stellar→Arc transfer of `\"1.1234567\"` parses fine at 7 decimals and"
-    },
-    {
-      "provider": "github",
-      "id": "5873058539",
-      "title": "[Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn",
-      "url": "https://github.com/Parabola-org/parabola/issues/8",
-      "reward_amount": 90.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Parabola-org",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "**Context** `burn()` in `src/transfer.ts:153-179` calls `approveUsdcOnArc` unconditionally before every Arc-sourced burn, submitting an exact-amount ERC-20 approve even when TokenMessengerV2 already has an allowance ≥ `amountRaw` from a pri"
     },
     {
       "provider": "github",
@@ -688,25 +592,6 @@
     },
     {
       "provider": "github",
-      "id": "5401199206",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 24",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1375",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "> **Closed to new work.** The scoring window ended **August 31, 2026 at 00:00 UTC**. The later proof deadline does not extend that window. Follow [the canonical record #1209](https://github.com/NSPG13/agent-bounties/issues/1209) for existin"
-    },
-    {
-      "provider": "github",
       "id": "4804059201",
       "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
       "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
@@ -802,25 +687,6 @@
     },
     {
       "provider": "github",
-      "id": "5858360373",
-      "title": "Add custom asset trustline creation quick-action modal in wallet selector",
-      "url": "https://github.com/OphirPay/OphirPay/issues/1384",
-      "reward_amount": null,
-      "reward_token": null,
-      "deadline": null,
-      "sponsor": "OphirPay",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "**Target Branch: integration/staging** --- ## Description When users attempt to receive or send non-native Stellar assets (e.g. USDC, EURC, or regional anchor tokens) in `src/components/AssetSelector.tsx`, their Stellar account must have an"
-    },
-    {
-      "provider": "github",
       "id": "5858093169",
       "title": "Add validation for token decimal precision mismatch in record_payment",
       "url": "https://github.com/OphirPay/OphirPay/issues/1347",
@@ -837,6 +703,26 @@
         "payment_terms_require_review"
       ],
       "summary": "**Target Branch: integration/staging** --- ## Description In `contracts/ophirpay/src/contract.rs`, when `record_payment` is invoked, the amount is checked against zero and bounds, but there is no validation verifying that the transferred am"
+    },
+    {
+      "provider": "github",
+      "id": "5198741016",
+      "title": "[Bounty] Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/827",
+      "reward_amount": 20000.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3 ### 漏洞描述 / Description Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC] ## Overview **Prize: $20"
     },
     {
       "provider": "github",
@@ -880,6 +766,46 @@
     },
     {
       "provider": "github",
+      "id": "5874536197",
+      "title": "[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906",
+      "reward_amount": 90.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Parabola-org/parabola/issues/10 ### 漏洞描述 / Description [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals **Context** Arc USDC has 6"
+    },
+    {
+      "provider": "github",
+      "id": "5874536479",
+      "title": "[Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908",
+      "reward_amount": 90.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Parabola-org/parabola/issues/8 ### 漏洞描述 / Description [Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn **Context** `burn()"
+    },
+    {
+      "provider": "github",
       "id": "5860484466",
       "title": "[Bounty] [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1892",
@@ -917,6 +843,26 @@
         "listing_quarantined"
       ],
       "summary": "> **UNFUNDED PRECOMMIT — do not claim, sign, spend, or start implementation yet.** This becomes paid work only after the immutable benchmark reaches protected `main`, a live verifier canary passes, and canonical Base creation/funding/claima"
+    },
+    {
+      "provider": "github",
+      "id": "4907443815",
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/334",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "> **Current status: quarantined — do not claim or fund child work from this issue.** The prior offer and participation instructions below are retained as historical records. They are not an active invitation or a guarantee of earnings. Insp"
     }
   ],
   "provider_errors": []

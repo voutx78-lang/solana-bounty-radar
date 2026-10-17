@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 44,
+  "opportunity_count": 45,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -78,7 +78,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,891 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,908 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -121,26 +121,6 @@
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
     },
     {
-      "provider": "gibwork",
-      "id": "fee5da23-be65-4b10-b635-ad74a0761688",
-      "title": "Share Your BASIS Story 50 Topics, Pick ONE",
-      "url": "https://app.gib.work/tasks/fee5da23-be65-4b10-b635-ad74a0761688",
-      "reward_amount": 51.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-21T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the part of the experience that matters most to you. Pick ONE topic below and post your take on X: 1. How you first heard about B"
-    },
-    {
       "provider": "algora",
       "id": "2782641291",
       "title": "Use pglite so that postgres isn't required when generating types",
@@ -161,6 +141,26 @@
       "summary": "Official Algora announcement; repository has 42 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "fee5da23-be65-4b10-b635-ad74a0761688",
+      "title": "Share Your BASIS Story 50 Topics, Pick ONE",
+      "url": "https://app.gib.work/tasks/fee5da23-be65-4b10-b635-ad74a0761688",
+      "reward_amount": 26.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-21T00:00:00.000Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the part of the experience that matters most to you. Pick ONE topic below and post your take on X: 1. How you first heard about B"
+    },
+    {
       "provider": "algora",
       "id": "3264413457",
       "title": "\"Unresolved Reference\" on .md files in subfolders",
@@ -178,7 +178,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,322 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,321 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -198,7 +198,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,322 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,321 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -218,7 +218,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,378 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,402 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -238,7 +238,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,322 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,321 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -441,7 +441,7 @@
     {
       "provider": "github",
       "id": "5792618033",
-      "title": "[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty",
+      "title": "Create the first funded bounty for an established open-source project",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1632",
       "reward_amount": 20.3,
       "reward_token": "USDC",
@@ -455,7 +455,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery You already maintain or regularly contribute to an established open-source project. Get that project to fund a real Agent Bounties bounty on one of its existing issues, so independent demand enters the marketpl"
+      "summary": "## Canonical bounty discovery Use your existing standing in an established open-source project to arrange its first funded Agent Bounties bounty on an existing issue. Complete every published acceptance check before claiming, then submit th"
     },
     {
       "provider": "github",
@@ -687,6 +687,25 @@
     },
     {
       "provider": "github",
+      "id": "5078042577",
+      "title": "[DIRECT] Add an OpenHands earning-loop integration",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/773",
+      "reward_amount": 0.01,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Let OpenHands recognize Agent Bounties as paid-work infrastructure and follow the earning loop with canonical claimability and payment checks. ## Funded payment contract **October 17, 2026: funded, but not available for new work.** "
+    },
+    {
+      "provider": "github",
       "id": "5858093169",
       "title": "Add validation for token decimal precision mismatch in record_payment",
       "url": "https://github.com/OphirPay/OphirPay/issues/1347",
@@ -826,26 +845,6 @@
     },
     {
       "provider": "github",
-      "id": "5290929680",
-      "title": "[DRAFT DIRECT] Make verifier settlement deadline-aware and provider-resilient",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1262",
-      "reward_amount": 14.5,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "> **UNFUNDED PRECOMMIT — do not claim, sign, spend, or start implementation yet.** This becomes paid work only after the immutable benchmark reaches protected `main`, a live verifier canary passes, and canonical Base creation/funding/claima"
-    },
-    {
-      "provider": "github",
       "id": "4907443815",
       "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/334",
@@ -863,6 +862,26 @@
         "listing_quarantined"
       ],
       "summary": "> **Current status: quarantined — do not claim or fund child work from this issue.** The prior offer and participation instructions below are retained as historical records. They are not an active invitation or a guarantee of earnings. Insp"
+    },
+    {
+      "provider": "github",
+      "id": "5137531720",
+      "title": "Capture a macOS Safari compatibility evidence bundle",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/927",
+      "reward_amount": 0.1,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "> **October 17, 2026: verification remains unavailable.** The contract reports `claimable`, but its exact funded test profile is unapproved. Do not start work or pay a bond. The old creator wallet has no demonstrated supported route to with"
     }
   ],
   "provider_errors": []

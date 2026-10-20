@@ -59,7 +59,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,934 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 14,988 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -199,7 +199,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,494 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,529 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -327,13 +327,13 @@
     },
     {
       "provider": "github",
-      "id": "1017408519",
-      "title": "Sample Template for Bounty",
-      "url": "https://github.com/Opty-Fi/defi-adapters/issues/7",
-      "reward_amount": 5000.0,
-      "reward_token": "USDC",
+      "id": "787116159",
+      "title": "[sifnode] $1000 bounty for implementing Azure AKS support for sifnode",
+      "url": "https://github.com/Sifchain/sifnode/issues/503",
+      "reward_amount": 1000.0,
+      "reward_token": "USD",
       "deadline": null,
-      "sponsor": "Opty-Fi",
+      "sponsor": "Sifchain",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -342,7 +342,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Integrating Convex Finance using OptyFi's DeFi Adapter Interface ### Prize Bounty 5000 USDC ### Description The bounty is to build an integration with Convex Finance’s liquidity pools using OptyFi's DeFi Adapter interface and [defi-legos"
+      "summary": "## Description Create scaffolding and deployment scripts for deploying sifnode to Azure via the Azure Kubernetes Service(AKS) ## Context AKS is a fully managed kubernetes service by Azure. The sifnode repo currently supports deployment to E"
     },
     {
       "provider": "github",
@@ -362,25 +362,6 @@
         "payment_terms_require_review"
       ],
       "summary": "Four solo bounties on [Poidh](https://poidh.xyz) (Base chain), about 0.0125 ETH (~$30) each, for builders who post and fund a real task on Verdikta Bounties, get it completed by the AI jury, and publish a 300-word write-up. Part of the **Br"
-    },
-    {
-      "provider": "github",
-      "id": "4804259945",
-      "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Trigger a contextual upgrade prompt when a user reaches 50% of their free credit limit. ## 📋 Scope When a user makes their 5th free call (out of 10): 1. System inserts a row in `upsell_triggers` table 2. Response includes `X-"
     },
     {
       "provider": "github",
@@ -476,6 +457,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## Canonical bounty discovery Compete to create and fund marketplace demand that settles canonically during the announced forward window. Highest pro-rata externally funded GMV wins. - **Current work state:** `unavailable` - **Current payme"
+    },
+    {
+      "provider": "github",
+      "id": "5922300294",
+      "title": "[BOUNTY] $5.00+ USDC: Adversarial Prompt Injection Bypass on CanaryGuard Firewall",
+      "url": "https://github.com/ak10082247-max/canaryguard-402/issues/2",
+      "reward_amount": 5.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "ak10082247-max",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### 🎯 Objective CanaryGuard defends autonomous AI agents using deterministic, sub-millisecond heuristic filtering. To win the bounty, submit an adversarial prompt injection or instruction override payload that slips past Strict Mode with st"
     },
     {
       "provider": "github",
@@ -669,6 +669,25 @@
     },
     {
       "provider": "github",
+      "id": "4804059201",
+      "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
+      "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
+      "reward_amount": 3.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Context The `runtime-opportunity-scout` currently queries Gitcoin Grants and GitHub labeled issues. [Algora](https://algora.io) is a major bounty platform with a public API that lists real paid open-source tasks. ## Task 1. Add Algora AP"
+    },
+    {
+      "provider": "github",
       "id": "4972111892",
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590",
@@ -707,13 +726,13 @@
     },
     {
       "provider": "github",
-      "id": "3077764317",
-      "title": "Add Hardhat test suite for ListingRegistry.sol",
-      "url": "https://github.com/Nobayprotocol/Nobay-Protocol/issues/3",
+      "id": "1962487283",
+      "title": "Arbitrum/Orbit L1 => L2 Hook and ISM",
+      "url": "https://github.com/hyperlane-xyz/hyperlane-monorepo/issues/2845",
       "reward_amount": null,
       "reward_token": null,
       "deadline": null,
-      "sponsor": "Nobayprotocol",
+      "sponsor": "hyperlane-xyz",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -722,26 +741,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "Build unit tests to verify: - Signature validity - Rejection of invalid signatures - Event emission - Seller mapping and metadata accuracy Optional: - Use Foundry in parallel for comparison Type: DevOps / QA Labels: testing, Solidity, help "
-    },
-    {
-      "provider": "github",
-      "id": "1204158164",
-      "title": "bounty: Project Galaxy Core Contract Gas Optimizations",
-      "url": "https://github.com/Galxe/galxe-contracts/issues/3",
-      "reward_amount": null,
-      "reward_token": null,
-      "deadline": null,
-      "sponsor": "Galxe",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Background At Project Galaxy, we are building the infrastructure to power an open and collaborative credential data network. We help Web3 developers leverage credential data to build better products and communities. At the same time, dat"
+      "summary": "This ticket encapsulates a hook and ISM that allows a Hyperlane message to be transported via Arbitrum's `Inbox` contract on L1 with the `createRetryableTicket` function. See more under https://docs.arbitrum.io/for-devs/cross-chain-messsagi"
     },
     {
       "provider": "github",

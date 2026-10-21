@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 46,
+  "opportunity_count": 45,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -24,22 +24,22 @@
     },
     {
       "provider": "gibwork",
-      "id": "9adb1772-5fdc-4aba-9036-86124b03cd6e",
-      "title": "OGs VS NEWBIES",
-      "url": "https://app.gib.work/tasks/9adb1772-5fdc-4aba-9036-86124b03cd6e",
-      "reward_amount": 5.0,
+      "id": "2e57bb40-daca-4c81-9056-e78902dd07f6",
+      "title": "Play Turnfolk - Earn $5 for honest feedback",
+      "url": "https://app.gib.work/tasks/2e57bb40-daca-4c81-9056-e78902dd07f6",
+      "reward_amount": 100.0,
       "reward_token": "USDC",
-      "deadline": "2026-10-20T22:59:30.771Z",
-      "sponsor": "dbabefloxy",
+      "deadline": "2026-10-30T23:00:00.000Z",
+      "sponsor": "dwrx",
       "category": "tasks",
       "status": "CREATED",
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "health_stale",
+        "crowded_50_plus_pending",
         "platform_account_required"
       ],
-      "summary": "BOUNTY: How Long Have You Been Mining $VERY? OGs or Newbies - everyone can win! WAY 1: FOR OGs Show proof you’re an OG: 1. Profile page with username 2. Login streak / activity log 3. When did you join? WAY 2: FOR NEWBIES 1. Download: https"
+      "summary": "Play Turnfolk.com , a free browser strategy game inspired by Civilization and Polytopia. Your task: Start a match and play for around 15-20 minutes. You don't need to win. Share your honest experience: What was confusing, frustrating or bor"
     },
     {
       "provider": "algora",
@@ -59,7 +59,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 14,988 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 15,021 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -199,7 +199,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,529 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,566 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -223,30 +223,10 @@
     },
     {
       "provider": "gibwork",
-      "id": "fee5da23-be65-4b10-b635-ad74a0761688",
-      "title": "Share Your BASIS Story 50 Topics, Pick ONE",
-      "url": "https://app.gib.work/tasks/fee5da23-be65-4b10-b635-ad74a0761688",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-21T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the part of the experience that matters most to you. Pick ONE topic below and post your take on X: 1. How you first heard about B"
-    },
-    {
-      "provider": "gibwork",
-      "id": "48b29af8-6516-43cd-8407-0247497c0f9a",
-      "title": "Share One Little Thing About Using BASIS Pick ONE angle",
-      "url": "https://app.gib.work/tasks/48b29af8-6516-43cd-8407-0247497c0f9a",
-      "reward_amount": 60.0,
+      "id": "e2575247-1d22-4157-9885-6e52ac5dab36",
+      "title": " Share Your Side of BASIS Pick ONE Theme",
+      "url": "https://app.gib.work/tasks/e2575247-1d22-4157-9885-6e52ac5dab36",
+      "reward_amount": 11.0,
       "reward_token": "USDC",
       "deadline": "2026-10-24T00:00:00.000Z",
       "sponsor": "basis",
@@ -260,7 +240,7 @@
         "platform_account_required",
         "social_account_likely_required"
       ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the small, everyday details of how they actually use it. Pick ONE angle below and post your take on X: 1. The device you use BASI"
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about whichever part of your experience matters most. Pick ONE theme below and post your take on X: 1. Why you chose BASIS 2. How you f"
     },
     {
       "provider": "algora",
@@ -722,7 +702,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Goal Let OpenHands recognize Agent Bounties as paid-work infrastructure and follow the earning loop with canonical claimability and payment checks. ## Funded payment contract **October 17, 2026: funded, but not available for new work.** "
+      "summary": "## Goal Let OpenHands recognize Agent Bounties as paid-work infrastructure and follow the earning loop with canonical claimability and payment checks. ## Funded payment contract **October 19, 2026: the old claim was cleared; this bounty rem"
     },
     {
       "provider": "github",

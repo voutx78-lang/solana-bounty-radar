@@ -1,26 +1,8 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 48,
+  "opportunity_count": 46,
   "opportunities": [
-    {
-      "provider": "gibwork",
-      "id": "a8b91f19-c571-4932-b66b-26339b592665",
-      "title": "Follow my Kick account before I go live",
-      "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665",
-      "reward_amount": 7.99,
-      "reward_token": "USDC",
-      "deadline": "2026-11-06T20:12:09.229Z",
-      "sponsor": "femionchain",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required"
-      ],
-      "summary": "Bounty Description Complete this bounty by following my Kick account before I go live at 10 pm. • Follow this Kick account: https://kick.com/femionchain • If needed, you can also access the link through my Linktree: https://linktr.ee/femion"
-    },
     {
       "provider": "gibwork",
       "id": "1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
@@ -45,7 +27,7 @@
       "id": "14e29f94-84b1-4376-8175-0a6c0c75193d",
       "title": "Engage with @Femionchain on X for 3 days",
       "url": "https://app.gib.work/tasks/14e29f94-84b1-4376-8175-0a6c0c75193d",
-      "reward_amount": 11.73,
+      "reward_amount": 10.73,
       "reward_token": "USDC",
       "deadline": "2026-11-06T16:49:08.142Z",
       "sponsor": "femionchain",
@@ -58,6 +40,25 @@
         "social_account_likely_required"
       ],
       "summary": "Bounty Description Complete this bounty by following @Femionchain on X, turning on notifications, and engaging with every old and new post for 3 days. • Follow the X account at https://x.com/Femionchain . • Turn on post notifications for @F"
+    },
+    {
+      "provider": "gibwork",
+      "id": "a8b91f19-c571-4932-b66b-26339b592665",
+      "title": "Follow my Kick account before I go live",
+      "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665",
+      "reward_amount": 0.99,
+      "reward_token": "USDC",
+      "deadline": "2026-11-06T20:12:09.229Z",
+      "sponsor": "femionchain",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_overcrowded",
+        "platform_account_required"
+      ],
+      "summary": "Bounty Description Complete this bounty by following my Kick account before I go live at 10 pm. • Follow this Kick account: https://kick.com/femionchain • If needed, you can also access the link through my Linktree: https://linktr.ee/femion"
     },
     {
       "provider": "algora",
@@ -77,7 +78,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 15,040 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 15,052 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -174,7 +175,7 @@
       "autonomous": false,
       "risk_flags": [
         "crowded_50_plus_pending",
-        "health_stale",
+        "health_paused",
         "platform_account_required"
       ],
       "summary": "Play Turnfolk.com , a free browser strategy game inspired by Civilization and Polytopia. Your task: Start a match and play for around 15-20 minutes. You don't need to win. Share your honest experience: What was confusing, frustrating or bor"
@@ -257,7 +258,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,621 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,639 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -278,26 +279,6 @@
         "bounty_status_requires_review"
       ],
       "summary": "Official Algora announcement; repository has 2,327 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "386e25c4-c585-444a-8697-7ba00ba8b2a7",
-      "title": "Grow X account - Femionchain",
-      "url": "https://app.gib.work/tasks/386e25c4-c585-444a-8697-7ba00ba8b2a7",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": "2026-11-06T11:42:17.965Z",
-      "sponsor": "femionchain",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_overcrowded",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Follow my account with notifications on and engage my content regularly https://x.com/Femionchain"
     },
     {
       "provider": "algora",
@@ -384,6 +365,27 @@
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "386e25c4-c585-444a-8697-7ba00ba8b2a7",
+      "title": "Grow X account - Femionchain",
+      "url": "https://app.gib.work/tasks/386e25c4-c585-444a-8697-7ba00ba8b2a7",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": "2026-11-06T11:42:17.965Z",
+      "sponsor": "femionchain",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Follow my account with notifications on and engage my content regularly https://x.com/Femionchain"
+    },
+    {
       "provider": "github",
       "id": "787116159",
       "title": "[sifnode] $1000 bounty for implementing Azure AKS support for sifnode",
@@ -423,25 +425,6 @@
     },
     {
       "provider": "github",
-      "id": "5407238724",
-      "title": "[Bounty: $700] Deep Recursive Generic Type Solver Fails Invariant Fuzzing in src/types/state.ts",
-      "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/5",
-      "reward_amount": 700.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Senthemodder",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### Bounty: USDC (Escrow Locked) ### Description When compiling src/types/state.ts, the TypeScript compiler throws: ` Error TS2589: Type instantiation is excessively deep and possibly infinite. ` ### Requirements - Refactor DeepInfiniteReso"
-    },
-    {
-      "provider": "github",
       "id": "6003832923",
       "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
       "url": "https://github.com/blake-guthrie/GLASS/issues/1",
@@ -458,6 +441,63 @@
         "payment_terms_require_review"
       ],
       "summary": "Fix this problem to get paid in fees of $100"
+    },
+    {
+      "provider": "github",
+      "id": "6007774119",
+      "title": "💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/21",
+      "reward_amount": 100.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "alfrexo95",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools - **Monto:** $$100 - **Plataforma:** USDC Escrow - **Enlace:** [Ir al Issue](https://github.com/zhangjia"
+    },
+    {
+      "provider": "github",
+      "id": "6010805059",
+      "title": "💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/27",
+      "reward_amount": 100.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "alfrexo95",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct - **Monto:** $$100 - **Plataforma:** USDC Escrow - **Enlace:** [Ir al Issue](https://github.com/zha"
+    },
+    {
+      "provider": "github",
+      "id": "6013302485",
+      "title": "💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/28",
+      "reward_amount": 100.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "alfrexo95",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu - **Monto:** $$100 - **Plataforma:** USDC Escrow - **Enlace:** [Ir al Issue](https://github.com/alfrexo95/b"
     },
     {
       "provider": "github",
@@ -632,25 +672,6 @@
     },
     {
       "provider": "github",
-      "id": "5004492495",
-      "title": "[DIRECT] Add a portable claim-readiness diagnostics fixture",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/682",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Add committed fixtures and a deterministic test for the solver-facing claim-readiness response so an agent can see reward, refundable bond, external spend, gross cash margin, and one actionable blocker before signing. ## Acceptance "
-    },
-    {
-      "provider": "github",
       "id": "5004492550",
       "title": "[DIRECT] Add a ready-to-earn inventory filter regression test",
       "url": "https://github.com/NSPG13/agent-bounties/issues/683",
@@ -762,25 +783,6 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Let operators and agents see actual spendable USDC separately from remaining policy authority without exposing signer secrets or implying that either amount is bounty inventory. ## Acceptance criteria - Add a read-only Base-mainnet "
-    },
-    {
-      "provider": "github",
-      "id": "1962487283",
-      "title": "Arbitrum/Orbit L1 => L2 Hook and ISM",
-      "url": "https://github.com/hyperlane-xyz/hyperlane-monorepo/issues/2845",
-      "reward_amount": null,
-      "reward_token": null,
-      "deadline": null,
-      "sponsor": "hyperlane-xyz",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "This ticket encapsulates a hook and ISM that allows a Hyperlane message to be transported via Arbitrum's `Inbox` contract on L1 with the `createRetryableTicket` function. See more under https://docs.arbitrum.io/for-devs/cross-chain-messsagi"
     },
     {
       "provider": "github",
@@ -901,46 +903,6 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Parabola-org/parabola/issues/8 ### 漏洞描述 / Description [Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn **Context** `burn()"
-    },
-    {
-      "provider": "github",
-      "id": "4997223957",
-      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/651",
-      "reward_amount": 1.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "> **Currently unavailable — do not claim, post a bond or fund child work from this listing.** The committed verification path is not ready. The offer below is historical and remains subject to its original terms; it is not an active invitat"
-    },
-    {
-      "provider": "github",
-      "id": "5137531720",
-      "title": "Capture a macOS Safari compatibility evidence bundle",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/927",
-      "reward_amount": 0.1,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "listing_quarantined"
-      ],
-      "summary": "> **October 17, 2026: verification remains unavailable.** The contract reports `claimable`, but its exact funded test profile is unapproved. Do not start work or pay a bond. The old creator wallet has no demonstrated supported route to with"
     }
   ],
   "provider_errors": []

@@ -24,25 +24,6 @@
     },
     {
       "provider": "gibwork",
-      "id": "14e29f94-84b1-4376-8175-0a6c0c75193d",
-      "title": "Engage with @Femionchain on X for 3 days",
-      "url": "https://app.gib.work/tasks/14e29f94-84b1-4376-8175-0a6c0c75193d",
-      "reward_amount": 10.73,
-      "reward_token": "USDC",
-      "deadline": "2026-11-06T16:49:08.142Z",
-      "sponsor": "femionchain",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Bounty Description Complete this bounty by following @Femionchain on X, turning on notifications, and engaging with every old and new post for 3 days. • Follow the X account at https://x.com/Femionchain . • Turn on post notifications for @F"
-    },
-    {
-      "provider": "gibwork",
       "id": "a8b91f19-c571-4932-b66b-26339b592665",
       "title": "Follow my Kick account before I go live",
       "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665",
@@ -78,7 +59,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 15,052 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 15,068 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -142,26 +123,6 @@
     },
     {
       "provider": "gibwork",
-      "id": "dbef254b-17f2-47d3-be60-267f0a8fe93a",
-      "title": "X Thread Bounty from Today’s X Space",
-      "url": "https://app.gib.work/tasks/dbef254b-17f2-47d3-be60-267f0a8fe93a",
-      "reward_amount": 150.0,
-      "reward_token": "USDC",
-      "deadline": "2026-11-06T15:31:35.752Z",
-      "sponsor": "anthony",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "This bounty invites participants to listen to or review today’s X Space and turn the key takeaways into a clear, engaging thread for their audience on X. The goal of this bounty is to create a high-quality summary thread that captures the m"
-    },
-    {
-      "provider": "gibwork",
       "id": "2e57bb40-daca-4c81-9056-e78902dd07f6",
       "title": "Play Turnfolk - Earn $5 for honest feedback",
       "url": "https://app.gib.work/tasks/2e57bb40-daca-4c81-9056-e78902dd07f6",
@@ -201,6 +162,46 @@
       "summary": "Official Algora announcement; repository has 42 GitHub stars. Confirm funding and claim status before starting."
     },
     {
+      "provider": "gibwork",
+      "id": "14e29f94-84b1-4376-8175-0a6c0c75193d",
+      "title": "Engage with @Femionchain on X for 3 days",
+      "url": "https://app.gib.work/tasks/14e29f94-84b1-4376-8175-0a6c0c75193d",
+      "reward_amount": 10.73,
+      "reward_token": "USDC",
+      "deadline": "2026-11-06T16:49:08.142Z",
+      "sponsor": "femionchain",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "health_overcrowded",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Bounty Description Complete this bounty by following @Femionchain on X, turning on notifications, and engaging with every old and new post for 3 days. • Follow the X account at https://x.com/Femionchain . • Turn on post notifications for @F"
+    },
+    {
+      "provider": "gibwork",
+      "id": "33e0497c-2ec9-4511-aebd-d52ee07e82bd",
+      "title": "Which BASIS Features Do You Actually Use? Pick ONE angle",
+      "url": "https://app.gib.work/tasks/33e0497c-2ec9-4511-aebd-d52ee07e82bd",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-11-06T07:45:39.967Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the features and screens you actually use day to day. Pick ONE angle below and post your take on X: 1. Auto Earn and whether you "
+    },
+    {
       "provider": "algora",
       "id": "3264413457",
       "title": "\"Unresolved Reference\" on .md files in subfolders",
@@ -218,7 +219,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,327 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,328 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -238,7 +239,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,327 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,328 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -258,7 +259,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,639 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,665 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -278,7 +279,28 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,327 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,328 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "dbef254b-17f2-47d3-be60-267f0a8fe93a",
+      "title": "X Thread Bounty from Today’s X Space",
+      "url": "https://app.gib.work/tasks/dbef254b-17f2-47d3-be60-267f0a8fe93a",
+      "reward_amount": 150.0,
+      "reward_token": "USDC",
+      "deadline": "2026-11-06T15:31:35.752Z",
+      "sponsor": "anthony",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_stale",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "This bounty invites participants to listen to or review today’s X Space and turn the key takeaways into a clear, engaging thread for their audience on X. The goal of this bounty is to create a high-quality summary thread that captures the m"
     },
     {
       "provider": "algora",
@@ -321,27 +343,6 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "33e0497c-2ec9-4511-aebd-d52ee07e82bd",
-      "title": "Which BASIS Features Do You Actually Use? Pick ONE angle",
-      "url": "https://app.gib.work/tasks/33e0497c-2ec9-4511-aebd-d52ee07e82bd",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": "2026-11-06T07:45:39.967Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the features and screens you actually use day to day. Pick ONE angle below and post your take on X: 1. Auto Earn and whether you "
     },
     {
       "provider": "algora",
@@ -422,6 +423,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## Description Create scaffolding and deployment scripts for deploying sifnode to Google cloud via the [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) ## Context GKE is a fully managed kubernetes service by Goog"
+    },
+    {
+      "provider": "github",
+      "id": "5407238541",
+      "title": "[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json",
+      "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/3",
+      "reward_amount": 650.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Senthemodder",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### Bounty: USDC (Escrow Locked) ### Description In ui/hud_screen.json, custom inventory text slicing overflows on item names > 16 characters on mobile viewport profiles. ` [JSON UI Engine][Warning] Binding resolution failed for #inventory_"
     },
     {
       "provider": "github",
@@ -653,63 +673,6 @@
     },
     {
       "provider": "github",
-      "id": "5004492606",
-      "title": "[DIRECT] Add a fail-closed API test for stale domain origins",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/684",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Add a deterministic API test ensuring analytics, discovery, redirects, and generated public links accept and emit only the canonical `agentbounties.app`, `api.agentbounties.app`, and `mcp.agentbounties.app` origins. ## Acceptance cr"
-    },
-    {
-      "provider": "github",
-      "id": "5004492550",
-      "title": "[DIRECT] Add a ready-to-earn inventory filter regression test",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/683",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Add a deterministic regression test that proves the public ready-to-earn inventory excludes canonical bounties with `verification_ready=false`, `recovery-reserved`, invalid terms, or terminal status. ## Acceptance criteria - The tes"
-    },
-    {
-      "provider": "github",
-      "id": "5004492674",
-      "title": "[DIRECT] Add MCP/API tool-registry drift coverage",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/685",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Add a deterministic compatibility test that compares the public MCP tool registry with the API discovery manifest and fails closed when a required read-only discovery or readiness tool is missing or renamed. ## Acceptance criteria -"
-    },
-    {
-      "provider": "github",
       "id": "4972111892",
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590",
@@ -767,6 +730,25 @@
     },
     {
       "provider": "github",
+      "id": "5964030319",
+      "title": "[board] Undo and redo",
+      "url": "https://github.com/amiller/bounty-arcade/issues/2",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "amiller",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "**Funded testnet reward: 0.01 Base Sepolia ETH for one accepted completion.** [Run and claim](https://pod.dstack.soc1024.com/bounty-undo/) · [Exact acceptance policy](https://pod.dstack.soc1024.com/bounty-undo/policy.json) · [Reward terms]("
+    },
+    {
+      "provider": "github",
       "id": "5115944339",
       "title": "[DIRECT] Expose bounded-wallet liquidity and authority separately",
       "url": "https://github.com/NSPG13/agent-bounties/issues/871",
@@ -783,6 +765,44 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Let operators and agents see actual spendable USDC separately from remaining policy authority without exposing signer secrets or implying that either amount is bounty inventory. ## Acceptance criteria - Add a read-only Base-mainnet "
+    },
+    {
+      "provider": "github",
+      "id": "5964032238",
+      "title": "[puzzle] Deadlock detection for boxes stuck in corners",
+      "url": "https://github.com/amiller/bounty-arcade/issues/7",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "amiller",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "**Funded testnet reward: 0.01 Base Sepolia ETH for one accepted completion.** [Run and claim](https://pod.dstack.soc1024.com/bounty-deadlock/) · [Exact acceptance policy](https://pod.dstack.soc1024.com/bounty-deadlock/policy.json) · [Reward"
+    },
+    {
+      "provider": "github",
+      "id": "5964033324",
+      "title": "[routes] Segments and gaps",
+      "url": "https://github.com/amiller/bounty-arcade/issues/10",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "amiller",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "**Funded testnet reward: 0.01 Base Sepolia ETH for one accepted completion.** [Run and claim](https://pod.dstack.soc1024.com/bounty-segments/) · [Exact acceptance policy](https://pod.dstack.soc1024.com/bounty-segments/policy.json) · [Reward"
     },
     {
       "provider": "github",
@@ -806,46 +826,6 @@
     },
     {
       "provider": "github",
-      "id": "5404801925",
-      "title": "[Bounty] [Bounty: $1,400] Critical: Reentrancy and Share Inflation in ERC-4626 Deposit Me",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1304",
-      "reward_amount": 1400.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/evm-vault-audit/issues/1 ### 漏洞描述 / Description [Bounty: $1,400] Critical: Reentrancy and Share Inflation in ERC-4626 Deposit Mechanism ### Severity: Critical "
-    },
-    {
-      "provider": "github",
-      "id": "5404801820",
-      "title": "[Bounty] [Bounty: $1,100] High: Slippage Rounding Error in Flash Loan Fee Calculation",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1303",
-      "reward_amount": 1100.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/evm-vault-audit/issues/2 ### 漏洞描述 / Description [Bounty: $1,100] High: Slippage Rounding Error in Flash Loan Fee Calculation ### Severity: High ### Reward: ,10"
-    },
-    {
-      "provider": "github",
       "id": "5404801745",
       "title": "[Bounty] [Bounty: $950] Medium: Unchecked Return Value in ERC-20 Transfer Callback",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1302",
@@ -863,6 +843,26 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/evm-vault-audit/issues/3 ### 漏洞描述 / Description [Bounty: $950] Medium: Unchecked Return Value in ERC-20 Transfer Callback ### Severity: Medium ### Reward: USDC"
+    },
+    {
+      "provider": "github",
+      "id": "5408447125",
+      "title": "[Bounty] [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1335",
+      "reward_amount": 650.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/3 ### 漏洞描述 / Description [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json ### Bounty: "
     },
     {
       "provider": "github",

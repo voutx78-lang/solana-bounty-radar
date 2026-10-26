@@ -1,8 +1,26 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 46,
+  "opportunity_count": 47,
   "opportunities": [
+    {
+      "provider": "gibwork",
+      "id": "6d2704d1-f041-4708-8610-f752d7ddcba5",
+      "title": "Refer 5 genuine new Temu users with the provided referral link bounty",
+      "url": "https://app.gib.work/tasks/6d2704d1-f041-4708-8610-f752d7ddcba5",
+      "reward_amount": 9.0,
+      "reward_token": "USDC",
+      "deadline": "2026-11-09T03:40:00.722Z",
+      "sponsor": "femionchain",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required"
+      ],
+      "summary": "Bounty Description This bounty is for participants to help invite genuine new users to Temu using the provided referral link. • Each bounty participant must successfully refer 5 new Temu users through this Temu referral link: https://temu.t"
+    },
     {
       "provider": "gibwork",
       "id": "1052f22d-3f87-4b1d-b0d7-71a60679e7fa",
@@ -59,7 +77,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 15,068 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 15,086 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -175,7 +193,7 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "health_overcrowded",
+        "health_stale",
         "platform_account_required",
         "social_account_likely_required"
       ],
@@ -183,23 +201,23 @@
     },
     {
       "provider": "gibwork",
-      "id": "33e0497c-2ec9-4511-aebd-d52ee07e82bd",
-      "title": "Which BASIS Features Do You Actually Use? Pick ONE angle",
-      "url": "https://app.gib.work/tasks/33e0497c-2ec9-4511-aebd-d52ee07e82bd",
-      "reward_amount": 10.0,
+      "id": "cff0fb2f-bc05-4bdd-9322-971eefcf1c48",
+      "title": "Share Your BASIS Experience Pick ONE of 50 Themes",
+      "url": "https://app.gib.work/tasks/cff0fb2f-bc05-4bdd-9322-971eefcf1c48",
+      "reward_amount": 8.0,
       "reward_token": "USDC",
-      "deadline": "2026-11-06T07:45:39.967Z",
+      "deadline": "2026-10-31T00:00:00.000Z",
       "sponsor": "basis",
       "category": "tasks",
       "status": "CREATED",
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "crowded_50_plus_pending",
+        "health_competitive",
         "platform_account_required",
         "social_account_likely_required"
       ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the features and screens you actually use day to day. Pick ONE angle below and post your take on X: 1. Auto Earn and whether you "
+      "summary": "Fifty ways in, one story out. We want to hear about whichever part of using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs matters most to you right now. Pick ONE theme below and post your take on X: 1. Why you chose"
     },
     {
       "provider": "algora",
@@ -219,7 +237,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,328 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,330 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -239,7 +257,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,328 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,330 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -259,7 +277,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,665 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,686 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -279,7 +297,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,328 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,330 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -380,7 +398,7 @@
       "autonomous": false,
       "risk_flags": [
         "crowded_50_plus_pending",
-        "health_overcrowded",
+        "health_stale",
         "platform_account_required",
         "social_account_likely_required"
       ],
@@ -745,7 +763,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "**Funded testnet reward: 0.01 Base Sepolia ETH for one accepted completion.** [Run and claim](https://pod.dstack.soc1024.com/bounty-undo/) · [Exact acceptance policy](https://pod.dstack.soc1024.com/bounty-undo/policy.json) · [Reward terms]("
+      "summary": "**Testnet reward claimed and paid — remaining funded claims: 0.** PR #72 passed full attested verification at commit `1a7531b17ea0fd9be55aea9cc8abb442583f32d8`. The entire **0.01 Base Sepolia test ETH** was [forwarded to the contributor’s p"
     },
     {
       "provider": "github",
@@ -783,7 +801,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "**Funded testnet reward: 0.01 Base Sepolia ETH for one accepted completion.** [Run and claim](https://pod.dstack.soc1024.com/bounty-deadlock/) · [Exact acceptance policy](https://pod.dstack.soc1024.com/bounty-deadlock/policy.json) · [Reward"
+      "summary": "**Testnet reward claimed and paid — remaining funded claims: 0.** PR #68 passed full attested verification at commit `d52536907dff3819a5fbb07f55a89394e9743e85`. The entire **0.01 Base Sepolia test ETH** was [forwarded to the contributor’s p"
     },
     {
       "provider": "github",
@@ -802,7 +820,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "**Funded testnet reward: 0.01 Base Sepolia ETH for one accepted completion.** [Run and claim](https://pod.dstack.soc1024.com/bounty-segments/) · [Exact acceptance policy](https://pod.dstack.soc1024.com/bounty-segments/policy.json) · [Reward"
+      "summary": "**Testnet reward claimed and paid — remaining funded claims: 0.** PR #77 passed full attested verification at commit `7f7931891e773e7ab83e1b272d618891529af7f5`. The entire **0.01 Base Sepolia test ETH** was [forwarded to the contributor’s p"
     },
     {
       "provider": "github",

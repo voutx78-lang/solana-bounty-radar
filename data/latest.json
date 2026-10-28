@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 48,
+  "opportunity_count": 49,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -42,6 +42,44 @@
     },
     {
       "provider": "gibwork",
+      "id": "d321ae8f-34f0-4c2f-b6ef-af7773d096ba",
+      "title": "Create an X Thread About the Gibwork Mobile App Bounty",
+      "url": "https://app.gib.work/tasks/d321ae8f-34f0-4c2f-b6ef-af7773d096ba",
+      "reward_amount": 400.0,
+      "reward_token": "CREDITS",
+      "deadline": "2026-11-27T05:00:00.000Z",
+      "sponsor": "gibwork",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "This bounty invites contributors to create a clear, engaging X thread explaining the Gibwork mobile app on iOS and Android , including what the app does and the opportunities it offers users. The goal of this bounty is to produce a thread t"
+    },
+    {
+      "provider": "gibwork",
+      "id": "e9361d5d-6595-4ec9-8b89-12bddcb6089b",
+      "title": "Need help with KYC",
+      "url": "https://app.gib.work/tasks/e9361d5d-6595-4ec9-8b89-12bddcb6089b",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-10-31T14:09:31.896Z",
+      "sponsor": "lucascrown",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Need Help with KYC Please do not submit to this bounty unless you are from one of the following regions: 1. Albania 2. Bosnia and Herzegovina 3. Bulgaria 4. Croatia 5. Greece 6. Kosovo 7. Montenegro 8. North Macedonia 9. Romania 10. Serbia "
+    },
+    {
+      "provider": "gibwork",
       "id": "a8b91f19-c571-4932-b66b-26339b592665",
       "title": "Follow my Kick account before I go live",
       "url": "https://app.gib.work/tasks/a8b91f19-c571-4932-b66b-26339b592665",
@@ -77,27 +115,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 15,095 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "d321ae8f-34f0-4c2f-b6ef-af7773d096ba",
-      "title": "Create an X Thread About the Gibwork Mobile App Bounty",
-      "url": "https://app.gib.work/tasks/d321ae8f-34f0-4c2f-b6ef-af7773d096ba",
-      "reward_amount": 400.0,
-      "reward_token": "CREDITS",
-      "deadline": "2026-11-27T05:00:00.000Z",
-      "sponsor": "gibwork",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "This bounty invites contributors to create a clear, engaging X thread explaining the Gibwork mobile app on iOS and Android , including what the app does and the opportunities it offers users. The goal of this bounty is to produce a thread t"
+      "summary": "Official Algora announcement; repository has 15,104 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -217,7 +235,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,330 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,332 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -237,7 +255,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,330 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,332 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -257,7 +275,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,721 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,742 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -277,27 +295,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,330 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "cff0fb2f-bc05-4bdd-9322-971eefcf1c48",
-      "title": "Share Your BASIS Experience Pick ONE of 50 Themes",
-      "url": "https://app.gib.work/tasks/cff0fb2f-bc05-4bdd-9322-971eefcf1c48",
-      "reward_amount": 2.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-31T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Fifty ways in, one story out. We want to hear about whichever part of using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs matters most to you right now. Pick ONE theme below and post your take on X: 1. Why you chose"
+      "summary": "Official Algora announcement; repository has 2,332 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -363,6 +361,27 @@
       "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about what your everyday experience actually looks like. Pick ONE theme below and post your take on X: 1. Why you started staking on BA"
     },
     {
+      "provider": "gibwork",
+      "id": "3093ebd6-a52a-4411-81fa-3055dcb81772",
+      "title": "Tell Us Your BASIS Story Pick ONE Theme",
+      "url": "https://app.gib.work/tasks/3093ebd6-a52a-4411-81fa-3055dcb81772",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-11-03T00:00:00.000Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "Every BASIS user's story is different. We want yours whatever part of using basis.pro (the market-neutral yield platform from Base58 Labs) stands out most to you. Pick ONE theme below and post your take on X: 1. How you found BASIS and what"
+    },
+    {
       "provider": "algora",
       "id": "2407485383",
       "title": "try defence ",
@@ -424,44 +443,6 @@
         "social_account_likely_required"
       ],
       "summary": "Follow my account with notifications on and engage my content regularly https://x.com/Femionchain"
-    },
-    {
-      "provider": "github",
-      "id": "787116159",
-      "title": "[sifnode] $1000 bounty for implementing Azure AKS support for sifnode",
-      "url": "https://github.com/Sifchain/sifnode/issues/503",
-      "reward_amount": 1000.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Sifchain",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Description Create scaffolding and deployment scripts for deploying sifnode to Azure via the Azure Kubernetes Service(AKS) ## Context AKS is a fully managed kubernetes service by Azure. The sifnode repo currently supports deployment to E"
-    },
-    {
-      "provider": "github",
-      "id": "788655995",
-      "title": "[sifnode] $1000 bounty for implementing Google Cloud support for sifnode #503",
-      "url": "https://github.com/Sifchain/sifnode/issues/524",
-      "reward_amount": 1000.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Sifchain",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Description Create scaffolding and deployment scripts for deploying sifnode to Google cloud via the [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) ## Context GKE is a fully managed kubernetes service by Goog"
     },
     {
       "provider": "github",
@@ -579,13 +560,13 @@
     },
     {
       "provider": "github",
-      "id": "4804259945",
-      "title": "[AGENT-TASK] Auto-upsell trigger after 5th free call — +25% revenue",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/3",
-      "reward_amount": 10.0,
+      "id": "5792618033",
+      "title": "Create the first funded bounty for an established open-source project",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1632",
+      "reward_amount": 20.3,
       "reward_token": "USDC",
       "deadline": null,
-      "sponsor": "Nexussyn",
+      "sponsor": "NSPG13",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -594,64 +575,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## 🎯 Objective Trigger a contextual upgrade prompt when a user reaches 50% of their free credit limit. ## 📋 Scope When a user makes their 5th free call (out of 10): 1. System inserts a row in `upsell_triggers` table 2. Response includes `X-"
-    },
-    {
-      "provider": "github",
-      "id": "4804258605",
-      "title": "[AGENT-TASK] Implement referral reward loop — +20% conversion",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/2",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Build a referral system that awards 5 free credits per successful referral conversion. ## 📋 Scope When user A refers user B: 1. User B signs up and makes their first paid call 2. User A automatically receives 5 free credits 3"
-    },
-    {
-      "provider": "github",
-      "id": "4804271831",
-      "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
-    },
-    {
-      "provider": "github",
-      "id": "4804273523",
-      "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
-      "reward_amount": 5.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Build an agent that automatically generates blog posts, Twitter/X threads, and social cards from bounty completion events. ## 📋 Scope Every time a bounty is completed (PR merged, `execution_status = done`): 1. Agent reads the"
+      "summary": "## Canonical bounty discovery You already maintain or regularly contribute to an established open-source project. Get that project to fund a real Agent Bounties bounty on one of its existing issues, so independent demand enters the marketpl"
     },
     {
       "provider": "github",
@@ -693,6 +617,25 @@
     },
     {
       "provider": "github",
+      "id": "5004492674",
+      "title": "[DIRECT] Add MCP/API tool-registry drift coverage",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/685",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Add a deterministic compatibility test that compares the public MCP tool registry with the API discovery manifest and fails closed when a required read-only discovery or readiness tool is missing or renamed. ## Acceptance criteria -"
+    },
+    {
+      "provider": "github",
       "id": "4972111892",
       "title": "[META] Earn 1 USDC margin with an agent-discovery bounty",
       "url": "https://github.com/NSPG13/agent-bounties/issues/590",
@@ -709,44 +652,6 @@
         "payment_terms_require_review"
       ],
       "summary": "> **Current status: unavailable — do not sign a claim, pay a bond, or fund child work for this issue.** Parent round 3 passed its October 13, 2026, 19:38:33 UTC deadline but is still claimed; it has not yet been cleared. Verification is una"
-    },
-    {
-      "provider": "github",
-      "id": "5078042577",
-      "title": "[DIRECT] Add an OpenHands earning-loop integration",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/773",
-      "reward_amount": 0.01,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Goal Let OpenHands recognize Agent Bounties as paid-work infrastructure and follow the earning loop with canonical claimability and payment checks. ## Funded payment contract **October 19, 2026: the old claim was cleared; this bounty rem"
-    },
-    {
-      "provider": "github",
-      "id": "4804254219",
-      "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
-      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
-      "reward_amount": 0.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Nexussyn",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## 🎯 Objective Implement a tiered pricing system for the x402 API calls to increase revenue by 30%. ## 📋 Scope The current system charges a flat rate per API call. We need tiered pricing: - **Tier 1 (Free):** First 50 calls = $0.00 - **Tier"
     },
     {
       "provider": "github",
@@ -846,46 +751,6 @@
     },
     {
       "provider": "github",
-      "id": "5404801925",
-      "title": "[Bounty] [Bounty: $1,400] Critical: Reentrancy and Share Inflation in ERC-4626 Deposit Me",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1304",
-      "reward_amount": 1400.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/evm-vault-audit/issues/1 ### 漏洞描述 / Description [Bounty: $1,400] Critical: Reentrancy and Share Inflation in ERC-4626 Deposit Mechanism ### Severity: Critical "
-    },
-    {
-      "provider": "github",
-      "id": "5404801745",
-      "title": "[Bounty] [Bounty: $950] Medium: Unchecked Return Value in ERC-20 Transfer Callback",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1302",
-      "reward_amount": 950.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/evm-vault-audit/issues/3 ### 漏洞描述 / Description [Bounty: $950] Medium: Unchecked Return Value in ERC-20 Transfer Callback ### Severity: Medium ### Reward: USDC"
-    },
-    {
-      "provider": "github",
       "id": "5408447125",
       "title": "[Bounty] [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1335",
@@ -943,6 +808,166 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Parabola-org/parabola/issues/8 ### 漏洞描述 / Description [Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn **Context** `burn()"
+    },
+    {
+      "provider": "github",
+      "id": "5115629798",
+      "title": "[Bounty] Earn 1 USDC profit by creating a paid MCP child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/861",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "## Canonical bounty discovery Create and fully fund a concrete 1 USDC MCP bounty that a different registered participant completes and receives canonical settlement for, then receive the 2 USDC parent reward. - **Current work state:** `unav"
+    },
+    {
+      "provider": "github",
+      "id": "4997223260",
+      "title": "[META] Earn 1 USDC margin with a API reliability bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/647",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "> **Currently unavailable — do not claim, post a bond or fund child work from this listing.** The committed verification path is not ready. The offer below is historical and remains subject to its original terms; it is not an active invitat"
+    },
+    {
+      "provider": "github",
+      "id": "4997223957",
+      "title": "[META] Earn 1 USDC margin with a bounty distribution bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/651",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "> **Currently unavailable — do not claim, post a bond or fund child work from this listing.** The committed verification path is not ready. The offer below is historical and remains subject to its original terms; it is not an active invitat"
+    },
+    {
+      "provider": "github",
+      "id": "4907443765",
+      "title": "[META] Earn 1 USDC margin with a CLI bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/333",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "> **Currently unavailable — do not claim, post a bond or fund child work from this listing.** The committed verification path is not ready. The offer below is historical and remains subject to its original terms; it is not an active invitat"
+    },
+    {
+      "provider": "github",
+      "id": "4997223406",
+      "title": "[META] Earn 1 USDC margin with a MCP interoperability bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/648",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "> **Currently unavailable — do not claim, post a bond or fund child work from this listing.** The committed verification path is not ready. The offer below is historical and remains subject to its original terms; it is not an active invitat"
+    },
+    {
+      "provider": "github",
+      "id": "4907443890",
+      "title": "[META] Earn 1 USDC margin with a wallet UX bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/336",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "> **Currently unavailable — do not claim, post a bond or fund child work from this listing.** The committed verification path is not ready. The offer below is historical and remains subject to its original terms; it is not an active invitat"
+    },
+    {
+      "provider": "github",
+      "id": "4907443815",
+      "title": "[QUARANTINED — DO NOT CLAIM] Seed a paid API child bounty",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/334",
+      "reward_amount": 1.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "> **Current status: quarantined — do not claim or fund child work from this issue.** The prior offer and participation instructions below are retained as historical records. They are not an active invitation or a guarantee of earnings. Insp"
+    },
+    {
+      "provider": "github",
+      "id": "5137531720",
+      "title": "Capture a macOS Safari compatibility evidence bundle",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/927",
+      "reward_amount": 0.1,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "listing_quarantined"
+      ],
+      "summary": "> **October 17, 2026: verification remains unavailable.** The contract reports `claimable`, but its exact funded test profile is unapproved. Do not start work or pay a bond. The old creator wallet has no demonstrated supported route to with"
     }
   ],
   "provider_errors": []

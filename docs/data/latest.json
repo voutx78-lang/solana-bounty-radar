@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 49,
+  "opportunity_count": 50,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -42,25 +42,6 @@
     },
     {
       "provider": "gibwork",
-      "id": "d321ae8f-34f0-4c2f-b6ef-af7773d096ba",
-      "title": "Create an X Thread About the Gibwork Mobile App Bounty",
-      "url": "https://app.gib.work/tasks/d321ae8f-34f0-4c2f-b6ef-af7773d096ba",
-      "reward_amount": 400.0,
-      "reward_token": "CREDITS",
-      "deadline": "2026-11-27T05:00:00.000Z",
-      "sponsor": "gibwork",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "This bounty invites contributors to create a clear, engaging X thread explaining the Gibwork mobile app on iOS and Android , including what the app does and the opportunities it offers users. The goal of this bounty is to produce a thread t"
-    },
-    {
-      "provider": "gibwork",
       "id": "e9361d5d-6595-4ec9-8b89-12bddcb6089b",
       "title": "Need help with KYC",
       "url": "https://app.gib.work/tasks/e9361d5d-6595-4ec9-8b89-12bddcb6089b",
@@ -77,6 +58,25 @@
         "social_account_likely_required"
       ],
       "summary": "Need Help with KYC Please do not submit to this bounty unless you are from one of the following regions: 1. Albania 2. Bosnia and Herzegovina 3. Bulgaria 4. Croatia 5. Greece 6. Kosovo 7. Montenegro 8. North Macedonia 9. Romania 10. Serbia "
+    },
+    {
+      "provider": "gibwork",
+      "id": "766bb734-df89-48c0-a0dc-cec5d715dd8b",
+      "title": "Post About a App Feature",
+      "url": "https://app.gib.work/tasks/766bb734-df89-48c0-a0dc-cec5d715dd8b",
+      "reward_amount": 1.0,
+      "reward_token": "CREDITS",
+      "deadline": "2026-11-12T15:34:48.664Z",
+      "sponsor": "gibwork",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "This bounty invites you to highlight a feature from the Gibwork app by creating and publishing a clear, engaging X post. The goal of this bounty is to help more people discover Gibwork through authentic social sharing that explains why a sp"
     },
     {
       "provider": "gibwork",
@@ -115,7 +115,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 15,104 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 15,110 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -235,7 +235,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,332 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,331 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -255,7 +255,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,332 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,331 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -275,7 +275,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,742 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,771 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -295,7 +295,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,332 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,331 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -317,6 +317,27 @@
         "social_account_likely_required"
       ],
       "summary": "This bounty invites participants to listen to or review today’s X Space and turn the key takeaways into a clear, engaging thread for their audience on X. The goal of this bounty is to create a high-quality summary thread that captures the m"
+    },
+    {
+      "provider": "gibwork",
+      "id": "8f6748a5-ad70-4636-9e73-0bd6bdb8ba1e",
+      "title": "Share Your Everyday BASIS Pick ONE Theme",
+      "url": "https://app.gib.work/tasks/8f6748a5-ad70-4636-9e73-0bd6bdb8ba1e",
+      "reward_amount": 11.0,
+      "reward_token": "USDC",
+      "deadline": "2026-11-12T12:44:44.518Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the everyday parts of using it that others don't see. Pick ONE theme below and post your take on X: 1. The number you check first"
     },
     {
       "provider": "algora",
@@ -359,27 +380,6 @@
         "social_account_likely_required"
       ],
       "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about what your everyday experience actually looks like. Pick ONE theme below and post your take on X: 1. Why you started staking on BA"
-    },
-    {
-      "provider": "gibwork",
-      "id": "3093ebd6-a52a-4411-81fa-3055dcb81772",
-      "title": "Tell Us Your BASIS Story Pick ONE Theme",
-      "url": "https://app.gib.work/tasks/3093ebd6-a52a-4411-81fa-3055dcb81772",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": "2026-11-03T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Every BASIS user's story is different. We want yours whatever part of using basis.pro (the market-neutral yield platform from Base58 Labs) stands out most to you. Pick ONE theme below and post your take on X: 1. How you found BASIS and what"
     },
     {
       "provider": "algora",
@@ -446,25 +446,6 @@
     },
     {
       "provider": "github",
-      "id": "5407238541",
-      "title": "[Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json",
-      "url": "https://github.com/Senthemodder/aquarium-of-gullibles/issues/3",
-      "reward_amount": 650.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "Senthemodder",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "### Bounty: USDC (Escrow Locked) ### Description In ui/hud_screen.json, custom inventory text slicing overflows on item names > 16 characters on mobile viewport profiles. ` [JSON UI Engine][Warning] Binding resolution failed for #inventory_"
-    },
-    {
-      "provider": "github",
       "id": "6003832923",
       "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
       "url": "https://github.com/blake-guthrie/GLASS/issues/1",
@@ -481,44 +462,6 @@
         "payment_terms_require_review"
       ],
       "summary": "Fix this problem to get paid in fees of $100"
-    },
-    {
-      "provider": "github",
-      "id": "6007774119",
-      "title": "💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/21",
-      "reward_amount": 100.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "alfrexo95",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** [Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools - **Monto:** $$100 - **Plataforma:** USDC Escrow - **Enlace:** [Ir al Issue](https://github.com/zhangjia"
-    },
-    {
-      "provider": "github",
-      "id": "6010805059",
-      "title": "💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/27",
-      "reward_amount": 100.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "alfrexo95",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "🤖 **Bounty con Pago Garantizado (Escrow)** - **Título:** [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct - **Monto:** $$100 - **Plataforma:** USDC Escrow - **Enlace:** [Ir al Issue](https://github.com/zha"
     },
     {
       "provider": "github",
@@ -560,29 +503,10 @@
     },
     {
       "provider": "github",
-      "id": "5792618033",
-      "title": "Create the first funded bounty for an established open-source project",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1632",
-      "reward_amount": 20.3,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery You already maintain or regularly contribute to an established open-source project. Get that project to fund a real Agent Bounties bounty on one of its existing issues, so independent demand enters the marketpl"
-    },
-    {
-      "provider": "github",
-      "id": "4804059201",
-      "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
-      "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
-      "reward_amount": 3.0,
+      "id": "4804271831",
+      "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
+      "reward_amount": 10.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "Nexussyn",
@@ -594,7 +518,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Context The `runtime-opportunity-scout` currently queries Gitcoin Grants and GitHub labeled issues. [Algora](https://algora.io) is a major bounty platform with a public API that lists real paid open-source tasks. ## Task 1. Add Algora AP"
+      "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
     },
     {
       "provider": "github",
@@ -731,6 +655,122 @@
     },
     {
       "provider": "github",
+      "id": "5044866317",
+      "title": "Design the purchase flow on top of the store prototype",
+      "url": "https://github.com/Arrow-air/website/issues/217",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "Arrow-air",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### Category Design ### Project Cross-project ### USDC reward, optional _No response_ ### ARROW reward, optional 2250 ### Expected completion window ~2 weeks after assignment ### Expiry date, optional _No response_ ### Disciplines - [X] Des"
+    },
+    {
+      "provider": "github",
+      "id": "5044866190",
+      "title": "Put live Discord events on the community calls page",
+      "url": "https://github.com/Arrow-air/website/issues/215",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "Arrow-air",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### Category Operations ### Project Cross-project ### USDC reward, optional _No response_ ### ARROW reward, optional 1600 ### Expected completion window ~2 weeks after assignment ### Expiry date, optional _No response_ ### Disciplines - [X]"
+    },
+    {
+      "provider": "github",
+      "id": "4903887875",
+      "title": "🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yield Distribution Contract",
+      "url": "https://github.com/aashu91/robinhood-evm-mcp/issues/2",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "aashu91",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### Objective Build a Solidity contract that allows users to stake the native launchpad token `$ROBIN_MCP` (`0xCFD635f82B75ab6c1a6725a54e9146FEe2c5A421`) and receive proportional rewards/yield from platform fees. ### Requirements 1. **Solid"
+    },
+    {
+      "provider": "github",
+      "id": "4903887586",
+      "title": "🏆 [Bounty: 50,000 $ROBIN_MCP] Integrate Pyth / Chainlink Oracles for Real-Time Gold & Silver Valuation",
+      "url": "https://github.com/aashu91/robinhood-evm-mcp/issues/1",
+      "reward_amount": null,
+      "reward_token": null,
+      "deadline": null,
+      "sponsor": "aashu91",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "### Objective We need to upgrade our `CommunityTrust` contract to support real-time price feeds for precious metal assets (like Gold and Silver) using Pyth Network or Chainlink Oracles. Currently, our gold/silver reserves use mock valuation"
+    },
+    {
+      "provider": "github",
+      "id": "5198741045",
+      "title": "[Bounty] Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC]",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/828",
+      "reward_amount": 25000.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/2 ### 漏洞描述 / Description Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC] ## Overview **Pr"
+    },
+    {
+      "provider": "github",
+      "id": "5198741016",
+      "title": "[Bounty] Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/827",
+      "reward_amount": 20000.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "zhangjiayang6835-cyber",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review",
+        "mirror_listing"
+      ],
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3 ### 漏洞描述 / Description Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC] ## Overview **Prize: $20"
+    },
+    {
+      "provider": "github",
       "id": "5404801661",
       "title": "[Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anchor CPI Di",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1301",
@@ -751,10 +791,10 @@
     },
     {
       "provider": "github",
-      "id": "5408447125",
-      "title": "[Bounty] [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1335",
-      "reward_amount": 650.0,
+      "id": "6010161728",
+      "title": "[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109",
+      "reward_amount": 100.0,
       "reward_token": "USD",
       "deadline": null,
       "sponsor": "zhangjiayang6835-cyber",
@@ -767,17 +807,17 @@
         "payment_terms_require_review",
         "mirror_listing"
       ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/aquarium-of-gullibles/issues/3 ### 漏洞描述 / Description [Bounty: $650] JSON UI: Dynamic Container Inventory Text Slicing Overflow in hud_screen.json ### Bounty: "
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/alfrexo95/bounty-bot/issues/21 ### 漏洞描述 / Description 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct 🤖 **Bounty con Pago Garantizado (Escrow)** "
     },
     {
       "provider": "github",
-      "id": "5874536197",
-      "title": "[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906",
-      "reward_amount": 90.0,
-      "reward_token": "USD",
+      "id": "5792618033",
+      "title": "Create the first funded bounty for an established open-source project",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/1632",
+      "reward_amount": 20.3,
+      "reward_token": "USDC",
       "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
+      "sponsor": "NSPG13",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -785,29 +825,9 @@
       "risk_flags": [
         "escrow_unverified",
         "payment_terms_require_review",
-        "mirror_listing"
+        "listing_quarantined"
       ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Parabola-org/parabola/issues/10 ### 漏洞描述 / Description [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals **Context** Arc USDC has 6"
-    },
-    {
-      "provider": "github",
-      "id": "5874536479",
-      "title": "[Bounty] [Bounty: $90] Skip the Arc approve transaction when the existing allowance alrea",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1908",
-      "reward_amount": 90.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Parabola-org/parabola/issues/8 ### 漏洞描述 / Description [Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn **Context** `burn()"
+      "summary": "## Canonical bounty discovery You already maintain or regularly contribute to an established open-source project. Get that project to fund a real Agent Bounties bounty on one of its existing issues, so independent demand enters the marketpl"
     },
     {
       "provider": "github",

@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 49,
+  "opportunity_count": 47,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -20,25 +20,6 @@
         "platform_account_required"
       ],
       "summary": "Bounty Description This bounty is for participants to help invite genuine new users to Temu using the provided referral link. • Each bounty participant must successfully refer 5 new Temu users through this Temu referral link: https://temu.t"
-    },
-    {
-      "provider": "gibwork",
-      "id": "e9361d5d-6595-4ec9-8b89-12bddcb6089b",
-      "title": "Need help with KYC",
-      "url": "https://app.gib.work/tasks/e9361d5d-6595-4ec9-8b89-12bddcb6089b",
-      "reward_amount": 10.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-31T14:09:31.896Z",
-      "sponsor": "lucascrown",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "Need Help with KYC Please do not submit to this bounty unless you are from one of the following regions: 1. Albania 2. Bosnia and Herzegovina 3. Bulgaria 4. Croatia 5. Greece 6. Kosovo 7. Montenegro 8. North Macedonia 9. Romania 10. Serbia "
     },
     {
       "provider": "gibwork",
@@ -73,7 +54,7 @@
       "submission_mode": "platform_account",
       "autonomous": false,
       "risk_flags": [
-        "health_overcrowded",
+        "health_stale",
         "platform_account_required"
       ],
       "summary": "Bounty Description Complete this bounty by following my Kick account before I go live at 10 pm. • Follow this Kick account: https://kick.com/femionchain • If needed, you can also access the link through my Linktree: https://linktr.ee/femion"
@@ -96,7 +77,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 15,124 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 15,139 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -117,26 +98,6 @@
         "bounty_status_requires_review"
       ],
       "summary": "Official Algora announcement; repository has 142 GitHub stars. Confirm funding and claim status before starting."
-    },
-    {
-      "provider": "gibwork",
-      "id": "2e57bb40-daca-4c81-9056-e78902dd07f6",
-      "title": "Play Turnfolk - Earn $5 for honest feedback",
-      "url": "https://app.gib.work/tasks/2e57bb40-daca-4c81-9056-e78902dd07f6",
-      "reward_amount": 100.0,
-      "reward_token": "USDC",
-      "deadline": "2026-10-30T23:00:00.000Z",
-      "sponsor": "dwrx",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_paused",
-        "platform_account_required"
-      ],
-      "summary": "Play Turnfolk.com , a free browser strategy game inspired by Civilization and Polytopia. Your task: Start a match and play for around 15-20 minutes. You don't need to win. Share your honest experience: What was confusing, frustrating or bor"
     },
     {
       "provider": "algora",
@@ -236,7 +197,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,795 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,817 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -385,31 +346,29 @@
       "summary": "Follow my account with notifications on and engage my content regularly https://x.com/Femionchain"
     },
     {
-      "provider": "gibwork",
-      "id": "5dc0116c-b4b2-40b5-a113-f380c7002d18",
-      "title": "Share Your BASIS, Your Way Pick ONE Theme",
-      "url": "https://app.gib.work/tasks/5dc0116c-b4b2-40b5-a113-f380c7002d18",
-      "reward_amount": 1.0,
+      "provider": "github",
+      "id": "5274075421",
+      "title": "[Bounty] Fail-closed Victory Audit on planted auth_bypass",
+      "url": "https://github.com/s6pa1rta3n-lab/universal_bounty_fleet/issues/1",
+      "reward_amount": 1200.0,
       "reward_token": "USDC",
-      "deadline": "2026-10-31T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
+      "deadline": null,
+      "sponsor": "s6pa1rta3n-lab",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
       "autonomous": false,
       "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_overcrowded",
-        "platform_account_required",
-        "social_account_likely_required"
+        "escrow_unverified",
+        "payment_terms_require_review"
       ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about what your everyday experience actually looks like. Pick ONE theme below and post your take on X: 1. Why you started staking on BA"
+      "summary": "## GrantFox OSS bounty **Reward:** $1,200.00 USDC **Escrow:** GrantFox smart-contract escrow confirmed and locked by grantfox-bot. **Platform:** GrantFox (not Algora / Polar / Opire). **Repo:** `s6pa1rta3n-lab/universal_bounty_fleet` This i"
     },
     {
       "provider": "github",
-      "id": "787116159",
-      "title": "[sifnode] $1000 bounty for implementing Azure AKS support for sifnode",
-      "url": "https://github.com/Sifchain/sifnode/issues/503",
+      "id": "788655995",
+      "title": "[sifnode] $1000 bounty for implementing Google Cloud support for sifnode #503",
+      "url": "https://github.com/Sifchain/sifnode/issues/524",
       "reward_amount": 1000.0,
       "reward_token": "USD",
       "deadline": null,
@@ -422,17 +381,17 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Description Create scaffolding and deployment scripts for deploying sifnode to Azure via the Azure Kubernetes Service(AKS) ## Context AKS is a fully managed kubernetes service by Azure. The sifnode repo currently supports deployment to E"
+      "summary": "## Description Create scaffolding and deployment scripts for deploying sifnode to Google cloud via the [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) ## Context GKE is a fully managed kubernetes service by Goog"
     },
     {
       "provider": "github",
-      "id": "6003832923",
-      "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
-      "url": "https://github.com/blake-guthrie/GLASS/issues/1",
-      "reward_amount": 100.0,
+      "id": "5858181549",
+      "title": "[BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base)",
+      "url": "https://github.com/verdikta/verdikta-applications/issues/76",
+      "reward_amount": 30.0,
       "reward_token": "USD",
       "deadline": null,
-      "sponsor": "blake-guthrie",
+      "sponsor": "verdikta",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -441,7 +400,26 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "Fix this problem to get paid in fees of $100"
+      "summary": "Four solo bounties on [Poidh](https://poidh.xyz) (Base chain), about 0.0125 ETH (~$30) each, for builders who post and fund a real task on Verdikta Bounties, get it completed by the AI jury, and publish a 300-word write-up. Part of the **Br"
+    },
+    {
+      "provider": "github",
+      "id": "4804271831",
+      "title": "[AGENT-TASK] Mobile-first landing page with wallet deep-link — +15% conversion",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/4",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Create a mobile-optimized landing page that detects mobile context and shows a simplified CTA with wallet app deep-links. ## 📋 Scope The current landing page is desktop-first. On mobile: 1. Detect user agent / screen size 2. "
     },
     {
       "provider": "github",
@@ -540,13 +518,13 @@
     },
     {
       "provider": "github",
-      "id": "5239000976",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — August 24 sprint",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1210",
-      "reward_amount": 3.0,
+      "id": "4804273523",
+      "title": "[AGENT-TASK] Content-generation agent — auto-posts from bounty outcomes",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/5",
+      "reward_amount": 5.0,
       "reward_token": "USDC",
       "deadline": null,
-      "sponsor": "NSPG13",
+      "sponsor": "Nexussyn",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -555,7 +533,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically during the scoring window. Highest eligible externally funded GMV wins. - **Current work state:** `unavailable` - **Current payment state:** `e"
+      "summary": "## 🎯 Objective Build an agent that automatically generates blog posts, Twitter/X threads, and social cards from bounty completion events. ## 📋 Scope Every time a bounty is completed (PR merged, `execution_status = done`): 1. Agent reads the"
     },
     {
       "provider": "github",
@@ -692,13 +670,13 @@
     },
     {
       "provider": "github",
-      "id": "5239000858",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 24",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1209",
+      "id": "4804059201",
+      "title": "🔍 [Agent Task] Add Algora bounty discovery to runtime-opportunity-scout",
+      "url": "https://github.com/Nexussyn/ai-growth-platform/issues/4",
       "reward_amount": 3.0,
       "reward_token": "USDC",
       "deadline": null,
-      "sponsor": "NSPG13",
+      "sponsor": "Nexussyn",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -707,14 +685,14 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically during the scoring window. Highest eligible externally funded GMV wins. - **Current work state:** `unavailable` - **Current payment state:** `e"
+      "summary": "## Context The `runtime-opportunity-scout` currently queries Gitcoin Grants and GitHub labeled issues. [Algora](https://algora.io) is a major bounty platform with a public API that lists real paid open-source tasks. ## Task 1. Add Algora AP"
     },
     {
       "provider": "github",
-      "id": "5239000741",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — week of August 31",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1208",
-      "reward_amount": 3.0,
+      "id": "5004492738",
+      "title": "[DIRECT] Add a concise direct-bounty evidence checklist",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/686",
+      "reward_amount": 2.0,
       "reward_token": "USDC",
       "deadline": null,
       "sponsor": "NSPG13",
@@ -726,7 +704,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically during the scoring window. Highest eligible externally funded GMV wins. - **Current work state:** `unavailable` - **Current payment state:** `e"
+      "summary": "## Goal Add a small machine-readable and human-readable evidence checklist for direct coding bounties that binds the repository commit, benchmark/check run, artifact digest, and canonical settlement boundary. ## Acceptance criteria - The ch"
     },
     {
       "provider": "github",
@@ -746,6 +724,25 @@
         "payment_terms_require_review"
       ],
       "summary": "> **Current status: unavailable — do not sign a claim, pay a bond, or fund child work for this issue.** Parent round 3 passed its October 13, 2026, 19:38:33 UTC deadline but is still claimed; it has not yet been cleared. Verification is una"
+    },
+    {
+      "provider": "github",
+      "id": "4804254219",
+      "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
+      "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
+      "reward_amount": 0.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Nexussyn",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🎯 Objective Implement a tiered pricing system for the x402 API calls to increase revenue by 30%. ## 📋 Scope The current system charges a flat rate per API call. We need tiered pricing: - **Tier 1 (Free):** First 50 calls = $0.00 - **Tier"
     },
     {
       "provider": "github",
@@ -787,46 +784,6 @@
     },
     {
       "provider": "github",
-      "id": "5198741045",
-      "title": "[Bounty] Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC]",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/828",
-      "reward_amount": 25000.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/2 ### 漏洞描述 / Description Bounty #2 — Karabut Glow-Discharge Nuclear Screening Simulator [$25,000 USDC] ## Overview **Pr"
-    },
-    {
-      "provider": "github",
-      "id": "5198741016",
-      "title": "[Bounty] Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC]",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/827",
-      "reward_amount": 20000.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/mister3ai-cmyk/ngp-sovereign-synesis-bounties/issues/3 ### 漏洞描述 / Description Bounty #3 — DryLab4 & SiLA 2 Robotic Laboratory Bridge [$20,000 USDC] ## Overview **Prize: $20"
-    },
-    {
-      "provider": "github",
       "id": "5404801661",
       "title": "[Bounty] [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anchor CPI Di",
       "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1301",
@@ -847,13 +804,13 @@
     },
     {
       "provider": "github",
-      "id": "5792618033",
-      "title": "Create the first funded bounty for an established open-source project",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1632",
-      "reward_amount": 20.3,
-      "reward_token": "USDC",
+      "id": "6004857118",
+      "title": "[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107",
+      "reward_amount": 100.0,
+      "reward_token": "USD",
       "deadline": null,
-      "sponsor": "NSPG13",
+      "sponsor": "zhangjiayang6835-cyber",
       "category": "issue",
       "status": "open",
       "submission_mode": "maintainer_defined",
@@ -861,9 +818,9 @@
       "risk_flags": [
         "escrow_unverified",
         "payment_terms_require_review",
-        "listing_quarantined"
+        "mirror_listing"
       ],
-      "summary": "## Canonical bounty discovery You already maintain or regularly contribute to an established open-source project. Get that project to fund a real Agent Bounties bounty on one of its existing issues, so independent demand enters the marketpl"
+      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/blake-guthrie/GLASS/issues/1 ### 漏洞描述 / Description USDC-quoted pairs not having the correct marketcap displayed in tools Fix this problem to get paid in fees of $100 ### 积"
     },
     {
       "provider": "github",

@@ -1,7 +1,7 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 47,
+  "opportunity_count": 45,
   "opportunities": [
     {
       "provider": "gibwork",
@@ -20,25 +20,6 @@
         "platform_account_required"
       ],
       "summary": "Bounty Description This bounty is for participants to help invite genuine new users to Temu using the provided referral link. • Each bounty participant must successfully refer 5 new Temu users through this Temu referral link: https://temu.t"
-    },
-    {
-      "provider": "gibwork",
-      "id": "766bb734-df89-48c0-a0dc-cec5d715dd8b",
-      "title": "Post About a App Feature",
-      "url": "https://app.gib.work/tasks/766bb734-df89-48c0-a0dc-cec5d715dd8b",
-      "reward_amount": 1.0,
-      "reward_token": "CREDITS",
-      "deadline": "2026-11-12T15:34:48.664Z",
-      "sponsor": "gibwork",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "This bounty invites you to highlight a feature from the Gibwork app by creating and publishing a clear, engaging X post. The goal of this bounty is to help more people discover Gibwork through authentic social sharing that explains why a sp"
     },
     {
       "provider": "gibwork",
@@ -77,7 +58,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 15,139 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 15,155 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -157,7 +138,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,332 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,333 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -177,7 +158,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,332 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,333 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -197,7 +178,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,817 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,849 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -217,7 +198,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,332 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,333 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -242,12 +223,12 @@
     },
     {
       "provider": "gibwork",
-      "id": "77dd17b7-d9b3-4a21-b88c-a4de7b61d986",
-      "title": "Share Your Everyday BASIS Pick ONE of 50 Themes",
-      "url": "https://app.gib.work/tasks/77dd17b7-d9b3-4a21-b88c-a4de7b61d986",
-      "reward_amount": 12.0,
+      "id": "7321f4fd-c2c5-42d2-8194-39a206546378",
+      "title": "Share How BASIS Changed for You Pick ONE angle",
+      "url": "https://app.gib.work/tasks/7321f4fd-c2c5-42d2-8194-39a206546378",
+      "reward_amount": 53.0,
       "reward_token": "USDC",
-      "deadline": "2026-11-13T07:34:02.676Z",
+      "deadline": "2026-11-07T00:00:00.000Z",
       "sponsor": "basis",
       "category": "tasks",
       "status": "CREATED",
@@ -259,7 +240,7 @@
         "platform_account_required",
         "social_account_likely_required"
       ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about the small everyday parts of using it that never make it into reviews. Pick ONE theme below and post your take on X: 1. The number"
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how the experience changed for you since your first days on it. Pick ONE angle below and post your take on X: 1. The moment I sto"
     },
     {
       "provider": "algora",
@@ -366,6 +347,25 @@
     },
     {
       "provider": "github",
+      "id": "787116159",
+      "title": "[sifnode] $1000 bounty for implementing Azure AKS support for sifnode",
+      "url": "https://github.com/Sifchain/sifnode/issues/503",
+      "reward_amount": 1000.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "Sifchain",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Description Create scaffolding and deployment scripts for deploying sifnode to Azure via the Azure Kubernetes Service(AKS) ## Context AKS is a fully managed kubernetes service by Azure. The sifnode repo currently supports deployment to E"
+    },
+    {
+      "provider": "github",
       "id": "788655995",
       "title": "[sifnode] $1000 bounty for implementing Google Cloud support for sifnode #503",
       "url": "https://github.com/Sifchain/sifnode/issues/524",
@@ -382,6 +382,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## Description Create scaffolding and deployment scripts for deploying sifnode to Google cloud via the [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) ## Context GKE is a fully managed kubernetes service by Goog"
+    },
+    {
+      "provider": "github",
+      "id": "6003832923",
+      "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
+      "url": "https://github.com/blake-guthrie/GLASS/issues/1",
+      "reward_amount": 100.0,
+      "reward_token": "USD",
+      "deadline": null,
+      "sponsor": "blake-guthrie",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "Fix this problem to get paid in fees of $100"
     },
     {
       "provider": "github",
@@ -426,25 +445,6 @@
       "id": "5239002443",
       "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260825",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1220",
-      "reward_amount": 6.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Compete to create and fund marketplace demand that settles canonically during the announced forward window. Highest pro-rata externally funded GMV wins. - **Current work state:** `unavailable` - **Current payme"
-    },
-    {
-      "provider": "github",
-      "id": "5239001356",
-      "title": "Generate qualifying GMV for 6 USDC prize — Highest externally funded canonical GMV — daily 20260826",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1213",
       "reward_amount": 6.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -613,47 +613,9 @@
     },
     {
       "provider": "github",
-      "id": "5239001076",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 26",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1211",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically during the scoring window. Highest eligible externally funded GMV wins. - **Current work state:** `unavailable` - **Current payment state:** `e"
-    },
-    {
-      "provider": "github",
       "id": "5239002307",
       "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 27",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1219",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically during the scoring window. Highest eligible externally funded GMV wins. - **Current work state:** `unavailable` - **Current payment state:** `e"
-    },
-    {
-      "provider": "github",
-      "id": "5239001248",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — September 7 to September 21",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1212",
       "reward_amount": 3.0,
       "reward_token": "USDC",
       "deadline": null,
@@ -727,6 +689,25 @@
     },
     {
       "provider": "github",
+      "id": "4006356683",
+      "title": "🏆 BOUNTY (1 SOL): Film \"I Gave AI Root Access — Here's Every Single Thing It Did\" Audit Demo",
+      "url": "https://github.com/bolivian-peru/os-moda/issues/4",
+      "reward_amount": 1.0,
+      "reward_token": "SOL",
+      "deadline": null,
+      "sponsor": "bolivian-peru",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## 🏆 Bounty: 1 SOL **Film a real demo of osModa's hash-chained audit ledger proving every AI action. Upload to YouTube. Earn 1 SOL.** --- ## The Demo **Title:** \"I Gave an AI Root Access to My Server. Here's Every Single Thing It Did.\" **Fo"
+    },
+    {
+      "provider": "github",
       "id": "4804254219",
       "title": "[AGENT-TASK] Implement tiered pricing engine — +30% revenue expected",
       "url": "https://github.com/Nexussyn/ai-growth-engine/issues/1",
@@ -765,9 +746,9 @@
     },
     {
       "provider": "github",
-      "id": "4903887875",
-      "title": "🏆 [Bounty: 50,000 $ROBIN_MCP] Implement Native Token ($ROBIN_MCP) Staking & Yield Distribution Contract",
-      "url": "https://github.com/aashu91/robinhood-evm-mcp/issues/2",
+      "id": "4903887586",
+      "title": "🏆 [Bounty: 50,000 $ROBIN_MCP] Integrate Pyth / Chainlink Oracles for Real-Time Gold & Silver Valuation",
+      "url": "https://github.com/aashu91/robinhood-evm-mcp/issues/1",
       "reward_amount": null,
       "reward_token": null,
       "deadline": null,
@@ -780,7 +761,7 @@
         "escrow_unverified",
         "payment_terms_require_review"
       ],
-      "summary": "### Objective Build a Solidity contract that allows users to stake the native launchpad token `$ROBIN_MCP` (`0xCFD635f82B75ab6c1a6725a54e9146FEe2c5A421`) and receive proportional rewards/yield from platform fees. ### Requirements 1. **Solid"
+      "summary": "### Objective We need to upgrade our `CommunityTrust` contract to support real-time price feeds for precious metal assets (like Gold and Silver) using Pyth Network or Chainlink Oracles. Currently, our gold/silver reserves use mock valuation"
     },
     {
       "provider": "github",
@@ -801,26 +782,6 @@
         "mirror_listing"
       ],
       "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/Senthemodder/solana-anchor-runtime/issues/1 ### 漏洞描述 / Description [Bounty: $1,500] Critical: Missing Account Ownership Validation in Anchor CPI Dispatcher ### Severity: Cr"
-    },
-    {
-      "provider": "github",
-      "id": "6004857118",
-      "title": "[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107",
-      "reward_amount": 100.0,
-      "reward_token": "USD",
-      "deadline": null,
-      "sponsor": "zhangjiayang6835-cyber",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review",
-        "mirror_listing"
-      ],
-      "summary": "### 赏金平台 / Platform GitHub ### 原始链接 / Source URL https://github.com/blake-guthrie/GLASS/issues/1 ### 漏洞描述 / Description USDC-quoted pairs not having the correct marketcap displayed in tools Fix this problem to get paid in fees of $100 ### 积"
     },
     {
       "provider": "github",

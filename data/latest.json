@@ -1,8 +1,26 @@
 {
   "generated_at": null,
   "tip_wallet": "DzXkCcqagBUBhf5xUpjVAUwVv6dhGM9GpLpjjQUqfxgx",
-  "opportunity_count": 45,
+  "opportunity_count": 46,
   "opportunities": [
+    {
+      "provider": "gibwork",
+      "id": "43a5993c-5df8-4938-a1b0-122e22d0af54",
+      "title": "Axzra Brand Outreach Challenge",
+      "url": "https://app.gib.work/tasks/43a5993c-5df8-4938-a1b0-122e22d0af54",
+      "reward_amount": 10.0,
+      "reward_token": "USDC",
+      "deadline": "2026-11-07T23:00:00.000Z",
+      "sponsor": "lucascrown",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "platform_account_required"
+      ],
+      "summary": "Your task is simple: Introduce Axzra to brands and explain what we’re building. How to Win: • The first participant to receive 5 positive responses from 5 different brands wins the entire $10. • You do not need to close a deal. You only nee"
+    },
     {
       "provider": "gibwork",
       "id": "6d2704d1-f041-4708-8610-f752d7ddcba5",
@@ -58,7 +76,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 15,155 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 15,171 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -138,7 +156,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,333 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,335 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -158,7 +176,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,333 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,335 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -178,7 +196,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 9,849 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 9,876 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "algora",
@@ -198,7 +216,7 @@
         "payment_profile_required",
         "bounty_status_requires_review"
       ],
-      "summary": "Official Algora announcement; repository has 2,333 GitHub stars. Confirm funding and claim status before starting."
+      "summary": "Official Algora announcement; repository has 2,335 GitHub stars. Confirm funding and claim status before starting."
     },
     {
       "provider": "gibwork",
@@ -220,27 +238,6 @@
         "social_account_likely_required"
       ],
       "summary": "This bounty invites participants to listen to or review today’s X Space and turn the key takeaways into a clear, engaging thread for their audience on X. The goal of this bounty is to create a high-quality summary thread that captures the m"
-    },
-    {
-      "provider": "gibwork",
-      "id": "7321f4fd-c2c5-42d2-8194-39a206546378",
-      "title": "Share How BASIS Changed for You Pick ONE angle",
-      "url": "https://app.gib.work/tasks/7321f4fd-c2c5-42d2-8194-39a206546378",
-      "reward_amount": 53.0,
-      "reward_token": "USDC",
-      "deadline": "2026-11-07T00:00:00.000Z",
-      "sponsor": "basis",
-      "category": "tasks",
-      "status": "CREATED",
-      "submission_mode": "platform_account",
-      "autonomous": false,
-      "risk_flags": [
-        "crowded_50_plus_pending",
-        "health_competitive",
-        "platform_account_required",
-        "social_account_likely_required"
-      ],
-      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how the experience changed for you since your first days on it. Pick ONE angle below and post your take on X: 1. The moment I sto"
     },
     {
       "provider": "algora",
@@ -304,6 +301,27 @@
         "low_signal_repository"
       ],
       "summary": "Official Algora announcement; repository has 0 GitHub stars. Confirm funding and claim status before starting."
+    },
+    {
+      "provider": "gibwork",
+      "id": "7321f4fd-c2c5-42d2-8194-39a206546378",
+      "title": "Share How BASIS Changed for You Pick ONE angle",
+      "url": "https://app.gib.work/tasks/7321f4fd-c2c5-42d2-8194-39a206546378",
+      "reward_amount": 4.0,
+      "reward_token": "USDC",
+      "deadline": "2026-11-07T00:00:00.000Z",
+      "sponsor": "basis",
+      "category": "tasks",
+      "status": "CREATED",
+      "submission_mode": "platform_account",
+      "autonomous": false,
+      "risk_flags": [
+        "crowded_50_plus_pending",
+        "health_competitive",
+        "platform_account_required",
+        "social_account_likely_required"
+      ],
+      "summary": "We want to hear from people using BASIS ( basis.pro ) the market-neutral yield platform from Base58 Labs about how the experience changed for you since your first days on it. Pick ONE angle below and post your take on X: 1. The moment I sto"
     },
     {
       "provider": "gibwork",
@@ -594,25 +612,6 @@
     },
     {
       "provider": "github",
-      "id": "5239001495",
-      "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 25",
-      "url": "https://github.com/NSPG13/agent-bounties/issues/1214",
-      "reward_amount": 3.0,
-      "reward_token": "USDC",
-      "deadline": null,
-      "sponsor": "NSPG13",
-      "category": "issue",
-      "status": "open",
-      "submission_mode": "maintainer_defined",
-      "autonomous": false,
-      "risk_flags": [
-        "escrow_unverified",
-        "payment_terms_require_review"
-      ],
-      "summary": "## Canonical bounty discovery Create and fund useful marketplace demand that settles canonically during the scoring window. Highest eligible externally funded GMV wins. - **Current work state:** `unavailable` - **Current payment state:** `e"
-    },
-    {
-      "provider": "github",
       "id": "5239002307",
       "title": "Generate qualifying GMV for Highest externally funded canonical GMV — daily August 27",
       "url": "https://github.com/NSPG13/agent-bounties/issues/1219",
@@ -667,6 +666,25 @@
         "payment_terms_require_review"
       ],
       "summary": "## Goal Add a small machine-readable and human-readable evidence checklist for direct coding bounties that binds the repository commit, benchmark/check run, artifact digest, and canonical settlement boundary. ## Acceptance criteria - The ch"
+    },
+    {
+      "provider": "github",
+      "id": "5004492674",
+      "title": "[DIRECT] Add MCP/API tool-registry drift coverage",
+      "url": "https://github.com/NSPG13/agent-bounties/issues/685",
+      "reward_amount": 2.0,
+      "reward_token": "USDC",
+      "deadline": null,
+      "sponsor": "NSPG13",
+      "category": "issue",
+      "status": "open",
+      "submission_mode": "maintainer_defined",
+      "autonomous": false,
+      "risk_flags": [
+        "escrow_unverified",
+        "payment_terms_require_review"
+      ],
+      "summary": "## Goal Add a deterministic compatibility test that compares the public MCP tool registry with the API discovery manifest and fails closed when a required read-only discovery or readiness tool is missing or renamed. ## Acceptance criteria -"
     },
     {
       "provider": "github",
